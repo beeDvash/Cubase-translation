@@ -1,0 +1,5494 @@
+# Cubase-translation
+פרויקט תרגום קיובייס לעברית של מתמחים טופ
+
+<String Key="Max. RMS">
+			<de>Max. Effektivwert</de>
+			<us>Max. RMS</us>
+			<es>Máx. RMS</es>
+			<fr>RMS max.</fr>
+			<it>RMS max.</it>
+			<jp>最大RMS</jp>
+			<pt>RMS máx.</pt>
+			<ru>Макс. RMS</ru>
+			<zh>最大 RMS</zh>
+		</String>
+
+		<String Key="Max. RMS All Channels">
+			<de>Max. Effektivwert für alle Kanäle</de>
+			<us>Max. RMS All Channels</us>
+			<es>Máx. RMS en todos los canales</es>
+			<fr>RMS max. toutes voies</fr>
+			<it>RMS max. di tutti i canali</it>
+			<jp>最大RMS全チャンネル</jp>
+			<pt>RMS máx. todos os canais</pt>
+			<ru>Макс. RMS для всех каналов</ru>
+			<zh>最大 RMS 所有通道</zh>
+		</String>
+
+		<String Key="Max. Sample Value">
+			<de>Max. Sample-Wert</de>
+			<us>Max. Sample Value</us>
+			<es>Máx. valor de muestra</es>
+			<fr>Valeur d'échantillon max.</fr>
+			<it>Valore del campione max.</it>
+			<jp>最大サンプル値</jp>
+			<pt>Valor máx. amostra</pt>
+			<ru>Макс. значение семпла</ru>
+			<zh>最大采样值</zh>
+		</String>
+
+		<String Key="Max. Short-Term Loudness">
+			<de>Max. kurzzeitig gemittelte Lautheit</de>
+			<us>Max. Short-Term Loudness</us>
+			<es>Máx. sonoridad corto plazo</es>
+			<fr>Loudness à court terme max.</fr>
+			<it>Intensità acustica a breve termine max.</it>
+			<jp>最大Short-Termラウドネス</jp>
+			<pt>Máximo loudness de curta duração</pt>
+			<ru>Макс. кратковременная громкость</ru>
+			<zh>最大短时响度</zh>
+		</String>
+
+		<String Key="Min. Sample Value">
+			<de>Min. Sample-Wert</de>
+			<us>Min. Sample Value</us>
+			<es>Mín. valor de muestra</es>
+			<fr>Valeur d'échantillon min.</fr>
+			<it>Valore del campione min.</it>
+			<jp>最低サンプル値</jp>
+			<pt>Valor mín. amostra</pt>
+			<ru>Мин. значение семпла</ru>
+			<zh>最小采样值</zh>
+		</String>
+
+		<String Key="Peak Amplitude">
+			<de>Spitzenamplitude</de>
+			<us>Peak Amplitude</us>
+			<es>Amplitud de pico</es>
+			<fr>Amplitude de crête</fr>
+			<it>Ampiezza del picco</it>
+			<jp>ピークアンプリチュード</jp>
+			<pt>Amplitude de pico</pt>
+			<ru>Пиковая амплитуда</ru>
+			<zh>峰值振幅</zh>
+		</String>
+
+		<String Key="True Peak">
+			<de>True Peak</de>
+			<us>True Peak</us>
+			<es>Pico verdadero</es>
+			<fr>Crête vraie</fr>
+			<it>Picco reale</it>
+			<jp>トゥルーピーク</jp>
+			<pt>Pico verdadeiro</pt>
+			<ru>Истинный пик</ru>
+			<zh>真峰值</zh>
+		</String>
+
+		<String Key="Apply">
+			<de>Übernehmen</de>
+			<us>Apply</us>
+			<es>Aplicar</es>
+			<fr>Appliquer</fr>
+			<it>Applica</it>
+			<jp>適用</jp>
+			<pt>Aplicar</pt>
+			<ru>Применить</ru>
+			<zh>应用</zh>
+		</String>
+
+		<String Key="Apply Default">
+			<de>Standardeinstellung verwenden</de>
+			<us>Apply Default</us>
+			<es>Usar configuración por defecto</es>
+			<fr>Utiliser paramètres par défaut</fr>
+			<it>Utilizza le impostazioni predefinite</it>
+			<jp>デフォルト値を適用</jp>
+			<pt>Aplicar padrão</pt>
+			<ru>Применить настройки по умолчанию</ru>
+			<zh>应用默认</zh>
+		</String>
+
+		<String Key="Apply Length">
+			<de>Länge anwenden</de>
+			<us>Apply Length</us>
+			<es>Aplicar duración</es>
+			<fr>Appliquer durée</fr>
+			<it>Applica durata</it>
+			<jp>長さを適用</jp>
+			<pt>Aplicar duração</pt>
+			<ru>Применить длину</ru>
+			<zh>应用长度</zh>
+		</String>
+
+		<String Key="As Default">
+			<de>Als Standard</de>
+			<us>As Default</us>
+			<es>Por defecto</es>
+			<fr>Par défaut</fr>
+			<it>Predefinito</it>
+			<jp>既定値に設定</jp>
+			<pt>Como padrão</pt>
+			<ru>Исп. по умолчан.</ru>
+			<zh>作为默认</zh>
+		</String>
+
+		<String Key="Audition">
+			<de>Wiedergabe</de>
+			<us>Audition</us>
+			<es>Escuchar</es>
+			<fr>Audition</fr>
+			<it>Ascolto</it>
+			<jp>試聴</jp>
+			<pt>Audição</pt>
+			<ru>Прослушивание</ru>
+			<zh>试听</zh>
+		</String>
+
+		<String Key="Audition Crossfade">
+			<de>Crossfade wiedergeben</de>
+			<us>Audition Crossfade</us>
+			<es>Escuchar fundido cruzado</es>
+			<fr>Audition du fondu enchaîné</fr>
+			<it>Anteprima della dissolvenza incrociata</it>
+			<jp>クロスフェードを試聴</jp>
+			<pt>Audição de fade cruzado</pt>
+			<ru>Прослушать кроссфейд</ru>
+			<zh>试听交叉淡化</zh>
+		</String>
+
+		<String Key="Audition Fade In">
+			<de>Fade-In wiedergeben</de>
+			<us>Audition Fade In</us>
+			<es>Escuchar fundido de entrada</es>
+			<fr>Audition du fondu d'entrée</fr>
+			<it>Anteprima del fade-in</it>
+			<jp>フェードインを試聴</jp>
+			<pt>Audição de fade-in</pt>
+			<ru>Прослушать входной фейд</ru>
+			<zh>试听淡入</zh>
+		</String>
+
+		<String Key="Audition Fade Out">
+			<de>Fade-Out wiedergeben</de>
+			<us>Audition Fade Out</us>
+			<es>Escuchar fundido de salida</es>
+			<fr>Audition du fondu de sortie</fr>
+			<it>Anteprima del fade-out</it>
+			<jp>フェードアウトを試聴</jp>
+			<pt>Audição de fade-out</pt>
+			<ru>Прослушать выходной фейд</ru>
+			<zh>试听淡出</zh>
+		</String>
+
+		<String Key="Auto Crossfades">
+			<de>Auto-Crossfades</de>
+			<us>Auto Crossfades</us>
+			<es>Fundidos cruzados auto.</es>
+			<fr>Fondus enchaînés auto.</fr>
+			<it>Dissolvenze incrociate autom.</it>
+			<jp>オートクロスフェード</jp>
+			<pt>Fadings cruzados automáticos</pt>
+			<ru>Автокроссфейды</ru>
+			<zh>自动交叉淡化</zh>
+		</String>
+
+		<String Key="Auto Fade In">
+			<de>Auto-Fade-In</de>
+			<us>Auto Fade In</us>
+			<es>Fundido de entrada auto.</es>
+			<fr>Fondu d'entrée auto.</fr>
+			<it>Fade-in autom.</it>
+			<jp>オートフェードイン</jp>
+			<pt>Fade In automático</pt>
+			<ru>Авто Вх.фейд</ru>
+			<zh>自动淡入</zh>
+		</String>
+
+		<String Key="Auto Fade Out">
+			<de>Auto-Fade-Out</de>
+			<us>Auto Fade Out</us>
+			<es>Fundido de salida auto.</es>
+			<fr>Fondu de sortie auto.</fr>
+			<it>Fade-out autom.</it>
+			<jp>オートフェードアウト</jp>
+			<pt>Fade Out automático</pt>
+			<ru>Авто Вых.фейд</ru>
+			<zh>自动淡出</zh>
+		</String>
+
+		<String Key="Auto Fades">
+			<de>Auto-Fades</de>
+			<us>Auto Fades</us>
+			<es>Fundidos auto.</es>
+			<fr>Fondus automatiques</fr>
+			<it>Dissolvenze autom.</it>
+			<jp>オートフェード</jp>
+			<pt>Fades automáticos</pt>
+			<ru>Авто фейды</ru>
+			<zh>自动淡化</zh>
+		</String>
+
+		<String Key="Auto Zoom">
+			<de>Auto-Zoom</de>
+			<us>Auto Zoom</us>
+			<es>Zoom auto.</es>
+			<fr>Zoom auto.</fr>
+			<it>Zoom autom.</it>
+			<jp>オートズーム</jp>
+			<pt>Zoom automático</pt>
+			<ru>Автомасштаб</ru>
+			<zh>自动缩放</zh>
+		</String>
+
+		<String Key="Auto-Scroll">
+			<de>Automatischer Bildlauf</de>
+			<us>Auto-Scroll</us>
+			<es>Desplazamiento auto.</es>
+			<fr>Défilement automatique</fr>
+			<it>Scorrimento automatico</it>
+			<jp>オートスクロール</jp>
+			<pt>Rolagem automática</pt>
+			<ru>Автопрокрутка</ru>
+			<zh>自动滚动</zh>
+		</String>
+
+		<String Key="Chaining Mode">
+			<de>Verkettungsmodus</de>
+			<us>Chaining Mode</us>
+			<es>Modo cadena</es>
+			<fr>Mode Enchaînement</fr>
+			<it>Modalità catena</it>
+			<jp>連結移動モード</jp>
+			<pt>Modo de encadeamento</pt>
+			<ru>Режим цепочки</ru>
+			<zh>链模式</zh>
+		</String>
+
+		<String Key="Crossfade">
+			<de>Crossfade</de>
+			<us>Crossfade</us>
+			<es>Fundido cruzado</es>
+			<fr>Fondu enchaîné</fr>
+			<it>Dissolvenza incrociata</it>
+			<jp>クロスフェード</jp>
+			<pt>Fade cruzado</pt>
+			<ru>Кроссфейд</ru>
+			<zh>交叉淡化</zh>
+		</String>
+
+		<String Key="Crossfades">
+			<de>Crossfades</de>
+			<us>Crossfades</us>
+			<es>Fundidos cruzados</es>
+			<fr>Fondus enchaînés</fr>
+			<it>Dissolvenze incrociate</it>
+			<jp>クロスフェード</jp>
+			<pt>Fadings cruzados</pt>
+			<ru>Кроссфейды</ru>
+			<zh>交叉淡化</zh>
+		</String>
+
+		<String Key="Curve Shape">
+			<de>Kurvenform</de>
+			<us>Curve Shape</us>
+			<es>Forma de curva</es>
+			<fr>Forme de la courbe</fr>
+			<it>Forma della curva</it>
+			<jp>カーブシェイプ</jp>
+			<pt>Formato da curva</pt>
+			<ru>Форма кривой</ru>
+			<zh>曲线形</zh>
+		</String>
+
+		<String Key="Curve Type: Damped Spline Interpolation">
+			<de>Kurvenart: Spline-Interpolation (Damped)</de>
+			<us>Curve Type: Damped Spline Interpolation</us>
+			<es>Tipo de curva: Interpolación spline (damped)</es>
+			<fr>Type de courbe : Interpolation spline atténuée</fr>
+			<it>Tipo di curva: Interpolazione spline attenuata</it>
+			<jp>カーブタイプ: 直線に近い曲線で補間</jp>
+			<pt>Tipo de curva: interpolação de spline amortecido</pt>
+			<ru>Тип кривой: сглаженная сплайновая интерполяция</ru>
+			<zh>曲线类型：阻尼样条差值</zh>
+		</String>
+
+		<String Key="Curve Type: Linear Interpolation">
+			<de>Kurvenart: Lineare Interpolation</de>
+			<us>Curve Type: Linear Interpolation</us>
+			<es>Tipo de curva: Interpolación lineal</es>
+			<fr>Type de courbe : Interpolation linéaire</fr>
+			<it>Tipo di curva: Interpolazione lineare</it>
+			<jp>カーブタイプ: 直線で補間</jp>
+			<pt>Tipo de curva: interpolação linear</pt>
+			<ru>Тип кривой: линейная интерполяция</ru>
+			<zh>曲线类型：线性差值</zh>
+		</String>
+
+		<String Key="Curve Type: Spline Interpolation">
+			<de>Kurvenart: Spline-Interpolation</de>
+			<us>Curve Type: Spline Interpolation</us>
+			<es>Tipo de curva: Interpolación spline</es>
+			<fr>Type de courbe : Interpolation spline</fr>
+			<it>Tipo di curva: Interpolazione spline</it>
+			<jp>カーブタイプ: スプライン曲線で補間</jp>
+			<pt>Tipo de curva: interpolação spline</pt>
+			<ru>Тип кривой: сплайновая интерполяция</ru>
+			<zh>曲线类型：样条差值</zh>
+		</String>
+
+		<String Key="Equal Gain">
+			<de>Konst. Amplit.</de>
+			<us>Equal Gain</us>
+			<es>Igual amplitud</es>
+			<fr>Gains égaux</fr>
+			<it>Stesso guadagno</it>
+			<jp>均等ゲイン</jp>
+			<pt>Ganho igual</pt>
+			<ru>Равное усиление</ru>
+			<zh>均等增益</zh>
+		</String>
+
+		<String Key="Equal Power">
+			<de>Konst. Leistung</de>
+			<us>Equal Power</us>
+			<es>Igual energía</es>
+			<fr>Énergies égales</fr>
+			<it>Stessa potenza</it>
+			<jp>均等パワー</jp>
+			<pt>Potência igual</pt>
+			<ru>Равная мощность</ru>
+			<zh>均等响度</zh>
+		</String>
+
+		<String Key="Fade In">
+			<de>Fade-In</de>
+			<us>Fade In</us>
+			<es>Fundido de entrada</es>
+			<fr>Fondu d'entrée</fr>
+			<it>Fade-in</it>
+			<jp>フェードイン</jp>
+			<pt>Fade In</pt>
+			<ru>Вх  фейд</ru>
+			<zh>淡入</zh>
+		</String>
+
+		<String Key="Fade Out">
+			<de>Fade-Out</de>
+			<us>Fade Out</us>
+			<es>Fundido de salida</es>
+			<fr>Fondu de sortie</fr>
+			<it>Fade-out</it>
+			<jp>フェードアウト</jp>
+			<pt>Fade Out</pt>
+			<ru>Вых  фейд</ru>
+			<zh>淡出</zh>
+		</String>
+
+		<String Key="Fades">
+			<de>Fades</de>
+			<us>Fades</us>
+			<es>Fundidos</es>
+			<fr>Fondus</fr>
+			<it>Dissolvenze</it>
+			<jp>フェード</jp>
+			<pt>Fades</pt>
+			<ru>Фейды</ru>
+			<zh>淡化</zh>
+		</String>
+
+		<String Key="Go to Next Fade">
+			<de>Zum nächsten Fade</de>
+			<us>Go to Next Fade</us>
+			<es>Ir al siguiente fundido</es>
+			<fr>Aller au prochain fondu</fr>
+			<it>Vai alla dissolvenza successiva</it>
+			<jp>次のフェードへ移動</jp>
+			<pt>Ir para o próximo fade</pt>
+			<ru>Перейти к следующему фейду</ru>
+			<zh>转到下一个淡化</zh>
+		</String>
+
+		<String Key="Go to Previous Fade">
+			<de>Zum vorherigen Fade</de>
+			<us>Go to Previous Fade</us>
+			<es>Ir al fundido anterior</es>
+			<fr>Aller au fondu précédent</fr>
+			<it>Vai alla dissolvenza precedente</it>
+			<jp>前のフェードへ移動</jp>
+			<pt>Ir para o fade anterior</pt>
+			<ru>Перейти к предыдущему фейду</ru>
+			<zh>转到上一个淡化</zh>
+		</String>
+
+		<String Key="Nudge">
+			<de>Kicker</de>
+			<us>Nudge</us>
+			<es>Empujar</es>
+			<fr>Décaler</fr>
+			<it>Spinta</it>
+			<jp>微調整</jp>
+			<pt>Deslocar</pt>
+			<ru>Сдвиг</ru>
+			<zh>微移</zh>
+		</String>
+
+		<String Key="Nudge Range">
+			<de>Kicker-Betrag</de>
+			<us>Nudge Range</us>
+			<es>Rango de empuje</es>
+			<fr>Intervalle de décalage</fr>
+			<it>Intervallo di spinta</it>
+			<jp>微調整の幅</jp>
+			<pt>Intervalo de deslocamento</pt>
+			<ru>Диапазон сдвига</ru>
+			<zh>微移范围</zh>
+		</String>
+
+		<String Key="Nudge: Move Audio">
+			<de>Kicker: Audio verschieben</de>
+			<us>Nudge: Move Audio</us>
+			<es>Empujar: Desplazar audio</es>
+			<fr>Décaler : Audio</fr>
+			<it>Spinta: Sposta l'audio</it>
+			<jp>微調整: オーディオを移動</jp>
+			<pt>Deslocar: mover áudio</pt>
+			<ru>Сдвиг: переместить аудио</ru>
+			<zh>微移：移动音频</zh>
+		</String>
+
+		<String Key="Nudge: Move Fade">
+			<de>Kicker: Fade verschieben</de>
+			<us>Nudge: Move Fade</us>
+			<es>Empujar: Desplazar fundido</es>
+			<fr>Décaler : Fondu</fr>
+			<it>Spinta: Sposta la dissolvenza</it>
+			<jp>微調整: フェードを移動</jp>
+			<pt>Deslocar: mover fade</pt>
+			<ru>Сдвиг: переместить фейд</ru>
+			<zh>微移：移动淡化</zh>
+		</String>
+
+		<String Key="Overlap">
+			<de>Überlappung</de>
+			<us>Overlap</us>
+			<es>Solapado</es>
+			<fr>Chevauch.</fr>
+			<it>Sovrapp.</it>
+			<jp>オーバーラップ</jp>
+			<pt>Sobrepor</pt>
+			<ru>Перекрытие</ru>
+			<zh>重叠</zh>
+		</String>
+
+		<String Key="Post-roll">
+			<de>Postroll</de>
+			<us>Post-roll</us>
+			<es>Post-roll</es>
+			<fr>Post-roll</fr>
+			<it>Post-roll</it>
+			<jp>ポストロール</jp>
+			<pt>Post-roll</pt>
+			<ru>Пост-ролл</ru>
+			<zh>后卷</zh>
+		</String>
+
+		<String Key="Post-roll Amount">
+			<de>Postroll-Wert</de>
+			<us>Post-roll Amount</us>
+			<es>Valor de post-roll</es>
+			<fr>Valeur Post-Roll</fr>
+			<it>Valore post-roll</it>
+			<jp>ポストロール時間</jp>
+			<pt>Quantidade Post-roll</pt>
+			<ru>Значение пост-ролл</ru>
+			<zh>后卷量</zh>
+		</String>
+
+		<String Key="Pre-roll">
+			<de>Preroll</de>
+			<us>Pre-roll</us>
+			<es>Pre-roll</es>
+			<fr>Pre-roll</fr>
+			<it>Pre-roll</it>
+			<jp>プリロール</jp>
+			<pt>Pre-roll</pt>
+			<ru>Пре-ролл</ru>
+			<zh>预卷</zh>
+		</String>
+
+		<String Key="Pre-roll Amount">
+			<de>Preroll-Wert</de>
+			<us>Pre-roll Amount</us>
+			<es>Valor de pre-roll</es>
+			<fr>Valeur Pre-Roll</fr>
+			<it>Valore pre-roll</it>
+			<jp>プリロール時間</jp>
+			<pt>Quantidade Pre-roll</pt>
+			<ru>Значение пре-ролл</ru>
+			<zh>预卷量</zh>
+		</String>
+
+		<String Key="Project Selection Follows Fade">
+			<de>Auswahl folgt Fade</de>
+			<us>Project Selection Follows Fade</us>
+			<es>Selección de proyecto sigue a fundido</es>
+			<fr>La sélection suit le fondu</fr>
+			<it>La selezione nel progetto segue la dissolvenza</it>
+			<jp>プロジェクト上の選択をフェードに追従させる</jp>
+			<pt>Seleção do projeto acompanha fade</pt>
+			<ru>Выделение в проекте следует фейду</ru>
+			<zh>工程选择跟随淡化</zh>
+		</String>
+
+		<String Key="Restore">
+			<de>Wiederherstellen</de>
+			<us>Restore</us>
+			<es>Restablecer</es>
+			<fr>Rétablir</fr>
+			<it>Ripristina</it>
+			<jp>元に戻す</jp>
+			<pt>Restaurar</pt>
+			<ru>Восстановить</ru>
+			<zh>还原</zh>
+		</String>
+
+		<String Key="Select Crossfade">
+			<de>Crossfade auswählen</de>
+			<us>Select Crossfade</us>
+			<es>Sel. fundido cruzado</es>
+			<fr>Sél. fondu enchaîné</fr>
+			<it>Sel. dissolv. incrociata</it>
+			<jp>ｸﾛｽﾌｪｰﾄﾞ部分を選択</jp>
+			<pt>Selecionar fade cruzado</pt>
+			<ru>Выбрать кроссфейд</ru>
+			<zh>选择交叉淡化</zh>
+		</String>
+
+		<String Key="Splice Point Offset">
+			<de>Splice-Punkt-Versatz</de>
+			<us>Splice Point Offset</us>
+			<es>Desplazamiento</es>
+			<fr>Décalage</fr>
+			<it>Scostamento</it>
+			<jp>接合ﾎﾟｲﾝﾄのｵﾌｾｯﾄ</jp>
+			<pt>Deslocamento do ponto de união</pt>
+			<ru>Сдвиг места соединения</ru>
+			<zh>接合点偏移</zh>
+		</String>
+
+		<String Key="Symmetric Fades">
+			<de>Symmetrische Fades</de>
+			<us>Symmetric Fades</us>
+			<es>Fund. simétricos</es>
+			<fr>Fondus symétriques</fr>
+			<it>Dissolvenze simmetriche</it>
+			<jp>ﾌｪｰﾄﾞを対称に</jp>
+			<pt>Fades simétricos</pt>
+			<ru>Симметричные фейды</ru>
+			<zh>对称淡化</zh>
+		</String>
+
+		<String Key="Use Post-roll">
+			<de>Postroll verwenden</de>
+			<us>Use Post-roll</us>
+			<es>Usar post-roll</es>
+			<fr>Utiliser Post-Roll</fr>
+			<it>Usa post-roll</it>
+			<jp>ポストロールを使用</jp>
+			<pt>Usar Pós-roll</pt>
+			<ru>Использовать пост-ролл</ru>
+			<zh>使用后卷</zh>
+		</String>
+
+		<String Key="Use Pre-roll">
+			<de>Preroll verwenden</de>
+			<us>Use Pre-roll</us>
+			<es>Usar pre-roll</es>
+			<fr>Utiliser Pre-Roll</fr>
+			<it>Usa pre-roll</it>
+			<jp>プリロールを使用</jp>
+			<pt>Usar Pré-roll</pt>
+			<ru>Использовать пре-ролл</ru>
+			<zh>使用预卷</zh>
+		</String>
+
+		<String Key="Use Project Settings">
+			<de>Projekteinstellungen verwenden</de>
+			<us>Use Project Settings</us>
+			<es>Usar la configuración del proyecto</es>
+			<fr>Utiliser les paramètres du projet</fr>
+			<it>Usa la configurazione del progetto</it>
+			<jp>プロジェクト設定を使用</jp>
+			<pt>Usar configurações do projeto</pt>
+			<ru>Использовать установки проекта</ru>
+			<zh>使用工程设置</zh>
+		</String>
+
+		<String Key="Volume">
+			<de>Lautstärke</de>
+			<us>ווליום</us>
+			<es>Volumen</es>
+			<fr>Volume</fr>
+			<it>Volume</it>
+			<jp>ボリューム</jp>
+			<pt>Volume</pt>
+			<ru>Громкость</ru>
+			<zh>音量</zh>
+		</String>
+
+		<String Key="Zoom to Fade">
+			<de>Zum Fade vergrößern/verkleinern</de>
+			<us>Zoom to Fade</us>
+			<es>Zoom al fundido</es>
+			<fr>Zoomer sur le fondu</fr>
+			<it>Zoom sulla dissolvenza</it>
+			<jp>フェード範囲に合わせてズーム</jp>
+			<pt>Zoom para Fade</pt>
+			<ru>Увеличить по фейду</ru>
+			<zh>缩放到淡化</zh>
+		</String>
+
+		<String Key="Add MIDI Device">
+			<de>MIDI-Gerät hinzufügen</de>
+			<us>Add MIDI Device</us>
+			<es>Añadir dispositivo MIDI</es>
+			<fr>Ajouter périphérique MIDI</fr>
+			<it>Aggiungi periferica MIDI</it>
+			<jp>MIDI デバイスの追加</jp>
+			<pt>Adicionar dispositivo MIDI</pt>
+			<ru>Добавить MIDI устройство</ru>
+			<zh>添加 MIDI 设备</zh>
+		</String>
+
+		<String Key="Add Multiple Presets">
+			<de>Mehrere Presets hinzufügen</de>
+			<us>Add Multiple Presets</us>
+			<es>Añadir múltiples presets</es>
+			<fr>Ajouter plusieurs préréglages</fr>
+			<it>Aggiungi più preset</it>
+			<jp>複数のプリセットを追加</jp>
+			<pt>Adicionar vários presets</pt>
+			<ru>Добавить несколько пресетов</ru>
+			<zh>添加多个预置</zh>
+		</String>
+
+		<String Key="Aftertouch">
+			<de>Aftertouch</de>
+			<us>Aftertouch</us>
+			<es>Aftertouch</es>
+			<fr>Aftertouch</fr>
+			<it>Aftertouch</it>
+			<jp>アフタータッチ</jp>
+			<pt>Aftertouch</pt>
+			<ru>Послекасание</ru>
+			<zh>触后</zh>
+		</String>
+
+		<String Key="Bank Assignment">
+			<de>Bank-Zuweisung</de>
+			<us>Bank Assignment</us>
+			<es>Asignación de banco</es>
+			<fr>Assignat. banque</fr>
+			<it>Assegnazione del banco</it>
+			<jp>バンクの割り当て</jp>
+			<pt>Atribuição de banco</pt>
+			<ru>Назначение Банка</ru>
+			<zh>音色库分配</zh>
+		</String>
+
+		<String Key="CC01 : Modulation">
+			<de>CC01 : Modulation</de>
+			<us>CC01 : Modulation</us>
+			<es>CC01 : Modulation</es>
+			<fr>CC01 : Modulation</fr>
+			<it>CC01 : Modulation</it>
+			<jp>CC01:モジュレーション</jp>
+			<pt>CC01 : Modulação</pt>
+			<ru>CC01 : Модуляция</ru>
+			<zh>CC01 : Modulation</zh>
+		</String>
+
+		<String Key="CC07 : Volume">
+			<de>CC07 : Volume</de>
+			<us>CC07 : Volume</us>
+			<es>CC07 : Volume</es>
+			<fr>CC07 : Volume</fr>
+			<it>CC07 : Volume</it>
+			<jp>CC07:ボリューム</jp>
+			<pt>CC07 : Volume</pt>
+			<ru>CC07 : Громкость</ru>
+			<zh>CC07 : Volume</zh>
+		</String>
+
+		<String Key="CC10 : Pan">
+			<de>CC10 : Pan</de>
+			<us>CC10 : Pan</us>
+			<es>CC10 : Pan</es>
+			<fr>CC10 : Pan</fr>
+			<it>CC10 : Pan</it>
+			<jp>CC10:パン</jp>
+			<pt>CC10 : Pan</pt>
+			<ru>CC10 : Панорама</ru>
+			<zh>CC10 : Pan</zh>
+		</String>
+
+		<String Key="CC64 : Sustain">
+			<de>CC64 : Sustain</de>
+			<us>CC64 : Sustain</us>
+			<es>CC64 : Sustain</es>
+			<fr>CC64 : Sustain</fr>
+			<it>CC64 : Sustain</it>
+			<jp>CC64:サステイン</jp>
+			<pt>CC64 : Sustentação</pt>
+			<ru>CC64 : Сустейн</ru>
+			<zh>CC64 : Sustain</zh>
+		</String>
+
+		<String Key="Channel Parameters">
+			<de>Kanalparameter</de>
+			<us>Channel Parameters</us>
+			<es>Parámetros de canal</es>
+			<fr>Paramètres de voie</fr>
+			<it>Parametri del canale</it>
+			<jp>チャンネルパラメーター</jp>
+			<pt>Parâmetros do canal</pt>
+			<ru>Параметры канала</ru>
+			<zh>通道参数</zh>
+		</String>
+
+		<String Key="Channel Preset Type">
+			<de>Kanal-Presettyp</de>
+			<us>Channel Preset Type</us>
+			<es>Tipo de preset de canal</es>
+			<fr>Type de préréglage de voie</fr>
+			<it>Tipo di preset dei canali</it>
+			<jp>チャンネルプリセットのタイプ</jp>
+			<pt>Tipo de preset de canal</pt>
+			<ru>Тип пресета канала</ru>
+			<zh>通道预置类型</zh>
+		</String>
+
+		<String Key="Create New MIDI Device">
+			<de>Neues MIDI-Gerät erzeugen</de>
+			<us>Create New MIDI Device</us>
+			<es>Crear nuevo dispositivo MIDI</es>
+			<fr>Créer nouveau périphérique MIDI</fr>
+			<it>Crea una nuova periferica MIDI</it>
+			<jp>新規 MIDI デバイスを作成</jp>
+			<pt>Criar novo dispositivo MIDI</pt>
+			<ru>Создать новое MIDI устройство</ru>
+			<zh>创建新 MIDI 设备</zh>
+		</String>
+
+		<String Key="Default Name">
+			<de>Standard-Name</de>
+			<us>Default Name</us>
+			<es>Nombre por defecto</es>
+			<fr>Nom par défaut</fr>
+			<it>Nome predefinito</it>
+			<jp>デフォルト名</jp>
+			<pt>Nome padrão</pt>
+			<ru>Название по умолчанию</ru>
+			<zh>默认名称</zh>
+		</String>
+
+		<String Key="Devices">
+			<de>Geräte</de>
+			<us>Devices</us>
+			<es>Dispositivos</es>
+			<fr>Périphériques</fr>
+			<it>Periferiche</it>
+			<jp>デバイス</jp>
+			<pt>Dispositivos</pt>
+			<ru>Оборудование</ru>
+			<zh>设备</zh>
+		</String>
+
+		<String Key="Edit Bank Assignment">
+			<de>Bank-Zuweisung bearbeiten</de>
+			<us>Edit Bank Assignment</us>
+			<es>Editar asignación de banco</es>
+			<fr>Éditer l'assignation de banque</fr>
+			<it>Modifica l'assegnazione del banco</it>
+			<jp>バンクの割り当てを編集</jp>
+			<pt>Editar atribuição de banco</pt>
+			<ru>Редактировать назначение банка</ru>
+			<zh>编辑音色库分配</zh>
+		</String>
+
+		<String Key="Edit Patch Banks">
+			<de>Patch-Bänke bearbeiten</de>
+			<us>Edit Patch Banks</us>
+			<es>Editar bancos de parches</es>
+			<fr>Éditer les banques de patchs</fr>
+			<it>Modifica i banchi di patch</it>
+			<jp>パッチバンクを編集</jp>
+			<pt>Editar bancos de patch</pt>
+			<ru>Редактировать банки патчей</ru>
+			<zh>编辑音色库</zh>
+		</String>
+
+		<String Key="Export Setup">
+			<de>Einstellungen exportieren</de>
+			<us>Export Setup</us>
+			<es>Exportar configuración</es>
+			<fr>Exporter configuration</fr>
+			<it>Esporta la configurazione</it>
+			<jp>設定の書き出し</jp>
+			<pt>Configuração de exportação</pt>
+			<ru>Экспорт настроек</ru>
+			<zh>导出设置</zh>
+		</String>
+
+		<String Key="Fetch Device State">
+			<de>Gerätestatus abrufen</de>
+			<us>Fetch Device State</us>
+			<es>Obtener estado del dispositivo</es>
+			<fr>Récupérer le statut du périphérique</fr>
+			<it>Recupera lo stato del dispositivo</it>
+			<jp>デバイス状態を取り出す</jp>
+			<pt>Estado de busca de dispositivo</pt>
+			<ru>Получить состояние устройства</ru>
+			<zh>获取设备状态</zh>
+		</String>
+
+		<String Key="Global Preset Type">
+			<de>Globaler Preset-Typ</de>
+			<us>Global Preset Type</us>
+			<es>Tipo de preset global</es>
+			<fr>Type de préréglage global</fr>
+			<it>Tipo di preset globale</it>
+			<jp>グローバルプリセットのタイプ</jp>
+			<pt>Tipo de preset global</pt>
+			<ru>Тип глобального пресета</ru>
+			<zh>全局预置类型</zh>
+		</String>
+
+		<String Key="Global Settings">
+			<de>Globale Einstellungen</de>
+			<us>Global Settings</us>
+			<es>Configuraciones globales</es>
+			<fr>Paramètres globaux</fr>
+			<it>Impostazioni globali</it>
+			<jp>全般設定</jp>
+			<pt>Configurações globais</pt>
+			<ru>Глобальные настройки</ru>
+			<zh>全局设置</zh>
+		</String>
+
+		<String Key="Identical Channels">
+			<de>Gleiche Kanäle</de>
+			<us>Identical Channels</us>
+			<es>Canales idénticos</es>
+			<fr>Voies identiques</fr>
+			<it>Canali identici</it>
+			<jp>識別チャンネル</jp>
+			<pt>Canais idênticos</pt>
+			<ru>Одинаковые каналы</ru>
+			<zh>识别通道</zh>
+		</String>
+
+		<String Key="Import Setup">
+			<de>Einstellungen importieren</de>
+			<us>Import Setup</us>
+			<es>Importar configuración</es>
+			<fr>Importer configuration</fr>
+			<it>Importa configurazione</it>
+			<jp>設定の読み込み</jp>
+			<pt>Importar configuração</pt>
+			<ru>Импорт настроек</ru>
+			<zh>导入设置</zh>
+		</String>
+
+		<String Key="Individual Channels">
+			<de>Einzelne Kanäle</de>
+			<us>Individual Channels</us>
+			<es>Canales individuales</es>
+			<fr>Voies séparées</fr>
+			<it>Canali individuali</it>
+			<jp>個別チャンネル</jp>
+			<pt>Canais individuais</pt>
+			<ru>Индивидуальные каналы</ru>
+			<zh>独立通道</zh>
+		</String>
+
+		<String Key="Install Device">
+			<de>Gerät installieren</de>
+			<us>Install Device</us>
+			<es>Instalar dispositivo</es>
+			<fr>Installer périphérique</fr>
+			<it>Installa periferica</it>
+			<jp>デバイスのインストール</jp>
+			<pt>Instalar dispositivo</pt>
+			<ru>Установить устройство</ru>
+			<zh>安装设备</zh>
+		</String>
+
+		<String Key="MIDI Device Manager">
+			<de>MIDI-Geräte-Verwaltung</de>
+			<us>MIDI Device Manager</us>
+			<es>Gestor de dispositivos MIDI</es>
+			<fr>Gestionnaire de périphériques MIDI</fr>
+			<it>Gestione dei dispositivi MIDI</it>
+			<jp>MIDI デバイスマネージャー</jp>
+			<pt>Gerenciador de dispositivos MIDI</pt>
+			<ru>Менеджер MIDI устройств</ru>
+			<zh>MIDI 设备管理器</zh>
+		</String>
+
+		<String Key="Open Device">
+			<de>Gerät öffnen</de>
+			<us>Open Device</us>
+			<es>Abrir dispositivo</es>
+			<fr>Ouvrir périphérique</fr>
+			<it>Apri periferica</it>
+			<jp>デバイスを開く</jp>
+			<pt>Abrir dispositivo</pt>
+			<ru>Открыть устройство</ru>
+			<zh>打开设备</zh>
+		</String>
+
+		<String Key="Patch Banks">
+			<de>Patch-Bänke</de>
+			<us>Patch Banks</us>
+			<es>Bancos de patch</es>
+			<fr>Banques de patchs</fr>
+			<it>Banchi di patch</it>
+			<jp>パッチバンク</jp>
+			<pt>Bancos de patch</pt>
+			<ru>Банки патчей</ru>
+			<zh>音色库</zh>
+		</String>
+
+		<String Key="Pitchbend">
+			<de>Pitchbend</de>
+			<us>Pitchbend</us>
+			<es>Pitchbend</es>
+			<fr>Pitchbend</fr>
+			<it>Pitchbend</it>
+			<jp>ピッチベンド</jp>
+			<pt>Pitchbend</pt>
+			<ru>Колесо высоты тона</ru>
+			<zh>弯音</zh>
+		</String>
+
+		<String Key="Preset Reference">
+			<de>Verweis-Preset</de>
+			<us>Preset Reference</us>
+			<es>Preset de referencia</es>
+			<fr>Référence de préréglage</fr>
+			<it>Riferimento del preset</it>
+			<jp>プリセットの参照先</jp>
+			<pt>Referência de preset</pt>
+			<ru>Ссылка на пресет</ru>
+			<zh>预置参考</zh>
+		</String>
+
+		<String Key="Recall Device State">
+			<de>Gerätestatus wiederherstellen</de>
+			<us>Recall Device State</us>
+			<es>Recuperar estado del dispositivo</es>
+			<fr>Recharger le statut du périphérique</fr>
+			<it>Richiama lo stato del dispositivo</it>
+			<jp>デバイス状態をリコール</jp>
+			<pt>Estado de chamada de dispositivo</pt>
+			<ru>Восстановить состояние устройства</ru>
+			<zh>调用设备状态</zh>
+		</String>
+
+		<String Key="Remove Device">
+			<de>Gerät entfernen</de>
+			<us>Remove Device</us>
+			<es>Eliminar dispositivo</es>
+			<fr>Retirer périphérique</fr>
+			<it>Rimuovi periferica</it>
+			<jp>デバイスの削除</jp>
+			<pt>Remover dispositivo</pt>
+			<ru>Удалить устройство</ru>
+			<zh>移除设备</zh>
+		</String>
+
+		<String Key="Selected Device">
+			<de>Ausgewähltes Gerät</de>
+			<us>Selected Device</us>
+			<es>Dispositivo seleccionado</es>
+			<fr>Périphérique sélectionné</fr>
+			<it>Periferica selezionata</it>
+			<jp>選択されたデバイス</jp>
+			<pt>Dispositivo selecionado</pt>
+			<ru>Выбранное устройство</ru>
+			<zh>选定设备</zh>
+		</String>
+
+		<String Key="Snapshots">
+			<de>Snapshots</de>
+			<us>Snapshots</us>
+			<es>Instantáneas</es>
+			<fr>Instantanés</fr>
+			<it>Istantanee</it>
+			<jp>スナップショット</jp>
+			<pt>Instantâneos</pt>
+			<ru>Снимки</ru>
+			<zh>快照</zh>
+		</String>
+
+		<String Key="SysEx Parameters">
+			<de>SysEx-Parameter</de>
+			<us>SysEx Parameters</us>
+			<es>Parámetros SysEx</es>
+			<fr>Paramètres SysEx</fr>
+			<it>Parametri SysEx</it>
+			<jp>SysExパラメーター</jp>
+			<pt>Parâmetros de SysEx</pt>
+			<ru>Параметры SysEx</ru>
+			<zh>SysEx 参数</zh>
+		</String>
+
+		<String Key="Add Mapping Page">
+			<de>Zuweisungen-Seite hinzufügen</de>
+			<us>Add Mapping Page</us>
+			<es>Añadir página de mapeado</es>
+			<fr>Ajouter une page d'assignation</fr>
+			<it>Aggiungi una pagina di mappatura</it>
+			<jp>マッピングページを追加</jp>
+			<pt>Adicionar página de mapeamento</pt>
+			<ru>Добавить страницу назначения</ru>
+			<zh>添加映射页面</zh>
+		</String>
+
+		<String Key="All Messages">
+			<de>Alle Befehle</de>
+			<us>All Messages</us>
+			<es>Todos los mensajes</es>
+			<fr>Tous les messages</fr>
+			<it>Tutti i messaggi</it>
+			<jp>すべてのメッセージ</jp>
+			<pt>Todas as mensagens</pt>
+			<ru>Все сообщения</ru>
+			<zh>所有信息</zh>
+		</String>
+
+		<String Key="Apply Mapping">
+			<de>Zuweisung anwenden</de>
+			<us>Apply Mapping</us>
+			<es>Aplicar mapeado</es>
+			<fr>Appliquer l'assignation</fr>
+			<it>Applica mappatura</it>
+			<jp>マッピングを適用</jp>
+			<pt>Aplicar mapeamento</pt>
+			<ru>Применить назначение</ru>
+			<zh>应用映射</zh>
+		</String>
+
+		<String Key="Clear All Messages">
+			<de>Alle Nachrichten entfernen</de>
+			<us>Clear All Messages</us>
+			<es>Borrar todos los mensajes</es>
+			<fr>Effacer tous les messages</fr>
+			<it>Cancella tutti i messaggi</it>
+			<jp>すべてのメッセージをクリア</jp>
+			<pt>Limpar todas as mensagens</pt>
+			<ru>Стереть все сообщения</ru>
+			<zh>清除所有信息</zh>
+		</String>
+
+		<String Key="Delete Page">
+			<de>Seite löschen</de>
+			<us>מחק דף</us>
+			<es>Suprimir página</es>
+			<fr>Supprimer la page</fr>
+			<it>Elimina pagina</it>
+			<jp>ページを削除</jp>
+			<pt>Excluir página</pt>
+			<ru>Удалить страницу</ru>
+			<zh>删除页面</zh>
+		</String>
+
+		<String Key="Different Mapping Types selected">
+			<de>Unterschiedliche Zuweisungsarten ausgewählt</de>
+			<us>Different Mapping Types selected</us>
+			<es>Diferentes tipos de mapeado seleccionados</es>
+			<fr>Les types d'assignations sélectionnés sont différents</fr>
+			<it>Diversi tipi di mappatura selezionati</it>
+			<jp>異なるマッピングタイプが選択されています</jp>
+			<pt>Tipos diferentes de mapeamento selecionados</pt>
+			<ru>Выбраны разные типы назначения</ru>
+			<zh>不同映射类型被选择</zh>
+		</String>
+
+		<String Key="Do you really want to delete the Page?">
+			<de>Möchten Sie diese Seite wirklich löschen?</de>
+			<us>Do you really want to delete the Page?</us>
+			<es>¿Realmente desea borrar la página?</es>
+			<fr>Souhaitez-vous vraiment supprimer la page ?</fr>
+			<it>Eliminare la pagina?</it>
+			<jp>ページを削除しますか？</jp>
+			<pt>Deseja excluir a página?</pt>
+			<ru>Вы хотите удалить страницу?</ru>
+			<zh>你真的想删除页面吗？</zh>
+		</String>
+
+		<String Key="Error Messages">
+			<de>Fehlermeldungen</de>
+			<us>Error Messages</us>
+			<es>Mensajes de error</es>
+			<fr>Messages d'erreur</fr>
+			<it>Messaggi di errore</it>
+			<jp>エラーメッセージ</jp>
+			<pt>Mensagens de erro</pt>
+			<ru>Сообщения об ошибке</ru>
+			<zh>错误信息</zh>
+		</String>
+
+		<String Key="Functions Browser">
+			<de>Funktionen-Browser</de>
+			<us>Functions Browser</us>
+			<es>Explorador de funciones</es>
+			<fr>Explorateur de fonctions</fr>
+			<it>Browser delle funzioni</it>
+			<jp>機能ブラウザー</jp>
+			<pt>Navegador de funções</pt>
+			<ru>Браузер функций</ru>
+			<zh>功能浏览器</zh>
+		</String>
+
+		<String Key="Invert Minimum and Maximum">
+			<de>Minimum und Maximum invertieren</de>
+			<us>Invert Minimum and Maximum</us>
+			<es>Invertir mínimo y máximo</es>
+			<fr>Inverser le minimum et le maximum</fr>
+			<it>Inverti minimo e massimo</it>
+			<jp>最少値と最大値を反転</jp>
+			<pt>Inverter mínimo e máximo</pt>
+			<ru>Инвертировать минимум и максимум</ru>
+			<zh>倒置最小和最大</zh>
+		</String>
+
+		<String Key="Log Messages">
+			<de>Log-Nachrichten</de>
+			<us>Log Messages</us>
+			<es>Mensajes de registro</es>
+			<fr>Messages du journal</fr>
+			<it>Messaggi di registro</it>
+			<jp>ログメッセージ</jp>
+			<pt>Mensagens de log</pt>
+			<ru>Регистрировать сообщения в журнале</ru>
+			<zh>日志消息</zh>
+		</String>
+
+		<String Key="MIDI Controller">
+			<de>MIDI-Controller</de>
+			<us>MIDI Controller</us>
+			<es>Controlador MIDI</es>
+			<fr>Contrôleur MIDI</fr>
+			<it>Controller MIDI</it>
+			<jp>MIDI コントローラー</jp>
+			<pt>Controlador MIDI</pt>
+			<ru>MIDI контроллер</ru>
+			<zh>MIDI 控制器</zh>
+		</String>
+
+		<String Key="MIDI Controller Scripts">
+			<de>MIDI Controller-Skripte</de>
+			<us>MIDI Controller Scripts</us>
+			<es>Scripts de controlador MIDI</es>
+			<fr>Scripts de contrôleurs MIDI</fr>
+			<it>Script del controller MIDI</it>
+			<jp>MIDI コントローラースクリプト</jp>
+			<pt>Scripts de controlador MIDI</pt>
+			<ru>Скрипты MIDI контроллера</ru>
+			<zh>MIDI 控制器脚本</zh>
+		</String>
+
+		<String Key="MIDI Input Learn">
+			<de>MIDI-Eingang lernen</de>
+			<us>MIDI Input Learn</us>
+			<es>Aprender entrada MIDI</es>
+			<fr>Acquisition de l'entrée MIDI</fr>
+			<it>Apprendimento dell'ingresso MIDI</it>
+			<jp>MIDI 入力の学習</jp>
+			<pt>Aprender entrada MIDI</pt>
+			<ru>Обучение с MIDI входа</ru>
+			<zh>MIDI 输入学习</zh>
+		</String>
+
+		<String Key="MIDI Input Ports">
+			<de>MIDI-Eingangsanschlüsse</de>
+			<us>MIDI Input Ports</us>
+			<es>Puertos de entrada MIDI</es>
+			<fr>Ports d'entrée MIDI</fr>
+			<it>Porte di ingresso MIDI</it>
+			<jp>MIDI 入力ポート</jp>
+			<pt>Portas de entrada MIDI</pt>
+			<ru>Входные MIDI порты</ru>
+			<zh>MIDI 输入端口</zh>
+		</String>
+
+		<String Key="MIDI Output Ports">
+			<de>MIDI-Ausgangsanschlüsse</de>
+			<us>MIDI Output Ports</us>
+			<es>Puertos de salida MIDI</es>
+			<fr>Ports de sortie MIDI</fr>
+			<it>Porte di uscita MIDI</it>
+			<jp>MIDI 出力ポート</jp>
+			<pt>Portas de saída MIDI</pt>
+			<ru>Выходные MIDI порты</ru>
+			<zh>MIDI 输出端口</zh>
+		</String>
+
+		<String Key="MIDI Ports">
+			<de>MIDI-Anschlüsse</de>
+			<us>MIDI Ports</us>
+			<es>Puertos MIDI</es>
+			<fr>Ports MIDI</fr>
+			<it>Porte MIDI</it>
+			<jp>MIDI ポート</jp>
+			<pt>Portas MIDI</pt>
+			<ru>MIDI порты</ru>
+			<zh>MIDI 端口</zh>
+		</String>
+
+		<String Key="MIDI Remote Device">
+			<de>MIDI Remote-Gerät</de>
+			<us>MIDI Remote Device</us>
+			<es>Dispositivo MIDI Remote</es>
+			<fr>Périphérique MIDI Remote</fr>
+			<it>Dispositivo MIDI Remote</it>
+			<jp>MIDI Remote デバイス</jp>
+			<pt>Dispositivo MIDI Remote</pt>
+			<ru>Устройство дистанционного управления MIDI</ru>
+			<zh>MIDI 外挂设备</zh>
+		</String>
+
+		<String Key="MIDI Remote Mapping Assistant">
+			<de>MIDI Remote-Zuweisungsassistent</de>
+			<us>MIDI Remote Mapping Assistant</us>
+			<es>Asistente de mapeado MIDI Remote</es>
+			<fr>Assistant d'assignation MIDI Remote</fr>
+			<it>Assistente di mappatura MIDI Remote</it>
+			<jp>MIDI Remote マッピングアシスタント</jp>
+			<pt>Assistente de mapeamento de MIDI Remote</pt>
+			<ru>Помощник назначения устройств дистанционного управления MIDI</ru>
+			<zh>MIDI 外挂映射助手</zh>
+		</String>
+
+		<String Key="MIDI Remote Script Console">
+			<de>MIDI Remote-Skriptkonsole</de>
+			<us>MIDI Remote Script Console</us>
+			<es>Consola de scripts MIDI Remote</es>
+			<fr>Console de scripts MIDI Remote</fr>
+			<it>Console di script MIDI Remote</it>
+			<jp>MIDI Remote スクリプトコンソール</jp>
+			<pt>Console de script MIDI Remote</pt>
+			<ru>Консоль скриптов дистанционного управления MIDI</ru>
+			<zh>MIDI 外挂脚本控制台</zh>
+		</String>
+
+		<String Key="Mapping Assistant">
+			<de>Zuweisungsassistent</de>
+			<us>Mapping Assistant</us>
+			<es>Asistente de mapeado</es>
+			<fr>Assistant d'assignation</fr>
+			<it>Assistente di mappatura</it>
+			<jp>マッピングアシスタント</jp>
+			<pt>Assistente de mapeamento</pt>
+			<ru>Помощник назначения</ru>
+			<zh>映射助手</zh>
+		</String>
+
+		<String Key="Mapping Page">
+			<de>Zuweisungen-Seite</de>
+			<us>Mapping Page</us>
+			<es>Página de mapeado</es>
+			<fr>Page d'assignation</fr>
+			<it>Pagina di mappatura</it>
+			<jp>マッピングページ</jp>
+			<pt>Página de mapeamento</pt>
+			<ru>Страница назначения</ru>
+			<zh>映射页面</zh>
+		</String>
+
+		<String Key="Mapping Page Settings">
+			<de>Zuweisungen-Seite-Einstellungen</de>
+			<us>Mapping Page Settings</us>
+			<es>Ajustes de página de mapeado</es>
+			<fr>Paramètres des pages d'assignation</fr>
+			<it>Impostazioni della pagina di mappatura</it>
+			<jp>マッピングページ設定</jp>
+			<pt>Configurações de página de mapeamento</pt>
+			<ru>Настройки страницы назначения</ru>
+			<zh>映射页面设置</zh>
+		</String>
+
+		<String Key="Mapping Scope">
+			<de>Zuweisungsbezug</de>
+			<us>Mapping Scope</us>
+			<es>Ámbito de mapeado</es>
+			<fr>Champ des assignations</fr>
+			<it>Ambito della mappatura</it>
+			<jp>マッピング範囲</jp>
+			<pt>Escopo de mapeamento</pt>
+			<ru>Область применения назначения</ru>
+			<zh>映射范围</zh>
+		</String>
+
+		<String Key="Mappings">
+			<de>Zuweisungen</de>
+			<us>Mappings</us>
+			<es>Mapeados</es>
+			<fr>Assignations</fr>
+			<it>Mappature</it>
+			<jp>マッピング</jp>
+			<pt>Mapeamentos</pt>
+			<ru>Назначения</ru>
+			<zh>映射</zh>
+		</String>
+
+		<String Key="Maximum">
+			<de>Maximum</de>
+			<us>מקסימום</us>
+			<es>Máximo</es>
+			<fr>Maximum</fr>
+			<it>Massimo</it>
+			<jp>最大</jp>
+			<pt>Máximo</pt>
+			<ru>Максимум</ru>
+			<zh>最大</zh>
+		</String>
+
+		<String Key="Minimum">
+			<de>Minimum</de>
+			<us>מינימום</us>
+			<es>Mínimo</es>
+			<fr>Minimum</fr>
+			<it>Minimo</it>
+			<jp>最少</jp>
+			<pt>Mínimo</pt>
+			<ru>Минимум</ru>
+			<zh>最小</zh>
+		</String>
+
+		<String Key="Mixer Bank Channel Setup">
+			<de>Mixer-Bank-Kanaleinstellungen</de>
+			<us>Mixer Bank Channel Setup</us>
+			<es>Configuración de canal de Mixer Bank</es>
+			<fr>Configuration de la voie de banque de console</fr>
+			<it>Configurazione dei canali del banco del mixer</it>
+			<jp>ミキサーバンクチャンネル設定</jp>
+			<pt>Configuração de canal de banco de mixer</pt>
+			<ru>Настройка канала банка микшера</ru>
+			<zh>混音器组通道设置</zh>
+		</String>
+
+		<String Key="Mixer Channels">
+			<de>Mixerkanäle</de>
+			<us>Mixer Channels</us>
+			<es>Canales del mezclador</es>
+			<fr>Voies de la console</fr>
+			<it>Canali del mixer</it>
+			<jp>ミキサーチャンネル</jp>
+			<pt>Canais de mixer</pt>
+			<ru>Каналы микшера</ru>
+			<zh>混音通道</zh>
+		</String>
+
+		<String Key="Multiple Mapping Types selected">
+			<de>Mehrere Zuweisungsarten ausgewählt</de>
+			<us>Multiple Mapping Types selected</us>
+			<es>Múltiples tipos de mapeado seleccionados</es>
+			<fr>Plusieurs types d'assignations sont sélectionnés</fr>
+			<it>Più tipi di mappatura selezionati</it>
+			<jp>複数のマッピングタイプが選択されています</jp>
+			<pt>Múltiplos tipos de mapeamento selecionados</pt>
+			<ru>Выбрано несколько типов назначения</ru>
+			<zh>多个映射类型被选择</zh>
+		</String>
+
+		<String Key="No Mapping selected">
+			<de>Keine Zuweisung ausgewählt</de>
+			<us>No Mapping selected</us>
+			<es>Ningún mapeado seleccionado</es>
+			<fr>Aucune assignation n'est sélectionnée</fr>
+			<it>Nessuna mappatura selezionata</it>
+			<jp>マッピングが選択されていません</jp>
+			<pt>Nenhum mapeamento selecionado</pt>
+			<ru>Нет выбранного назначения</ru>
+			<zh>无映射被选择</zh>
+		</String>
+
+		<String Key="Page Name">
+			<de>Seitenname</de>
+			<us>שם מסמך</us>
+			<es>Nombre de página</es>
+			<fr>Nom de la page</fr>
+			<it>Nome della pagina</it>
+			<jp>ページ名</jp>
+			<pt>Nome da página</pt>
+			<ru>Название страницы</ru>
+			<zh>页面名称</zh>
+		</String>
+
+		<String Key="Parameter Learn">
+			<de>Parameter lernen</de>
+			<us>Parameter Learn</us>
+			<es>Aprender parámetros</es>
+			<fr>Acquisition de paramètres</fr>
+			<it>Apprendimento dei parametri</it>
+			<jp>パラメーター学習</jp>
+			<pt>Aprender parâmetro</pt>
+			<ru>Обучение параметру</ru>
+			<zh>参数学习</zh>
+		</String>
+
+		<String Key="Please enter a Page Name">
+			<de>Seitennamen eingeben</de>
+			<us>Please enter a Page Name</us>
+			<es>Introduzca un nombre de página</es>
+			<fr>Veuillez saisir un nom de page</fr>
+			<it>Inserire un nome di pagina</it>
+			<jp>ページ名を入力してください</jp>
+			<pt>Insira um nome de página</pt>
+			<ru>Введите номер страницы</ru>
+			<zh>请输入一个页面名称</zh>
+		</String>
+
+		<String Key="Please enter a new Page Name">
+			<de>Neuen Seitennamen eingeben</de>
+			<us>Please enter a new Page Name</us>
+			<es>Introduzca un nuevo nombre de página</es>
+			<fr>Veuillez saisir un nouveau nom de page</fr>
+			<it>Inserire un nuovo nome di pagina</it>
+			<jp>新しいページ名を入力してください</jp>
+			<pt>Insira um novo nome de página</pt>
+			<ru>Введите новое название страницы</ru>
+			<zh>请输入一个新的页面名称</zh>
+		</String>
+
+		<String Key="Remove Selected Mappings">
+			<de>Ausgewählte Zuweisungen entfernen</de>
+			<us>Remove Selected Mappings</us>
+			<es>Eliminar mapeados seleccionados</es>
+			<fr>Supprimer les assignations sélectionnées</fr>
+			<it>Rimuovi le mappature selezionate</it>
+			<jp>選択したマッピングを削除</jp>
+			<pt>Remover mapeamentos selecionados</pt>
+			<ru>Удалить выбранные назначения</ru>
+			<zh>移除已选择的映射</zh>
+		</String>
+
+		<String Key="Rename Page">
+			<de>Seite umbenennen</de>
+			<us>Rename Page</us>
+			<es>Renombrar página</es>
+			<fr>Renommer la page</fr>
+			<it>Rinomina la pagina</it>
+			<jp>ページ名を変更</jp>
+			<pt>Renomear página</pt>
+			<ru>Переименовать страницу</ru>
+			<zh>重命名页面</zh>
+		</String>
+
+		<String Key="Reset Mapping">
+			<de>Zuweisung zurücksetzen</de>
+			<us>Reset Mapping</us>
+			<es>Restablecer mapeado</es>
+			<fr>Réinitialiser l'assignation</fr>
+			<it>Reinizializza la mappatura</it>
+			<jp>マッピングをリセット</jp>
+			<pt>Redefinir mapeamento</pt>
+			<ru>Сбросить назначение</ru>
+			<zh>重置映射</zh>
+		</String>
+
+		<String Key="Save As Default">
+			<de>Als Standard speichern</de>
+			<us>Save As Default</us>
+			<es>Guardar como por defecto</es>
+			<fr>Enregistrer en tant que configuration par défaut</fr>
+			<it>Salva come predefinito</it>
+			<jp>デフォルトとして保存</jp>
+			<pt>Salvar como padrão</pt>
+			<ru>Сохранить как по умолчанию</ru>
+			<zh>保存为默认</zh>
+		</String>
+
+		<String Key="Script Messages">
+			<de>Skript-Befehle</de>
+			<us>Script Messages</us>
+			<es>Mensajes de script</es>
+			<fr>Messages de script</fr>
+			<it>Messaggi di script</it>
+			<jp>スクリプトメッセージ</jp>
+			<pt>Mensagens de script</pt>
+			<ru>Сообщения скриптов</ru>
+			<zh>脚本信息</zh>
+		</String>
+
+		<String Key="Select MIDI Remote Device">
+			<de>MIDI Remote-Gerät auswählen</de>
+			<us>Select MIDI Remote Device</us>
+			<es>Seleccionar dispositivo MIDI Remote</es>
+			<fr>Sélectionner le périphérique MIDI Remote</fr>
+			<it>Seleziona dispositivo MIDI Remote</it>
+			<jp>MIDI Remote デバイスを選択</jp>
+			<pt>Selecionar dispositivo MIDI Remote</pt>
+			<ru>Выбрать устройство дистанционного управления MIDI</ru>
+			<zh>选择 MIDI 外挂设备</zh>
+		</String>
+
+		<String Key="Select Number of Mixer Bank Channels">
+			<de>Anzahl der Mixer-Bank-Kanäle auswählen</de>
+			<us>Select Number of Mixer Bank Channels</us>
+			<es>Seleccionar número de canales de Mixer Bank</es>
+			<fr>Sélectionner le nombre de voies de banque de console</fr>
+			<it>Seleziona il numero di canali del banco del mixer</it>
+			<jp>ミキサーバンクチャンネル数を選択</jp>
+			<pt>Selecionar número de canais de banco de mixer</pt>
+			<ru>Выберите количество каналов банка микшера</ru>
+			<zh>选择混音器组通道数</zh>
+		</String>
+
+		<String Key="Show All Messages">
+			<de>Alle Nachrichten anzeigen</de>
+			<us>Show All Messages</us>
+			<es>Mostrar todos los mensajes</es>
+			<fr>Afficher tous les messages</fr>
+			<it>Visualizza tutti i messaggi</it>
+			<jp>すべてのメッセージを表示</jp>
+			<pt>Exibir todas as mensagens</pt>
+			<ru>Показать все сообщения</ru>
+			<zh>显示所有信息</zh>
+		</String>
+
+		<String Key="Show Error Messages Only">
+			<de>Nur Fehlermeldungen anzeigen</de>
+			<us>Show Error Messages Only</us>
+			<es>Mostrar solo mensajes de error</es>
+			<fr>N'afficher que les messages d'erreur</fr>
+			<it>Visualizza solo i messaggi di errore</it>
+			<jp>エラーメッセージのみ表示</jp>
+			<pt>Exibir somente mensagens de erro</pt>
+			<ru>Показать только сообщения об ошибках</ru>
+			<zh>仅显示错误信息</zh>
+		</String>
+
+		<String Key="Show Log Messages Only">
+			<de>Nur Log-Nachrichten anzeigen</de>
+			<us>Show Log Messages Only</us>
+			<es>Mostrar solo mensajes de registro</es>
+			<fr>N'afficher que les messages de journal</fr>
+			<it>Visualizza solo i messaggi di registro</it>
+			<jp>ログメッセージのみ表示</jp>
+			<pt>Exibir somente mensagens de log</pt>
+			<ru>Показать только сообщения журнала</ru>
+			<zh>仅显示日志信息</zh>
+		</String>
+
+		<String Key="Show/Hide Functions Browser">
+			<de>Funktionen-Browser ein/aus</de>
+			<us>Show/Hide Functions Browser</us>
+			<es>Mostrar/Ocultar explorador de funciones</es>
+			<fr>Afficher/Masquer l'Explorateur de fonctions</fr>
+			<it>Visualizza/Nascondi il browser delle funzioni</it>
+			<jp>機能ブラウザーを表示/隠す</jp>
+			<pt>Exibir/Ocultar navegador de funções</pt>
+			<ru>Показать/Скрыть браузер функций</ru>
+			<zh>显示/隐藏功能浏览器</zh>
+		</String>
+
+		<String Key="Take Over Mode">
+			<de>Übernehmen-Modus</de>
+			<us>Take Over Mode</us>
+			<es>Modo tomar el control</es>
+			<fr>Mode Reprise</fr>
+			<it>Modalità acquisizione</it>
+			<jp>テイクオーバーモード</jp>
+			<pt>Modo Takeover</pt>
+			<ru>Режим захвата</ru>
+			<zh>接管模式</zh>
+		</String>
+
+		<String Key="Takeover">
+			<de>Übernehmen</de>
+			<us>Takeover</us>
+			<es>Tomar el control</es>
+			<fr>Reprise</fr>
+			<it>Acquisizione</it>
+			<jp>テイクオーバー</jp>
+			<pt>Takeover</pt>
+			<ru>Захват</ru>
+			<zh>接管</zh>
+		</String>
+
+		<String Key="Toggle">
+			<de>Umschalten</de>
+			<us>Toggle</us>
+			<es>Alternar</es>
+			<fr>Alterner</fr>
+			<it>Alterna</it>
+			<jp>切換</jp>
+			<pt>Alternar</pt>
+			<ru>Переключить</ru>
+			<zh>切换</zh>
+		</String>
+
+		<String Key="Toggle Mode">
+			<de>Umschalt-Modus</de>
+			<us>Toggle Mode</us>
+			<es>Modo alternar</es>
+			<fr>Alterner le mode</fr>
+			<it>Modalità alterna</it>
+			<jp>トグルモード</jp>
+			<pt>Alternar modo</pt>
+			<ru>Режим переключения</ru>
+			<zh>切换模式</zh>
+		</String>
+
+		<String Key="Use the Mapping Assistant to Create a Mapping">
+			<de>Verwenden Sie den Zuweisungsassistenten, um eine Zuweisung zu erstellen</de>
+			<us>Use the Mapping Assistant to Create a Mapping</us>
+			<es>Use el asistente de mapeado para crear un mapeado</es>
+			<fr>Utiliser l'Assistant d'assignation pour créer une assignation</fr>
+			<it>Usa l'assistente di mappatura per creare una mappatura</it>
+			<jp>マッピングアシスタントを使用してマッピングを作成</jp>
+			<pt>Use o assistente de mapeamento para criar um mapeamento</pt>
+			<ru>Использовать помощник назначения для создания назначения</ru>
+			<zh>使用映射助手创建映射</zh>
+		</String>
+
+		<String Key="Zoom Full/Zoom to Fit">
+			<de>Ganzes Fenster/Einpassen</de>
+			<us>Zoom Full/Zoom to Fit</us>
+			<es>Zoom completo/Zoom para ajustar</es>
+			<fr>Zoom complet/Zoom ajusté</fr>
+			<it>Riduci completamente lo zoom/Adatta alla finestra</it>
+			<jp>全体を表示/幅に合わせて表示</jp>
+			<pt>Zoom total/Zoom para ajustar</pt>
+			<ru>Макс. увеличить/Смасштабировать для соответствия</ru>
+			<zh>完整缩放/匹配缩放</zh>
+		</String>
+
+		<String Key="Zoom In">
+			<de>Vergrößern</de>
+			<us>הגדל זום</us>
+			<es>Acercar</es>
+			<fr>Zoom avant</fr>
+			<it>Zoom in avanti</it>
+			<jp>ズームイン</jp>
+			<pt>Aumentar o zoom</pt>
+			<ru>Увеличить</ru>
+			<zh>扩大</zh>
+		</String>
+
+		<String Key="Zoom Out">
+			<de>Verkleinern</de>
+			<us>הקטן זום</us>
+			<es>Alejar</es>
+			<fr>Zoom arrière</fr>
+			<it>Zoom indietro</it>
+			<jp>ズームアウト</jp>
+			<pt>Diminuir o zoom</pt>
+			<ru>Уменьшить</ru>
+			<zh>缩小</zh>
+		</String>
+
+		<String Key="Add Surface">
+			<de>Oberfläche hinzufügen</de>
+			<us>Add Surface</us>
+			<es>Añadir superficie</es>
+			<fr>Ajouter une surface</fr>
+			<it>Aggiungi superficie di controllo</it>
+			<jp>外観を追加</jp>
+			<pt>Adicionar superfície</pt>
+			<ru>Добавить панель</ru>
+			<zh>添加界面</zh>
+		</String>
+
+		<String Key="CC #">
+			<de>CC #</de>
+			<us>CC #</us>
+			<es>CC #</es>
+			<fr>CC #</fr>
+			<it>CC #</it>
+			<jp>CC #</jp>
+			<pt>CC #</pt>
+			<ru>CC #</ru>
+			<zh>CC #</zh>
+		</String>
+
+		<String Key="Close MIDI Controller Surface Editor and Open Mapping Assistant">
+			<de>MIDI-Controller-Oberflächen-Editor schließen und Zuweisungsassistenten öffnen</de>
+			<us>Close MIDI Controller Surface Editor and Open Mapping Assistant</us>
+			<es>Cerrar editor de superficie de controlador MIDI y abrir asistente de mapeado</es>
+			<fr>Fermer l'Éditeur de surface de contrôle MIDI et ouvrir l'Assistant d'assignation</fr>
+			<it>Chiudi l'editor delle superfici di controllo MIDI e apri l'assistente di mappatura</it>
+			<jp>MIDI コントローラーの外観エディターを閉じて、マッピングアシスタントを開く</jp>
+			<pt>Fechar editor de superfície de controlador MIDI e abrir assistente de mapeamento</pt>
+			<ru>Закрыть редактор панели устройства дистанционного управления MIDI и открыть помощник назначения</ru>
+			<zh>关闭 MIDI 控制器界面编辑器和打开映射助手</zh>
+		</String>
+
+		<String Key="Current Quick Control Focus">
+			<de>Aktueller Quick Control-Fokus</de>
+			<us>Current Quick Control Focus</us>
+			<es>Foco de control rápido actual</es>
+			<fr>Focus de Contrôle instantané actuel</fr>
+			<it>Focus dei controlli rapidi corrente</it>
+			<jp>現在のクイックコントロールのフォーカス</jp>
+			<pt>Controle rápido de focagem atual</pt>
+			<ru>Текущий выбор для Быстрого Управления</ru>
+			<zh>当前快速控制关注</zh>
+		</String>
+
+		<String Key="Delete Script">
+			<de>Skript löschen</de>
+			<us>מחק סקריפט</us>
+			<es>Suprimir script</es>
+			<fr>Supprimer le script</fr>
+			<it>Elimina script</it>
+			<jp>スクリプトを削除</jp>
+			<pt>Excluir script</pt>
+			<ru>Удалить скрипт</ru>
+			<zh>删除脚本</zh>
+		</String>
+
+		<String Key="Deletes controller for current session. For permanent removal delete the corresponding script.">
+			<de>Entfernt den Controller für die aktuelle Sitzung. Löschen Sie das Skript, um den Controller endgültig zu löschen.</de>
+			<us>Deletes controller for current session. For permanent removal delete the corresponding script.</us>
+			<es>Suprime el controlador para la sesión actual. Para una eliminación permanente, borre el script correspondiente.</es>
+			<fr>Permet de supprimer le contrôleur dans la session en cours. Pour une suppression définitive, supprimez le script correspondant.</fr>
+			<it>Elimina il controller per la sessione corrente. Per rimuoverlo in maniera permanente, eliminare lo script corrispondente.</it>
+			<jp>現在のセッションのコントローラーを削除します。完全に削除するには、対応するスクリプトを削除してください。</jp>
+			<pt>Exclui o controlador para a sessão atual. Para remover permanentemente, exclua o script correspondente.</pt>
+			<ru>Удаляет контроллер для текущей сессии. Для окончательного удаления удалите соответствующий скрипт.</ru>
+			<zh>删除当前会话的控制器。如果要永久删除，请删除相应的脚本。</zh>
+		</String>
+
+		<String Key="Edit MIDI Controller Surface">
+			<de>MIDI-Controller-Oberfläche bearbeiten</de>
+			<us>Edit MIDI Controller Surface</us>
+			<es>Editar superficie de controlador MIDI</es>
+			<fr>Éditer la surface de contrôle MIDI</fr>
+			<it>Modifica della superficie di controllo MIDI</it>
+			<jp>MIDI コントローラーの外観を編集</jp>
+			<pt>Editar superfície de controlador MIDI</pt>
+			<ru>Редактировать панель MIDI контроллера</ru>
+			<zh>编辑 MIDI 控制器界面</zh>
+		</String>
+
+		<String Key="Editor History">
+			<de>Editor-Bearbeitungsschritte</de>
+			<us>עריכת היסטוריה</us>
+			<es>Historial del editor</es>
+			<fr>Historique de l'éditeur</fr>
+			<it>Modifica la storia</it>
+			<jp>エディター履歴</jp>
+			<pt>Histórico do editor</pt>
+			<ru>История редактора</ru>
+			<zh>编辑器历史</zh>
+		</String>
+
+		<String Key="Export Script">
+			<de>Skript exportieren</de>
+			<us>ייצא סקריפט</us>
+			<es>Exportar script</es>
+			<fr>Exporter le script</fr>
+			<it>Esporta script</it>
+			<jp>スクリプトを書き出し</jp>
+			<pt>Exportar script</pt>
+			<ru>Экспортировать скрипт</ru>
+			<zh>导出脚本</zh>
+		</String>
+
+		<String Key="Export Table of Key Commands as CSV File">
+			<de>Tastaturbefehle-Tabelle als CSV-Datei exportieren</de>
+			<us>Export Table of Key Commands as CSV File</us>
+			<es>Exportar tabla de comandos de teclado como archivo CSV</es>
+			<fr>Exporter le tableau de raccourcis clavier dans un fichier CSV</fr>
+			<it>Esporta la tabella dei comandi da tastiera come file CSV</it>
+			<jp>キーボードショートカット一覧を CSV ファイルとして書き出し</jp>
+			<pt>Exportar tabela de comandos de teclas como arquivo CSV</pt>
+			<ru>Экспортировать таблицу горячих клавиш в виде CSV файла</ru>
+			<zh>将快捷键表导出为 CSV 文件</zh>
+		</String>
+
+		<String Key="Follow Plug-in Window Focus">
+			<de>PlugIn-Fenster-Fokus folgen</de>
+			<us>Follow Plug-in Window Focus</us>
+			<es>Seguir foco de ventana de plug-in</es>
+			<fr>Suivre le focus de la fenêtre de plug-in</fr>
+			<it>Segui il focus delle finestre dei plug-in</it>
+			<jp>プラグインウィンドウのフォーカスに従う</jp>
+			<pt>Acompanhar focagem de janela de plug-in</pt>
+			<ru>Следовать выбору окна плагина</ru>
+			<zh>跟随插件窗口关注</zh>
+		</String>
+
+		<String Key="Follow Track Quick Controls">
+			<de>Spur-Quick Controls folgen</de>
+			<us>Follow Track Quick Controls</us>
+			<es>Seguir controles rápidos de pista</es>
+			<fr>Suivre les Contrôles instantanés de piste</fr>
+			<it>Segui i controlli rapidi delle tracce</it>
+			<jp>トラッククイックコントロールに従う</jp>
+			<pt>Acompanhar controles rápidos de pista</pt>
+			<ru>Следовать Быстрому Управлению трека</ru>
+			<zh>跟随轨道快速控制</zh>
+		</String>
+
+		<String Key="Follow VST Quick Controls">
+			<de>VST Quick Controls folgen</de>
+			<us>Follow VST Quick Controls</us>
+			<es>Seguir controles rápidos VST</es>
+			<fr>Suivre les Contrôles instantanés VST</fr>
+			<it>Segui i controlli rapidi VST</it>
+			<jp>VST クイックコントロールに従う</jp>
+			<pt>Acompanhar controles rápidos VST</pt>
+			<ru>Следовать Быстрому Управлению VST</ru>
+			<zh>跟随 VST 快速控制</zh>
+		</String>
+
+		<String Key="Go to Next Controller">
+			<de>Zum nächsten Controller</de>
+			<us>Go to Next Controller</us>
+			<es>Ir a controlador siguiente</es>
+			<fr>Aller au contrôleur suivant</fr>
+			<it>Vai al controller successivo</it>
+			<jp>次のコントローラーに移動</jp>
+			<pt>Ir para o próximo controlador</pt>
+			<ru>Перейти к следующему контроллеру</ru>
+			<zh>转到下一个控制器</zh>
+		</String>
+
+		<String Key="Go to Next Mapping Page">
+			<de>Zur nächsten Zuweisungen-Seite</de>
+			<us>Go to Next Mapping Page</us>
+			<es>Ir a página de mapeados siguiente</es>
+			<fr>Aller à la page d'assignation suivante</fr>
+			<it>Vai alla pagina di mappatura successiva</it>
+			<jp>次のマッピングページに移動</jp>
+			<pt>Ir para a próxima página de mapeamento</pt>
+			<ru>Перейти к следующей странице назначения</ru>
+			<zh>转到下一个映射页面</zh>
+		</String>
+
+		<String Key="Go to Previous Controller">
+			<de>Zum vorherigen Controller</de>
+			<us>Go to Previous Controller</us>
+			<es>Ir a controlador anterior</es>
+			<fr>Aller au contrôleur précédent</fr>
+			<it>Vai al controller precedente</it>
+			<jp>前のコントローラーに移動</jp>
+			<pt>Ir para o controlador anterior</pt>
+			<ru>Перейти к предыдущему контроллеру</ru>
+			<zh>转到上一个控制器</zh>
+		</String>
+
+		<String Key="Go to Previous Mapping Page">
+			<de>Zur vorherigen Zuweisungen-Seite</de>
+			<us>Go to Previous Mapping Page</us>
+			<es>Ir a página de mapeados anterior</es>
+			<fr>Aller à la page d'assignation précédente</fr>
+			<it>Vai alla pagina di mappatura precedente</it>
+			<jp>前のマッピングページに移動</jp>
+			<pt>Ir para a página de mapeamento anterior</pt>
+			<ru>Перейти на предыдущую страницу назначения</ru>
+			<zh>转到上一个映射页面</zh>
+		</String>
+
+		<String Key="Import Script">
+			<de>Skript importieren</de>
+			<us>ייבא סקריפט</us>
+			<es>Importar script</es>
+			<fr>Importer le script</fr>
+			<it>Importa script</it>
+			<jp>スクリプトを読み込み</jp>
+			<pt>Importar script</pt>
+			<ru>Импортировать скрипт</ru>
+			<zh>导入脚本</zh>
+		</String>
+
+		<String Key="Item Properties">
+			<de>Objekteigenschaften</de>
+			<us>Item Properties</us>
+			<es>Propiedades de elemento</es>
+			<fr>Propriétés des éléments</fr>
+			<it>Proprietà dell'oggetto</it>
+			<jp>アイテムのプロパティー</jp>
+			<pt>Propriedades do item</pt>
+			<ru>Свойства элемента</ru>
+			<zh>项目属性</zh>
+		</String>
+
+		<String Key="Last Hovered Control">
+			<de>Zuletzt mit der Maus angefahrenes Steuerelement</de>
+			<us>Last Hovered Control</us>
+			<es>Último control al que pasó el ratón por encima</es>
+			<fr>Commande survolée en dernier</fr>
+			<it>Ultimo controllo attivato al passaggio del mouse</it>
+			<jp>最後にマウスカーソルを合わせたコントロール</jp>
+			<pt>Último controle passado</pt>
+			<ru>Последний используемый контроллер</ru>
+			<zh>最后的悬浮控制</zh>
+		</String>
+
+		<String Key="Last MIDI Controller">
+			<de>Letzter MIDI-Controller</de>
+			<us>Last MIDI Controller</us>
+			<es>Último controlador MIDI</es>
+			<fr>Dernier contrôleur MIDI</fr>
+			<it>Ultimo controller MIDI</it>
+			<jp>最後に使用した MIDI コントローラー</jp>
+			<pt>Último controlador MIDI</pt>
+			<ru>Последний MIDI контроллер</ru>
+			<zh>最后的 MIDI 控制</zh>
+		</String>
+
+		<String Key="Last Touched Control">
+			<de>Zuletzt berührtes Steuerelement</de>
+			<us>Last Touched Control</us>
+			<es>Último control tocado</es>
+			<fr>Dernière commande touchée</fr>
+			<it>Ultimo controllo toccato</it>
+			<jp>最後に触ったコントロール</jp>
+			<pt>Último controle tocado</pt>
+			<ru>Последний контроллер, которого касались</ru>
+			<zh>最后的触控控制</zh>
+		</String>
+
+		<String Key="Legacy Information">
+			<de>Legacy-Informationen</de>
+			<us>Legacy Information</us>
+			<es>Información de legado</es>
+			<fr>Informations héritées</fr>
+			<it>Informazione legacy</it>
+			<jp>レガシーインフォメーション</jp>
+			<pt>Informações de legado</pt>
+			<ru>Устаревшая информация</ru>
+			<zh>旧信息</zh>
+		</String>
+
+		<String Key="MIDI Controller Surface Editor">
+			<de>MIDI-Controller-Oberflächen-Editor</de>
+			<us>MIDI Controller Surface Editor</us>
+			<es>Editor de superficie de controlador MIDI</es>
+			<fr>Éditeur de surface de contrôle MIDI</fr>
+			<it>Editor delle superfici di controllo MIDI</it>
+			<jp>MIDI コントローラー外観エディター</jp>
+			<pt>Editor de superfície de controlador MIDI</pt>
+			<ru>Редактор панели MIDI контроллера</ru>
+			<zh>MIDI 控制器界面编辑器</zh>
+		</String>
+
+		<String Key="MIDI Controllers">
+			<de>MIDI-Controller</de>
+			<us>MIDI Controllers</us>
+			<es>Controladores MIDI</es>
+			<fr>Contrôleurs MIDI</fr>
+			<it>Controller MIDI</it>
+			<jp>MIDI コントローラー</jp>
+			<pt>Controladores MIDI</pt>
+			<ru>MIDI контроллеры</ru>
+			<zh>MIDI 控制器</zh>
+		</String>
+
+		<String Key="MIDI Controllers Overview">
+			<de>MIDI-Controller-Übersicht</de>
+			<us>MIDI Controllers Overview</us>
+			<es>Vista general de controladores MIDI</es>
+			<fr>Aperçu des contrôleurs MIDI</fr>
+			<it>Panoramica dei controller MIDI</it>
+			<jp>MIDI コントローラー概要</jp>
+			<pt>Visão geral de controladores MIDI</pt>
+			<ru>Обзор контроллеров MIDI</ru>
+			<zh>MIDI 控制器概览</zh>
+		</String>
+
+		<String Key="MIDI Remote Manager">
+			<de>MIDI Remote-Verwaltung</de>
+			<us>MIDI Remote Manager</us>
+			<es>Gestor MIDI Remote</es>
+			<fr>Gestionnaire MIDI Remote</fr>
+			<it>Gestore MIDI Remote</it>
+			<jp>MIDI Remote マネージャー</jp>
+			<pt>Gerenciador MIDI Remote</pt>
+			<ru>Менеджер устройств дистанционного управления MIDI</ru>
+			<zh>MIDI 外挂管理器</zh>
+		</String>
+
+		<String Key="Mandatory Entry">
+			<de>Pflichtfeld</de>
+			<us>Mandatory Entry</us>
+			<es>Campo requerido</es>
+			<fr>Champ obligatoire</fr>
+			<it>Campo obbligatorio</it>
+			<jp>必須項目</jp>
+			<pt>Entrada obrigatória</pt>
+			<ru>Обязательно ввести</ru>
+			<zh>强制进入</zh>
+		</String>
+
+		<String Key="Model">
+			<de>Modell</de>
+			<us>Model</us>
+			<es>Modelo</es>
+			<fr>Modèle</fr>
+			<it>Modello</it>
+			<jp>モデル</jp>
+			<pt>Modelo</pt>
+			<ru>Модель</ru>
+			<zh>型号</zh>
+		</String>
+
+		<String Key="Note #">
+			<de>Note #</de>
+			<us>Note #</us>
+			<es>Nota #</es>
+			<fr>Num. note</fr>
+			<it>Nota #</it>
+			<jp>ノート番号</jp>
+			<pt>Nota #</pt>
+			<ru>Нота #</ru>
+			<zh>音符 #</zh>
+		</String>
+
+		<String Key="Only Scripts located in Local Folder can be deleted">
+			<de>Es können nur Skripte aus dem Local-Ordner gelöscht werden</de>
+			<us>Only Scripts located in Local Folder can be deleted</us>
+			<es>Solo se pueden borrar scripts de la carpeta local</es>
+			<fr>Seuls les scripts qui se trouvent dans le Dossier local peuvent être supprimés</fr>
+			<it>Possono essere eliminati solo gli script che si trovano nella cartella locale</it>
+			<jp>削除できるのはローカルフォルダーにあるスクリプトのみです</jp>
+			<pt>Somente scripts localizados na pasta local podem ser excluídos</pt>
+			<ru>Удалить можно только скрипты, расположенные в локальной папке</ru>
+			<zh>只有位于本地文件夹中的脚本可以被删除</zh>
+		</String>
+
+		<String Key="Open MIDI Remote API - Programmer's Guide">
+			<de>MIDI Remote-API - Programmierer-Handbuch öffnen</de>
+			<us>Open MIDI Remote API - Programmer's Guide</us>
+			<es>Abrir API MIDI Remote - Guía del programador</es>
+			<fr>Ouvrir l'API MIDI Remote - Guide de programmation</fr>
+			<it>Apri API MIDI Remote - Guida del programmatore</it>
+			<jp>MIDI Remote API を開く - プログラマーズガイド</jp>
+			<pt>Abrir API de MIDI Remote - Guia do programador</pt>
+			<ru>Открыть руководство по использованию интерфейса прикладного программирования (API) устройств дистанционного управления MIDI</ru>
+			<zh>打开 MIDI 外挂 API - 程序员指南</zh>
+		</String>
+
+		<String Key="Open MIDI Remote Manager">
+			<de>MIDI Remote-Manager öffnen</de>
+			<us>Open MIDI Remote Manager</us>
+			<es>Abrir gestor MIDI Remote</es>
+			<fr>Ouvrir le Gestionnaire MIDI Remote</fr>
+			<it>Apri il gestore MIDI Remote</it>
+			<jp>MIDI Remote マネージャーを開く</jp>
+			<pt>Abrir gerenciador de MIDI Remote</pt>
+			<ru>Открыть менеджер устройств дистанционного управления MIDI</ru>
+			<zh>打开 MIDI 外挂管理器</zh>
+		</String>
+
+		<String Key="Open MIDI Remote Script Console">
+			<de>MIDI Remote-Skriptkonsole öffnen</de>
+			<us>Open MIDI Remote Script Console</us>
+			<es>Abrir consola de scripts MIDI Remote</es>
+			<fr>Ouvrir la Console de scripts MIDI Remote</fr>
+			<it>Apri la console di script MIDI Remote</it>
+			<jp>MIDI Remote スクリプトコンソールを開く</jp>
+			<pt>Abrir console de script MIDI Remote</pt>
+			<ru>Открыть консоль скриптов дистанционного управления MIDI</ru>
+			<zh>打开 MIDI 外挂脚本控制台</zh>
+		</String>
+
+		<String Key="Open MIDI Remote Tab in Lower Zone">
+			<de>MIDI Remote in unterer Zone öffnen</de>
+			<us>Open MIDI Remote Tab in Lower Zone</us>
+			<es>Abrir pestaña MIDI Remote en zona inferior</es>
+			<fr>Ouvrir l'onglet MIDI Remote dans la zone inférieure</fr>
+			<it>Apri la scheda MIDI Remote nell'area inferiore</it>
+			<jp>下ゾーンの MIDI Remote タブを開く</jp>
+			<pt>Abrir aba MIDI Remote na zona inferior</pt>
+			<ru>Открыть вкладку устройств дистанционного управления MIDI в нижней зоне</ru>
+			<zh>在下区打开 MIDI 外挂标签</zh>
+		</String>
+
+		<String Key="Open Mapping Assistant">
+			<de>Zuweisungsassistent öffnen</de>
+			<us>Open Mapping Assistant</us>
+			<es>Abrir asistente de mapeado</es>
+			<fr>Ouvrir l'Assistant d'assignation</fr>
+			<it>Apri l'assistente di mappatura</it>
+			<jp>マッピングアシスタントを開く</jp>
+			<pt>Abrir assistente de mapeamento</pt>
+			<ru>Открыть помощник назначения</ru>
+			<zh>打开映射助手</zh>
+		</String>
+
+		<String Key="Open Script Folder">
+			<de>Skript-Ordner öffnen</de>
+			<us>Open Script Folder</us>
+			<es>Abrir carpeta de scripts</es>
+			<fr>Ouvrir le dossier du script</fr>
+			<it>Apri la cartella degli script</it>
+			<jp>スクリプトフォルダーを開く</jp>
+			<pt>Abrir pasta de script</pt>
+			<ru>Открыть папку скриптов</ru>
+			<zh>打开脚本文件夹</zh>
+		</String>
+
+		<String Key="Open Scripts Folder">
+			<de>Skript-Ordner öffnen</de>
+			<us>Open Scripts Folder</us>
+			<es>Abrir carpeta de scripts</es>
+			<fr>Ouvrir le dossier des scripts</fr>
+			<it>Apri la cartella degli script</it>
+			<jp>スクリプトフォルダーを開く</jp>
+			<pt>Abrir pasta de scripts</pt>
+			<ru>Открыть папку скриптов</ru>
+			<zh>打开脚本文件夹</zh>
+		</String>
+
+		<String Key="Open Setup Information">
+			<de>Einstellungsinformationen öffnen</de>
+			<us>Open Setup Information</us>
+			<es>Abrir información de configuración</es>
+			<fr>Ouvrir les informations de configuration</fr>
+			<it>Apri le informazioni di configurazione</it>
+			<jp>設定情報を開く</jp>
+			<pt>Abrir informações de configuração</pt>
+			<ru>Открыть информацию о настройке</ru>
+			<zh>打开设置信息</zh>
+		</String>
+
+		<String Key="Open in Lower Zone">
+			<de>In unterer Zone öffnen</de>
+			<us>Open in Lower Zone</us>
+			<es>Abrir en zona inferior</es>
+			<fr>Ouvrir dans la zone inférieure</fr>
+			<it>Apri nell'area inferiore</it>
+			<jp>下ゾーンで開く</jp>
+			<pt>Abrir na zona inferior</pt>
+			<ru>Открыть в Нижней Зоне</ru>
+			<zh>在下方区域打开</zh>
+		</String>
+
+		<String Key="Open in Separate Window">
+			<de>In separatem Fenster öffnen</de>
+			<us>Open in Separate Window</us>
+			<es>Abrir en una ventana aparte</es>
+			<fr>Ouvrir dans une fenêtre séparée</fr>
+			<it>Apri in una finestra separata</it>
+			<jp>別のウィンドウで開く</jp>
+			<pt>Abrir em janela separada</pt>
+			<ru>Открыть в отдельном окне</ru>
+			<zh>在独立窗口打开</zh>
+		</String>
+
+		<String Key="Quick Control Focus">
+			<de>Quick Control-Fokus</de>
+			<us>Quick Control Focus</us>
+			<es>Foco de control rápido</es>
+			<fr>Focus de Contrôle instantané</fr>
+			<it>Focus dei controlli rapidi</it>
+			<jp>クイックコントロールフォーカス</jp>
+			<pt>Controle rápido de focagem</pt>
+			<ru>Выбор для Быстрого Управления</ru>
+			<zh>快速控制关注</zh>
+		</String>
+
+		<String Key="Quick Control Focus (Plug-in Window)">
+			<de>Quick Control-Fokus (PlugIn-Fenster)</de>
+			<us>Quick Control Focus (Plug-in Window)</us>
+			<es>Foco de control rápido (ventana de plug-in)</es>
+			<fr>Focus de Contrôle instantané (Fenêtre du plug-in)</fr>
+			<it>Focus dei controlli rapidi (Finestra dei plug-in)</it>
+			<jp>クリックコントロールフォーカス (プラグインウィンドウ)</jp>
+			<pt>Controle rápido de focagem (janela plug-in)</pt>
+			<ru>Выбор для Быстрого Управления (окно плагина)</ru>
+			<zh>快速控制关注 (插件窗口)</zh>
+		</String>
+
+		<String Key="Quick Control Focus (Track)">
+			<de>Quick Control-Fokus (Spur)</de>
+			<us>Quick Control Focus (Track)</us>
+			<es>Foco de control rápido (pista)</es>
+			<fr>Focus de Contrôle instantané (Piste)</fr>
+			<it>Focus dei controlli rapidi (Traccia)</it>
+			<jp>クイックコントロールフォーカス (トラック)</jp>
+			<pt>Controle rápido de focagem (Pista)</pt>
+			<ru>Выбор для Быстрого Управления (трек)</ru>
+			<zh>快速控制关注 (轨道)</zh>
+		</String>
+
+		<String Key="Quick Control Focus Setup">
+			<de>Quick Control-Fokus-Einstellungen</de>
+			<us>Quick Control Focus Setup</us>
+			<es>Configuración de foco de control rápido</es>
+			<fr>Configuration du focus de Contrôle instantané</fr>
+			<it>Configurazione del focus dei controlli rapidi</it>
+			<jp>クイックコントロールフォーカス設定</jp>
+			<pt>Configuração de focagem de controle rápido</pt>
+			<ru>Настройка выбора для Быстрого Управления</ru>
+			<zh>快速控制关注设置</zh>
+		</String>
+
+		<String Key="Remove Controller">
+			<de>Controller entfernen</de>
+			<us>Remove Controller</us>
+			<es>Eliminar controlador</es>
+			<fr>Supprimer le contrôleur</fr>
+			<it>Rimuovi controller</it>
+			<jp>コントローラーを削除</jp>
+			<pt>Remover controlador</pt>
+			<ru>Удалить контроллер</ru>
+			<zh>移除控制器</zh>
+		</String>
+
+		<String Key="Resolution">
+			<de>Auflösung</de>
+			<us>Resolution</us>
+			<es>Resolución</es>
+			<fr>Résolution</fr>
+			<it>Risoluzione</it>
+			<jp>解像度</jp>
+			<pt>Resolução</pt>
+			<ru>Разрешение</ru>
+			<zh>分辨率</zh>
+		</String>
+
+		<String Key="Script Creator">
+			<de>Skript-Ersteller</de>
+			<us>Script Creator</us>
+			<es>Creador de script</es>
+			<fr>Utilitaire de création de scripts</fr>
+			<it>Creatore dello script</it>
+			<jp>スクリプトクリエーター</jp>
+			<pt>Criador de script</pt>
+			<ru>Автор скрипта</ru>
+			<zh>脚本创建器</zh>
+		</String>
+
+		<String Key="Script File">
+			<de>Skript-Datei</de>
+			<us>קובץ סקריפט</us>
+			<es>Archivo de script</es>
+			<fr>Fichier de script</fr>
+			<it>File di script</it>
+			<jp>スクリプトファイル</jp>
+			<pt>Arquivo de script</pt>
+			<ru>Файл скрипта</ru>
+			<zh>脚本文件</zh>
+		</String>
+
+		<String Key="Script Folder">
+			<de>Skript-Ordner</de>
+			<us>Script Folder</us>
+			<es>Carpeta de script</es>
+			<fr>Dossier de script</fr>
+			<it>Cartella dello script</it>
+			<jp>スクリプトフォルダー</jp>
+			<pt>Pasta de script</pt>
+			<ru>Папка скрипта</ru>
+			<zh>脚本文件夹</zh>
+		</String>
+
+		<String Key="Script Path">
+			<de>Skript-Pfad</de>
+			<us>Script Path</us>
+			<es>Ruta de script</es>
+			<fr>Emplacement du script</fr>
+			<it>Percorso dello script</it>
+			<jp>スクリプトパス</jp>
+			<pt>Caminho de script</pt>
+			<ru>Путь скрипта</ru>
+			<zh>脚本路径</zh>
+		</String>
+
+		<String Key="Scripting Tools">
+			<de>Skript-Werkzeuge</de>
+			<us>Scripting Tools</us>
+			<es>Herramientas de scripting</es>
+			<fr>Outils de script</fr>
+			<it>Strumenti di scripting</it>
+			<jp>スクリプトツール</jp>
+			<pt>Ferramentas para script</pt>
+			<ru>Инструменты создания скриптов</ru>
+			<zh>脚本工具</zh>
+		</String>
+
+		<String Key="Scripts">
+			<de>Scripts</de>
+			<us>סקריפט</us>
+			<es>Scripts</es>
+			<fr>Scripts</fr>
+			<it>Script</it>
+			<jp>スクリプト</jp>
+			<pt>Scripts</pt>
+			<ru>Скрипты</ru>
+			<zh>脚本</zh>
+		</String>
+
+		<String Key="Show Script Info">
+			<de>Skript-Info anzeigen</de>
+			<us>Show Script Info</us>
+			<es>Mostrar información de script</es>
+			<fr>Afficher les infos du script</fr>
+			<it>Visualizza informazioni sullo script</it>
+			<jp>スクリプト情報を表示</jp>
+			<pt>Exibir informações de script</pt>
+			<ru>Показать информацию о скрипте</ru>
+			<zh>显示脚本信息</zh>
+		</String>
+
+		<String Key="Show Surface Element Rectangles">
+			<de>Rahmen um Oberflächenelement anzeigen</de>
+			<us>Show Surface Element Rectangles</us>
+			<es>Mostrar marco alrededor de elementos de superficie</es>
+			<fr>Encadrer les éléments de la surface</fr>
+			<it>Visualizza dei rettangoli per gli elementi della superficie di controllo</it>
+			<jp>外観要素の長方形を表示</jp>
+			<pt>Exibir retângulos de elemento de superfície</pt>
+			<ru>Показать прямоугольники элементов панели</ru>
+			<zh>显示界面元素矩形</zh>
+		</String>
+
+		<String Key="Surface Editor Script">
+			<de>Oberflächen-Editor-Skript</de>
+			<us>Surface Editor Script</us>
+			<es>Script de editor de superficie</es>
+			<fr>Script d'éditeur de surface</fr>
+			<it>Editor degli script delle superfici di controllo</it>
+			<jp>外観エディタースクリプト</jp>
+			<pt>Script de editor de superfície</pt>
+			<ru>Скрипт редактора панели</ru>
+			<zh>界面编辑器脚本</zh>
+		</String>
+
+		<String Key="The Setup provided on this page will be discontinued. Please use MIDI Remote in the lower zone of the Project window.">
+			<de>Die Einstellungen auf dieser Seite werden eingestellt. Bitte verwenden Sie MIDI Remote in der unteren Zone des Projektfensters.</de>
+			<us>The Setup provided on this page will be discontinued. Please use MIDI Remote in the lower zone of the Project window.</us>
+			<es>La configuración proporcionada en esta página dejará de existir. Por favor, use MIDI Remote en la zona inferior de la ventana de proyecto.</es>
+			<fr>Les options de configuration de cette page vont être supprimées. Veuillez utiliser MIDI Remote dans la zone inférieure de la fenêtre de projet.</fr>
+			<it>Le impostazioni in questa pagina verranno interrotte. Utilizzare la scheda MIDI Remote nell'area inferiore della finestra progetto.</it>
+			<jp>このページでの設定は破棄されます。プロジェクトウィンドウの下ゾーンにある MIDI Remote を使用してください。</jp>
+			<pt>A configuração fornecida nesta página será descontinuada. Use MIDI Remote na zona inferior da janela Projeto.</pt>
+			<ru>Параметры, представленные на этой странице, перестанут действовать. Пожалуйста, используйте пульт дистанционного управления MIDI в нижней зоне окна проекта.</ru>
+			<zh>本页提供的设置将停止使用。请在项目窗口的下部区域使用 MIDI 外挂。</zh>
+		</String>
+
+		<String Key="Value Max">
+			<de>Max. Wert</de>
+			<us>Value Max.</us>
+			<es>Máx. valor</es>
+			<fr>Valeur max.</fr>
+			<it>Valore max.</it>
+			<jp>最大値</jp>
+			<pt>Valor Máx.</pt>
+			<ru>Макс. значение</ru>
+			<zh>值最大</zh>
+		</String>
+
+		<String Key="Value Min">
+			<de>Min. Wert</de>
+			<us>Value Min.</us>
+			<es>Mín. valor</es>
+			<fr>Valeur min.</fr>
+			<it>Valore min.</it>
+			<jp>最小値</jp>
+			<pt>Valor Mín.</pt>
+			<ru>Мин. значение</ru>
+			<zh>值最小</zh>
+		</String>
+
+		<String Key="Value Mode">
+			<de>Werte-Modus</de>
+			<us>Value Mode</us>
+			<es>Modo valor</es>
+			<fr>Mode Valeur</fr>
+			<it>Modalità Valore</it>
+			<jp>値モード</jp>
+			<pt>Modo de valor</pt>
+			<ru>Режим значений</ru>
+			<zh>值模式</zh>
+		</String>
+
+		<String Key="Vendor">
+			<de>Hersteller</de>
+			<us>Vendor</us>
+			<es>Fabricante</es>
+			<fr>Revendeur</fr>
+			<it>Produttore</it>
+			<jp>開発元</jp>
+			<pt>Fornecedor</pt>
+			<ru>Поставщик</ru>
+			<zh>厂家</zh>
+		</String>
+
+		<String Key="Zoom Controls">
+			<de>Zoom-Regler</de>
+			<us>Zoom Controls</us>
+			<es>Controles de zoom</es>
+			<fr>Commandes de zoom</fr>
+			<it>Controlli di zoom</it>
+			<jp>ズームコントロール</jp>
+			<pt>Controles de zoom</pt>
+			<ru>Масшт. контроллеров</ru>
+			<zh>缩放控制</zh>
+		</String>
+
+		<String Key="spacer">
+			<de>Abstand</de>
+			<us>spacer</us>
+			<es>espaciador</es>
+			<fr>espacement</fr>
+			<it>spaziatore</it>
+			<jp>スペーサー</jp>
+			<pt>espaçador</pt>
+			<ru>Разделитель</ru>
+			<zh>spacer</zh>
+		</String>
+
+		<String Key="Channel Latencies">
+			<de>Kanallatenzen</de>
+			<us>Channel Latencies</us>
+			<es>Latencias de canal</es>
+			<fr>Latences des voies</fr>
+			<it>Latenze dei canali</it>
+			<jp>チャンネルレイテンシー</jp>
+			<pt>Latências de canal</pt>
+			<ru>Задержки каналов</ru>
+			<zh>轨道延迟</zh>
+		</String>
+
+		<String Key="Channel Overview">
+			<de>Kanalübersicht</de>
+			<us>Channel Overview</us>
+			<es>Vista general de canal</es>
+			<fr>Aperçu voie</fr>
+			<it>Panoramica dei canali</it>
+			<jp>チャンネルオーバービュー</jp>
+			<pt>Visão geral de canal</pt>
+			<ru>Обзор канала</ru>
+			<zh>通道总览</zh>
+		</String>
+
+		<String Key="Channel Racks">
+			<de>Kanal-Racks</de>
+			<us>Channel Racks</us>
+			<es>Racks de canal</es>
+			<fr>Racks de voie</fr>
+			<it>Rack dei canali</it>
+			<jp>チャンネルラック</jp>
+			<pt>Racks de canal</pt>
+			<ru>Рэки канала</ru>
+			<zh>通道机架</zh>
+		</String>
+
+		<String Key="Equalizer Curves">
+			<de>Equalizer-Kurven</de>
+			<us>Equalizer Curves</us>
+			<es>Curvas de EQ</es>
+			<fr>Courbes d'égalisation</fr>
+			<it>Curve di equalizzazione</it>
+			<jp>EQ カーブ</jp>
+			<pt>Curvas do equalizador</pt>
+			<ru>Кривые эквалайзеров</ru>
+			<zh>均衡器曲线</zh>
+		</String>
+
+		<String Key="Left Zone">
+			<de>Linke Zone</de>
+			<us>Left Zone</us>
+			<es>Zona izquierda</es>
+			<fr>Zone gauche</fr>
+			<it>Area sinistra</it>
+			<jp>左ゾーン</jp>
+			<pt>Zona esquerda</pt>
+			<ru>Левая Зона</ru>
+			<zh>左侧区域</zh>
+		</String>
+
+		<String Key="Meter Bridge">
+			<de>Meterbridge</de>
+			<us>Meter Bridge</us>
+			<es>Panel de medidores</es>
+			<fr>Meter Bridge</fr>
+			<it>Indicatore bridge</it>
+			<jp>メーターブリッジ</jp>
+			<pt>Conjunto de indicadores</pt>
+			<ru>Измерители</ru>
+			<zh>电平表桥</zh>
+		</String>
+
+		<String Key="Notepads">
+			<de>Notizen</de>
+			<us>Notepads</us>
+			<es>Blocs de notas</es>
+			<fr>Blocs-notes</fr>
+			<it>Blocchi note</it>
+			<jp>ノートパッド</jp>
+			<pt>Blocos de notas</pt>
+			<ru>Заметки</ru>
+			<zh>记事本</zh>
+		</String>
+
+		<String Key="Pictures">
+			<de>Bilder</de>
+			<us>תמונות</us>
+			<es>Imágenes</es>
+			<fr>Images</fr>
+			<it>Immagini</it>
+			<jp>画像</jp>
+			<pt>Imagens</pt>
+			<ru>Картинки</ru>
+			<zh>图片</zh>
+		</String>
+
+		<String Key="Right Zone">
+			<de>Rechte Zone</de>
+			<us>Right Zone</us>
+			<es>Zona derecha</es>
+			<fr>Zone droite</fr>
+			<it>Area destra</it>
+			<jp>右ゾーン</jp>
+			<pt>Zona direita</pt>
+			<ru>Правая Зона</ru>
+			<zh>右侧区域</zh>
+		</String>
+
+		<String Key="Activate Extend Process Range">
+			<de>'Bearbeitungsbereich erweitern' aktivieren</de>
+			<us>Activate Extend Process Range</us>
+			<es>Activar extender rango de procesado</es>
+			<fr>Activer l'extension de l'intervalle de traitement</fr>
+			<it>Attiva 'Estendi l'intervallo di processamento'</it>
+			<jp>「処理範囲を拡張」を有効化</jp>
+			<pt>Ativar intervalo do processo estendido</pt>
+			<ru>Активировать расширение диапазона обработки</ru>
+			<zh>激活扩展处理范围</zh>
+		</String>
+
+		<String Key="Activate Tail">
+			<de>Ausklingzeit aktivieren</de>
+			<us>Activate Tail</us>
+			<es>Activar cola</es>
+			<fr>Activer l'extension</fr>
+			<it>Attiva la coda</it>
+			<jp>「テール部の追加時間」を有効化</jp>
+			<pt>Ativar rastro</pt>
+			<ru>Использовать хвост</ru>
+			<zh>激活尾音</zh>
+		</String>
+
+		<String Key="Add Plug-in">
+			<de>PlugIn hinzufügen</de>
+			<us>הוסף פלאג-אין</us>
+			<es>Añadir plug-in</es>
+			<fr>Ajouter un plug-in</fr>
+			<it>Aggiungi plug-in</it>
+			<jp>プラグインを追加</jp>
+			<pt>Adicionar plug-in</pt>
+			<ru>Добавить плагин</ru>
+			<zh>添加插件</zh>
+		</String>
+
+		<String Key="Add Process">
+			<de>Prozess hinzufügen</de>
+			<us>Add Process</us>
+			<es>Añadir proceso</es>
+			<fr>Ajouter un traitement</fr>
+			<it>Aggiungi processo</it>
+			<jp>処理を追加</jp>
+			<pt>Adicionar processo</pt>
+			<ru>Добавить процесс</ru>
+			<zh>添加处理</zh>
+		</String>
+
+		<String Key="Add Processes">
+			<de>Prozesse hinzufügen</de>
+			<us>Add Processes</us>
+			<es>Añadir procesos</es>
+			<fr>Ajouter des traitements</fr>
+			<it>Aggiungi processi</it>
+			<jp>処理を追加</jp>
+			<pt>Adicionar processos</pt>
+			<ru>Добавить процессы</ru>
+			<zh>添加处理</zh>
+		</String>
+
+		<String Key="Add or drop processes here!">
+			<de>Prozesse hier hinzufügen oder ablegen.</de>
+			<us>Add or drop processes here!</us>
+			<es>Añada o deposite procesos aquí.</es>
+			<fr>Ajoutez ou faites glisser des traitements ici !</fr>
+			<it>Aggiungere o rilasciare qui i processi!</it>
+			<jp>処理をここに追加またはドロップ</jp>
+			<pt>Adicione ou solte processos aqui!</pt>
+			<ru>Добавьте или перетащите процессы сюда!</ru>
+			<zh>添加或托拖拽处理到此处！</zh>
+		</String>
+
+		<String Key="Algorithm Settings">
+			<de>Algorithmus-Einstellungen</de>
+			<us>Algorithm Settings</us>
+			<es>Ajustes del algoritmo</es>
+			<fr>Paramètres d'algorithme</fr>
+			<it>Impostazioni dell'algoritmo</it>
+			<jp>アルゴリズムの設定</jp>
+			<pt>Configurações do algoritmo</pt>
+			<ru>Настройка алгоритма</ru>
+			<zh>算法设置</zh>
+		</String>
+
+		<String Key="Arbitrary Range End Time in Primary Time Format">
+			<de>Endpunkt des Bereichs im primären Zeitformat</de>
+			<us>Arbitrary Range End Time in Primary Time Format</us>
+			<es>Tiempo final del rango arbitrario en formato primario</es>
+			<fr>Temps de fin de la section en format de temps primaire</fr>
+			<it>Tempo di fine dell'intervallo nel formato ora primario</it>
+			<jp>任意の範囲終了時間 (プライマリータイムフォーマット)</jp>
+			<pt>Temo final do intervalo arbitrário no formato de tempo principal</pt>
+			<ru>Произвольное время окончания в основном формате времени</ru>
+			<zh>在主时间格式的任意范围结束时间</zh>
+		</String>
+
+		<String Key="Arbitrary Range Start Time in Primary Time Format">
+			<de>Startpunkt des Bereichs im primären Zeitformat</de>
+			<us>Arbitrary Range Start Time in Primary Time Format</us>
+			<es>Tiempo inicial del rango arbitrario en formato primario</es>
+			<fr>Temps de début de la section en format de temps primaire</fr>
+			<it>Tempo di inizio dell'intervallo nel formato ora primario</it>
+			<jp>任意の範囲開始時間 (プライマリータイムフォーマット)</jp>
+			<pt>Temo inicial do intervalo arbitrário no formato de tempo principal</pt>
+			<ru>Произвольное время начала в основном формате времени</ru>
+			<zh>在主时间格式的任意范围开始时间</zh>
+		</String>
+
+		<String Key="Audition Loop">
+			<de>Auswahl als Loop wiedergeben</de>
+			<us>Audition Loop</us>
+			<es>Escuchar bucle</es>
+			<fr>Audition de la boucle</fr>
+			<it>Ascolto in loop</it>
+			<jp>試聴(ループ)</jp>
+			<pt>Loop de audição</pt>
+			<ru>Зациклить прослушивание</ru>
+			<zh>试听循环</zh>
+		</String>
+
+		<String Key="Audition Volume">
+			<de>Lautstärke</de>
+			<us>Audition Volume</us>
+			<es>Volumen</es>
+			<fr>Volume de l'audition</fr>
+			<it>Volume di ascolto</it>
+			<jp>試聴時ボリューム</jp>
+			<pt>Volume de audição</pt>
+			<ru>Громкость прослушивания</ru>
+			<zh>试听音量</zh>
+		</String>
+
+		<String Key="Auto Apply">
+			<de>Auto-Anwenden</de>
+			<us>Auto Apply</us>
+			<es>Auto aplicar</es>
+			<fr>Auto-appliquer</fr>
+			<it>Applica automaticamente</it>
+			<jp>自動適用</jp>
+			<pt>Aplicar automaticamente</pt>
+			<ru>Применять автоматич.</ru>
+			<zh>自动应用</zh>
+		</String>
+
+		<String Key="Bank 1">
+			<de>Bank 1</de>
+			<us>Bank 1</us>
+			<es>Banco 1</es>
+			<fr>Banque 1</fr>
+			<it>Banco 1</it>
+			<jp>バンク 1</jp>
+			<pt>Banco 1</pt>
+			<ru>Банк 1</ru>
+			<zh>库 1</zh>
+		</String>
+
+		<String Key="Bank 2">
+			<de>Bank 2</de>
+			<us>Bank 2</us>
+			<es>Banco 2</es>
+			<fr>Banque 2</fr>
+			<it>Banco 2</it>
+			<jp>バンク 2</jp>
+			<pt>Banco 2</pt>
+			<ru>Банк 2</ru>
+			<zh>库 2</zh>
+		</String>
+
+		<String Key="Bank 3">
+			<de>Bank 3</de>
+			<us>Bank 3</us>
+			<es>Banco 3</es>
+			<fr>Banque 3</fr>
+			<it>Banco 3</it>
+			<jp>バンク 3</jp>
+			<pt>Banco 3</pt>
+			<ru>Банк 3</ru>
+			<zh>库 3</zh>
+		</String>
+
+		<String Key="Bank 4">
+			<de>Bank 4</de>
+			<us>Bank 4</us>
+			<es>Banco 4</es>
+			<fr>Banque 4</fr>
+			<it>Banco 4</it>
+			<jp>バンク 4</jp>
+			<pt>Banco 4</pt>
+			<ru>Банк 4</ru>
+			<zh>库 4</zh>
+		</String>
+
+		<String Key="Banks">
+			<de>Bänke</de>
+			<us>Banks</us>
+			<es>Bancos</es>
+			<fr>Banques</fr>
+			<it>Banchi</it>
+			<jp>バンク</jp>
+			<pt>Bancos</pt>
+			<ru>Банки</ru>
+			<zh>音色库</zh>
+		</String>
+
+		<String Key="Bars">
+			<de>Takte</de>
+			<us>Bars</us>
+			<es>Compases</es>
+			<fr>Mesures</fr>
+			<it>Misure</it>
+			<jp>小節</jp>
+			<pt>Compassos</pt>
+			<ru>Такты</ru>
+			<zh>小节</zh>
+		</String>
+
+		<String Key="Bars in Original Length">
+			<de>Ursprüngliche Anzahl Takte</de>
+			<us>Bars in Original Length</us>
+			<es>Número original de compases</es>
+			<fr>Mesures de la durée originale</fr>
+			<it>Misure di durata originale</it>
+			<jp>元の長さでの小節数</jp>
+			<pt>Compassos na duração original</pt>
+			<ru>Исходная длительность тактов</ru>
+			<zh>原始长度小节</zh>
+		</String>
+
+		<String Key="Beats in Original Length">
+			<de>Ursprüngliche Anzahl Zählzeiten</de>
+			<us>Beats in Original Length</us>
+			<es>Número original de tiempos</es>
+			<fr>Temps de la durée originale</fr>
+			<it>Tempi di durata originale</it>
+			<jp>元の長さでの拍数</jp>
+			<pt>Pulsações na duração original</pt>
+			<ru>Доли оригинальной длины</ru>
+			<zh>节拍原始长度</zh>
+		</String>
+
+		<String Key="Current Time Stretch Factor">
+			<de>Aktueller Time-Stretch-Faktor</de>
+			<us>Current Time Stretch Factor</us>
+			<es>Factor de modificación del tiempo actual</es>
+			<fr>Facteur actuel de modification de la durée</fr>
+			<it>Fattore di modifica della durata corrente</it>
+			<jp>現在のタイムストレッチ率</jp>
+			<pt>Fator de modificação de tempo atual</pt>
+			<ru>Текущий фактор растяжения по времени</ru>
+			<zh>当前时间拉伸系数</zh>
+		</String>
+
+		<String Key="Define Bars">
+			<de>Takte festlegen</de>
+			<us>Define Bars</us>
+			<es>Definir compases</es>
+			<fr>Régler mesures</fr>
+			<it>Definisci misure</it>
+			<jp>小節を定義</jp>
+			<pt>Definir compassos</pt>
+			<ru>Определить такты</ru>
+			<zh>定义小节</zh>
+		</String>
+
+		<String Key="Dialogue-Gated">
+			<de>Dialog-Gating</de>
+			<us>Dialogue-Gated</us>
+			<es>Ventana de diálogo</es>
+			<fr>Uniquement les dialogues</fr>
+			<it>Solamente i dialoghi</it>
+			<jp>ダイアログゲーティング</jp>
+			<pt>Gate no diálogo</pt>
+			<ru>Диалог (с гейтом)</ru>
+			<zh>Dialogue-Gated</zh>
+		</String>
+
+		<String Key="Dialogue-gated loudness measurement according to ITU-R BS.1770">
+			<de>Messung mit Dialog-Gating gemäß ITU-R BS.1770</de>
+			<us>Dialogue-gated loudness measurement according to ITU-R BS.1770</us>
+			<es>Medición de sonoridad de ventana de diálogo según ITU-R BS.1770</es>
+			<fr>Mesure de la loudness uniquement sur les dialogues conformément à la recommandation UIT-R BS.1770</fr>
+			<it>Misurazione dell'intensità acustica solo sui dialoghi in conformità con le raccomandazioni ITU-R BS.1770</it>
+			<jp>ダイアログゲーティングを適用したラウドネス測定 (ITU-R BS.1770準拠)</jp>
+			<pt>Medida de loudness com gate de diáligo de acordo com ITU-R BS.1770</pt>
+			<ru>Измерение громкости диалогов (с гейтом) в соответствии с ITU-R BS.1770</ru>
+			<zh>根据 ITU-R BS.1770 的 Dialogue-Gated 响度测量</zh>
+		</String>
+
+		<String Key="Difference">
+			<de>Differenz</de>
+			<us>Difference</us>
+			<es>Diferencia</es>
+			<fr>Différence</fr>
+			<it>Differenza</it>
+			<jp>差異</jp>
+			<pt>Diferença</pt>
+			<ru>Отличие</ru>
+			<zh>差别</zh>
+		</String>
+
+		<String Key="Drop processes here!">
+			<de>Prozesse hier ablegen.</de>
+			<us>Drop processes here!</us>
+			<es>Deposite procesos aquí.</es>
+			<fr>Faites glisser des traitements ici !</fr>
+			<it>Rilasciare qui i processi!</it>
+			<jp>処理をここにドロップ</jp>
+			<pt>Solte processos aqui!</pt>
+			<ru>Перетащите процессы сюда!</ru>
+			<zh>拖拽处理到此处！</zh>
+		</String>
+
+		<String Key="Enter Favorite Name">
+			<de>Favoriten-Namen eingeben</de>
+			<us>Enter Favorite Name</us>
+			<es>Introducir nombre de favorito</es>
+			<fr>Saisir le nom du favori</fr>
+			<it>Digitare il nome del preferito</it>
+			<jp>お気に入りの名前を入力</jp>
+			<pt>Insira o nome do favorito</pt>
+			<ru>Введите название Избранного</ru>
+			<zh>输入收藏名称</zh>
+		</String>
+
+		<String Key="Envelope">
+			<de>Hüllkurve</de>
+			<us>Envelope</us>
+			<es>Envolvente</es>
+			<fr>Enveloppe</fr>
+			<it>Inviluppo</it>
+			<jp>エンベロープ</jp>
+			<pt>Envelope</pt>
+			<ru>Огибающая</ru>
+			<zh>包络</zh>
+		</String>
+
+		<String Key="Extend Process Range">
+			<de>Bearbeitungsbereich erweitern</de>
+			<us>Extend Process Range</us>
+			<es>Extender rango de procesado</es>
+			<fr>Agrandir plage d'édition</fr>
+			<it>Estendi l'intervallo di processamento</it>
+			<jp>処理範囲を拡張</jp>
+			<pt>Estender intervalo do processo</pt>
+			<ru>Расширение диапазона обработки</ru>
+			<zh>扩展处理范围</zh>
+		</String>
+
+		<String Key="Extend Process Range in ms">
+			<de>Bearbeitungsbereich erweitern (in ms)</de>
+			<us>Extend Process Range in ms</us>
+			<es>Extender rango de procesado en ms</es>
+			<fr>Étendre l'intervalle de traitement en ms</fr>
+			<it>Estendi l'intervallo di processamento in ms</it>
+			<jp>処理範囲を拡張 (ms 単位)</jp>
+			<pt>Estender intervalo do processo em ms</pt>
+			<ru>Расширение диапазона обработки в мс</ru>
+			<zh>扩展处理范围毫秒</zh>
+		</String>
+
+		<String Key="File Sample Rate">
+			<de>Datei-Samplerate</de>
+			<us>File Sample Rate</us>
+			<es>Frec. de muestreo de archivo</es>
+			<fr>Fréquence d'échantillonnage du fichier</fr>
+			<it>Frequenza di campionamento del file</it>
+			<jp>ファイルのサンプリングレート</jp>
+			<pt>Taxa de amostragem do arquivo:</pt>
+			<ru>Частота дискретизации файла</ru>
+			<zh>文件采样率</zh>
+		</String>
+
+		<String Key="Integrated Loudness in LUFS">
+			<de>Durchschnittslautheit in LUFS</de>
+			<us>Integrated Loudness in LUFS</us>
+			<es>Sonoridad integrada en LUFS</es>
+			<fr>Loudness intégrée en LUFS</fr>
+			<it>Intensità acustica integrata in LUFS</it>
+			<jp>統合ラウドネス (LUFS)</jp>
+			<pt>Loudness integrado em LUFS</pt>
+			<ru>Интегральная громкость в LUFS</ru>
+			<zh>响度集成 LUFS</zh>
+		</String>
+
+		<String Key="Invert Phase on">
+			<de>Phase umkehren</de>
+			<us>Invert Phase on</us>
+			<es>Invertir fase act.</es>
+			<fr>Inverser phase actif</fr>
+			<it>Inverti fase - attivato</it>
+			<jp>位相を反転オン</jp>
+			<pt>Inverter fase Ativ.</pt>
+			<ru>Включить инвертирование фазы</ru>
+			<zh>反转相位开</zh>
+		</String>
+
+		<String Key="Length in Samples">
+			<de>Länge in Samples</de>
+			<us>Length in Samples</us>
+			<es>Duración en muestras</es>
+			<fr>Durée en échantillons</fr>
+			<it>Durata in campioni</it>
+			<jp>長さ (サンプル)</jp>
+			<pt>Duração em amostras</pt>
+			<ru>Длина в семплах</ru>
+			<zh>采样长度</zh>
+		</String>
+
+		<String Key="Length in Seconds">
+			<de>Länge in Sekunden</de>
+			<us>Length in Seconds</us>
+			<es>Duración en segundos</es>
+			<fr>Durée en secondes</fr>
+			<it>Durata in secondi</it>
+			<jp>長さ (秒)</jp>
+			<pt>Duração em segundos</pt>
+			<ru>Длина в секундах</ru>
+			<zh>秒长度</zh>
+		</String>
+
+		<String Key="Listen Chord">
+			<de>Akkord spielen</de>
+			<us>Listen Chord</us>
+			<es>Escuchar acorde</es>
+			<fr>Écouter l'accord</fr>
+			<it>Ascolta l'accordo</it>
+			<jp>コードを再生</jp>
+			<pt>Ouvir acorde</pt>
+			<ru>Прослушать аккорд</ru>
+			<zh>听和弦</zh>
+		</String>
+
+		<String Key="Listen Key">
+			<de>Ton spielen</de>
+			<us>Listen Key</us>
+			<es>Escuchar nota</es>
+			<fr>Écouter la note</fr>
+			<it>Ascolta la nota</it>
+			<jp>移調ピッチを再生</jp>
+			<pt>Ouvir tom</pt>
+			<ru>Прослушать тон</ru>
+			<zh>听音调</zh>
+		</String>
+
+		<String Key="Listen Key Level">
+			<de>Pegel für 'Ton spielen'</de>
+			<us>Listen Key Level</us>
+			<es>Nivel de 'Escuchar nota'</es>
+			<fr>Niveau pour 'Écouter la note'</fr>
+			<it>Livello della funzione 'Ascolta la nota'</it>
+			<jp>リッスンキーレベル</jp>
+			<pt>Volume para 'Ouvir tom'</pt>
+			<ru>Уровень прослушив.</ru>
+			<zh>听音调电平</zh>
+		</String>
+
+		<String Key="Loudness Normalization">
+			<de>Normalisieren nach Lautheit</de>
+			<us>Loudness Normalization</us>
+			<es>Normalización de sonoridad</es>
+			<fr>Normalisation sur la Loudness</fr>
+			<it>Normalizzazione in base all'intensità acustica</it>
+			<jp>ラウドネスのノーマライズ</jp>
+			<pt>Normalização de loudness</pt>
+			<ru>Нормализация громкости</ru>
+			<zh>响度标准化</zh>
+		</String>
+
+		<String Key="Maximum Peak Level">
+			<de>Maximaler Spitzenpegel</de>
+			<us>Maximum Peak Level</us>
+			<es>Nivel máximo de pico</es>
+			<fr>Niveau de crête maximal</fr>
+			<it>Livello di picco massimo</it>
+			<jp>最大ピークレベル</jp>
+			<pt>Nível de pico máximo</pt>
+			<ru>Максимальный пиковый уровень</ru>
+			<zh>最大峰值电平</zh>
+		</String>
+
+		<String Key="Maximum Peak Level in dBFS">
+			<de>Maximaler Spitzenpegel in dBFS</de>
+			<us>Maximum Peak Level in dBFS</us>
+			<es>Nivel máximo de pico en dBFS</es>
+			<fr>Niveau de crête maximal en dBFS</fr>
+			<it>Livello di picco massimo in dBFS</it>
+			<jp>最大ピークレベル (dBFS)</jp>
+			<pt>Nível de pico máximo em dBFS</pt>
+			<ru>Максимальный пиковый уровень в dBFS</ru>
+			<zh>dBFS 的最大峰值电平</zh>
+		</String>
+
+		<String Key="Multi Shift">
+			<de>Akkord</de>
+			<us>Multi Shift</us>
+			<es>Múltiples notas</es>
+			<fr>Multiples notes</fr>
+			<it>Note multiple</it>
+			<jp>多重シフト</jp>
+			<pt>Multideslocamento</pt>
+			<ru>Аккорд</ru>
+			<zh>多个移位</zh>
+		</String>
+
+		<String Key="Name:">
+			<de>Name:</de>
+			<us>שם:</us>
+			<es>Nombre:</es>
+			<fr>Nom :</fr>
+			<it>Nome:</it>
+			<jp>名前:</jp>
+			<pt>Nome:</pt>
+			<ru>Название:</ru>
+			<zh>名称：</zh>
+		</String>
+
+		<String Key="New Favorite">
+			<de>Neuer Favorit</de>
+			<us>New Favorite</us>
+			<es>Nuevo favorito</es>
+			<fr>Nouveau favori</fr>
+			<it>Nuovo preferito</it>
+			<jp>新しいお気に入り</jp>
+			<pt>Novo favorito</pt>
+			<ru>Новое избранное</ru>
+			<zh>新建收藏</zh>
+		</String>
+
+		<String Key="New Sample Rate">
+			<de>Neue Samplerate</de>
+			<us>New Sample Rate</us>
+			<es>Nueva frecuencia de muestreo</es>
+			<fr>Nouvelle fréquence d'échantillonnage</fr>
+			<it>Nuova frequenza di campionamento</it>
+			<jp>新しいサンプリングレート</jp>
+			<pt>Nova taxa de amostragem</pt>
+			<ru>Новая частота дискретизации</ru>
+			<zh>新采样率</zh>
+		</String>
+
+		<String Key="Original Length">
+			<de>Originallänge</de>
+			<us>Original Length</us>
+			<es>Duración original</es>
+			<fr>Durée originale</fr>
+			<it>Durata originale</it>
+			<jp>元の長さ</jp>
+			<pt>Duração original</pt>
+			<ru>Исходная длительность</ru>
+			<zh>原始长度</zh>
+		</String>
+
+		<String Key="Original Length in Samples">
+			<de>Originallänge in Samples</de>
+			<us>Original Length in Samples</us>
+			<es>Duración original en muestras</es>
+			<fr>Durée originale en échantillons</fr>
+			<it>Durata originale in campioni</it>
+			<jp>元の長さ(サンプル数)</jp>
+			<pt>Duração original em amostras</pt>
+			<ru>Исходная длительность в семплах</ru>
+			<zh>原始长度（采样）</zh>
+		</String>
+
+		<String Key="Original Length in Seconds">
+			<de>Originallänge in Sekunden</de>
+			<us>Original Length in Seconds</us>
+			<es>Duración original en segundos</es>
+			<fr>Durée originale en secondes</fr>
+			<it>Durata originale in secondi</it>
+			<jp>元の長さ(秒数)</jp>
+			<pt>Duração original em segundos</pt>
+			<ru>Исходная длительность в секундах</ru>
+			<zh>原始长度（秒）</zh>
+		</String>
+
+		<String Key="Peak Normalization">
+			<de>Normalisieren nach Spitzenpegel</de>
+			<us>Peak Normalization</us>
+			<es>Normalización de pico</es>
+			<fr>Normalisation d'après les crêtes</fr>
+			<it>Normalizzazione in base al livello di picco</it>
+			<jp>ピークのノーマライズ</jp>
+			<pt>Normalização de pico</pt>
+			<ru>Нормализация пиков</ru>
+			<zh>峰值标准化</zh>
+		</String>
+
+		<String Key="Pin Process">
+			<de>Prozess anheften</de>
+			<us>Pin Process</us>
+			<es>Fijar proceso</es>
+			<fr>Processus d'ancrage</fr>
+			<it>Fissa il processo</it>
+			<jp>プロセスのピン留め</jp>
+			<pt>Fixar processo</pt>
+			<ru>Закрепить процесс</ru>
+			<zh>Pin Process</zh>
+		</String>
+
+		<String Key="Pin process to panel">
+			<de>Prozess an das Bedienfeld anheften</de>
+			<us>Pin process to panel</us>
+			<es>Fijar proceso a panel</es>
+			<fr>Processus d'ancrage au panneau</fr>
+			<it>Fissa il processo al pannello</it>
+			<jp>プロセスをパネルにピン留め</jp>
+			<pt>Fixar processo ao painel</pt>
+			<ru>Закрепить процесс на панели</ru>
+			<zh>Pin process 到面板</zh>
+		</String>
+
+		<String Key="Pitch Shift Base">
+			<de>Pitch-Shift-Basis</de>
+			<us>Pitch Shift Base</us>
+			<es>Referencia</es>
+			<fr>Référence</fr>
+			<it>Riferimento</it>
+			<jp>基準ピッチ</jp>
+			<pt>Base da alteração de afinação</pt>
+			<ru>Исходное состояние сдвига высоты тона</ru>
+			<zh>音高移位基准</zh>
+		</String>
+
+		<String Key="Pitch Shift Settings">
+			<de>Pitch-Shift-Einstellungen</de>
+			<us>Pitch Shift Settings</us>
+			<es>Configuración de la corrección de tono</es>
+			<fr>Configuration de la correction de hauteur</fr>
+			<it>Configurazione della correzione dell'altezza</it>
+			<jp>ピッチシフトの設定</jp>
+			<pt>Configurações da alteração de afinação</pt>
+			<ru>Настройка изменения высоты тона</ru>
+			<zh>音高移位设置</zh>
+		</String>
+
+		<String Key="Please select an event.">
+			<de>Wählen Sie ein Event aus.</de>
+			<us>Please select an event.</us>
+			<es>Por favor seleccione un evento.</es>
+			<fr>Veuillez sélectionner un événement.</fr>
+			<it>Si prega di selezionare un evento.</it>
+			<jp>イベントを選択してください。</jp>
+			<pt>Selecione um evento.</pt>
+			<ru>Пожалуйста, выберите событие.</ru>
+			<zh>请选择一个事件。</zh>
+		</String>
+
+		<String Key="Plug-in">
+			<de>PlugIn</de>
+			<us>פלא-אין</us>
+			<es>Plug-in</es>
+			<fr>Plug-in</fr>
+			<it>Plug-in</it>
+			<jp>プラグイン</jp>
+			<pt>Plug-in</pt>
+			<ru>Плагин</ru>
+			<zh>插件</zh>
+		</String>
+
+		<String Key="Preview Settings">
+			<de>Vorhören-Einstellungen</de>
+			<us>Preview Settings</us>
+			<es>Ajustes de preescucha</es>
+			<fr>Paramètres de pré-écoute</fr>
+			<it>Impostazioni dell'anteprima</it>
+			<jp>設定をプレビュー</jp>
+			<pt>Ouvir ajustes</pt>
+			<ru>Настройки превью</ru>
+			<zh>试听设置</zh>
+		</String>
+
+		<String Key="Process">
+			<de>Prozesse</de>
+			<us>Process</us>
+			<es>Proceso</es>
+			<fr>Traitement</fr>
+			<it>Processi</it>
+			<jp>処理</jp>
+			<pt>Processar</pt>
+			<ru>Процесс</ru>
+			<zh>处理</zh>
+		</String>
+
+		<String Key="Processing Done">
+			<de>Bearbeitung abgeschlossen</de>
+			<us>Processing Done</us>
+			<es>Procesado realizado</es>
+			<fr>Traitement terminé</fr>
+			<it>Processamento completato</it>
+			<jp>処理が終了しました。</jp>
+			<pt>Processamento concluído</pt>
+			<ru>Обработка выполнена</ru>
+			<zh>处理完成</zh>
+		</String>
+
+		<String Key="Processing Failed">
+			<de>Bearbeitung fehlgeschlagen</de>
+			<us>Processing Failed</us>
+			<es>Falló el procesado</es>
+			<fr>Le traitement a échoué</fr>
+			<it>Processamento non riuscito</it>
+			<jp>処理が失敗しました。</jp>
+			<pt>Falha ao processar</pt>
+			<ru>Обработка не удалась</ru>
+			<zh>处理失败</zh>
+		</String>
+
+		<String Key="Program-Gated">
+			<de>Programm-Gating</de>
+			<us>Program-Gated</us>
+			<es>Ventana de programa</es>
+			<fr>Du programme</fr>
+			<it>Del programma</it>
+			<jp>プログラムゲーティング</jp>
+			<pt>Gate de programa</pt>
+			<ru>Программа (с гейтом)</ru>
+			<zh>Program-Gated</zh>
+		</String>
+
+		<String Key="Program-gated loudness measurement according to EBU R 128">
+			<de>Messung mit Programm-Gating gemäß EBU R 128</de>
+			<us>Program-gated loudness measurement according to EBU R 128</us>
+			<es>Medición de sonoridad de ventana de programa según EBU R 128</es>
+			<fr>Mesure de la loudness du programme conformément à la recommandation EBU R 128</fr>
+			<it>Misurazione dell'intensità acustica del programma in conformità con lo standard EBU R 128</it>
+			<jp>プログラムゲーティングを適用したラウドネス測定 (EBU R 128 準拠)</jp>
+			<pt>Medida de loudness com gate de programa de acordo com EBU R 128</pt>
+			<ru>Измерение громкости программы (с гейтом) в соответствии с EBU R 128</ru>
+			<zh>根据 EBU R 128 的 Program-gated 响度测量</zh>
+		</String>
+
+		<String Key="Range in Primary Time Format">
+			<de>Bereich im primären Zeitformat</de>
+			<us>Range in Primary Time Format</us>
+			<es>Rango en formato de tiempo primario</es>
+			<fr>Section en format de temps primaire</fr>
+			<it>Intervallo nel formato ora primario</it>
+			<jp>範囲 (プライマリータイムフォーマット)</jp>
+			<pt>Intervalo no formato de tempo principal</pt>
+			<ru>Диапазон в основном формате времени</ru>
+			<zh>主要时间格式范围</zh>
+		</String>
+
+		<String Key="Reset to Default Values">
+			<de>Auf Standardwerte zurücksetzen</de>
+			<us>Reset to Default Values</us>
+			<es>Reinicializar a valores por defecto</es>
+			<fr>Réinitialiser aux valeurs par défaut</fr>
+			<it>Ripristina i valori predefiniti</it>
+			<jp>初期値に戻す</jp>
+			<pt>Restaurar para valores padrão</pt>
+			<ru>Сброс в значения по умолчанию</ru>
+			<zh>重置为默认值</zh>
+		</String>
+
+		<String Key="Resulting Length">
+			<de>Resultierende Länge</de>
+			<us>Resulting Length</us>
+			<es>Duración resultante</es>
+			<fr>Durée résultante</fr>
+			<it>Durata risultante</it>
+			<jp>処理後の長さ</jp>
+			<pt>Duração resultante</pt>
+			<ru>Результирующая длительность</ru>
+			<zh>结果长度</zh>
+		</String>
+
+		<String Key="Resulting Length in Samples">
+			<de>Resultierende Länge in Samples</de>
+			<us>Resulting Length in Samples</us>
+			<es>Duración resultante en muestras</es>
+			<fr>Durée résultante en échantillons</fr>
+			<it>Durata risultante in campioni</it>
+			<jp>処理後の長さ(サンプル数)</jp>
+			<pt>Duração resultante em amostras</pt>
+			<ru>Результирующая длительность в семплах</ru>
+			<zh>结果长度（采样）</zh>
+		</String>
+
+		<String Key="Resulting Length in Seconds">
+			<de>Resultierende Länge in Sekunden</de>
+			<us>Resulting Length in Seconds</us>
+			<es>Duración resultante en segundos</es>
+			<fr>Durée résultante en secondes</fr>
+			<it>Durata risultante in secondi</it>
+			<jp>処理後の長さ(秒数)</jp>
+			<pt>Duração resultante em segundos</pt>
+			<ru>Результирующая длительность в секундах</ru>
+			<zh>结果长度（秒）</zh>
+		</String>
+
+		<String Key="Resulting Tempo">
+			<de>Resultierendes Tempo</de>
+			<us>Resulting Tempo</us>
+			<es>Tempo resultante</es>
+			<fr>Tempo résultant</fr>
+			<it>Tempo risultante</it>
+			<jp>処理後のテンポ</jp>
+			<pt>Andamento resultante</pt>
+			<ru>Результирующий темп</ru>
+			<zh>结果速度</zh>
+		</String>
+
+		<String Key="Root Note/Pitch">
+			<de>Grundton/Tonhöhe</de>
+			<us>Root Note/Pitch</us>
+			<es>Nota fundamental/Tono</es>
+			<fr>Note fondamentale</fr>
+			<it>Nota fondamentale</it>
+			<jp>ルートノート/ピッチ</jp>
+			<pt>Tônica/Tom</pt>
+			<ru>Основной тон/высота тона:</ru>
+			<zh>根音/音高</zh>
+		</String>
+
+		<String Key="Select Preset">
+			<de>Preset auswählen</de>
+			<us>Select Preset</us>
+			<es>Seleccionar preset</es>
+			<fr>Sélectionner préréglage</fr>
+			<it>Seleziona preset</it>
+			<jp>プリセットを選択</jp>
+			<pt>Selecionar preset</pt>
+			<ru>Выбрать пресет</ru>
+			<zh>选择预置</zh>
+		</String>
+
+		<String Key="Selects Algorithm Preset">
+			<de>Wählt ein Algorithmus-Preset aus</de>
+			<us>Selects Algorithm Preset</us>
+			<es>Selecciona preset de algoritmo</es>
+			<fr>Sélectionne un préréglage d'algorithme</fr>
+			<it>Seleziona un preset dell'algoritmo</it>
+			<jp>アルゴリズムプリセットを選択します</jp>
+			<pt>Seleciona o preset de algoritmo</pt>
+			<ru>Выбирает пресет алгоритма</ru>
+			<zh>选择算法预置</zh>
+		</String>
+
+		<String Key="Set Range to current Locator Range">
+			<de>Bereich zwischen den Locatoren übernehmen</de>
+			<us>Set Range to current Locator Range</us>
+			<es>Ajustar rango al rango de localizadores</es>
+			<fr>Utiliser intervalle défini par les délimiteurs</fr>
+			<it>Utilizza l'intervallo tra i localizzatori</it>
+			<jp>範囲を現在のロケーター範囲に設定</jp>
+			<pt>Definir intervalo para o intervalo de localizador atual</pt>
+			<ru>Задать диапазон по текущему диапазону локаторов</ru>
+			<zh>设置范围到当前定位点范围</zh>
+		</String>
+
+		<String Key="Tail">
+			<de>Ausklingzeit</de>
+			<us>Tail</us>
+			<es>Extensión</es>
+			<fr>Extension</fr>
+			<it>Coda</it>
+			<jp>テール部の追加時間</jp>
+			<pt>Sobra</pt>
+			<ru>Хвост</ru>
+			<zh>释放时间</zh>
+		</String>
+
+		<String Key="Tail in ms">
+			<de>Ausklingzeit in ms</de>
+			<us>Tail in ms</us>
+			<es>Cola en ms</es>
+			<fr>Queue en ms</fr>
+			<it>Coda in ms</it>
+			<jp>テール (ms)</jp>
+			<pt>Sobra em ms</pt>
+			<ru>Хвост в мсек</ru>
+			<zh>尾音毫秒</zh>
+		</String>
+
+		<String Key="Tempo in BPM">
+			<de>Tempo in BPM</de>
+			<us>Tempo in BPM</us>
+			<es>Tempo en BPM</es>
+			<fr>Tempo en BPM</fr>
+			<it>Tempo in BPM</it>
+			<jp>テンポ (BPM)</jp>
+			<pt>Andamento em BPM</pt>
+			<ru>Темп в BPM</ru>
+			<zh>速度 BPM：</zh>
+		</String>
+
+		<String Key="Threshold for dialogue-gated loudness measurement. If less speech is detected in audio, program-gated measurement is used">
+			<de>Schwellenwert für Messung mit Dialog-Gating. Bei Ermittlung von weniger Sprache wird eine Messung mit Programm-Gating verwendet</de>
+			<us>Threshold for dialogue-gated loudness measurement. If less speech is detected in audio, program-gated measurement is used</us>
+			<es>Umbral para medición de sonoridad de ventana de diálogo. Si se detecta una menor habla en el audio, se usa la medición de ventana de programa.</es>
+			<fr>Seuil de mesure de la loudness des dialogues uniquement. Quand les dialogues détectés sont inférieurs à ce seuil, c'est la loudness du programme qui est mesurée.</fr>
+			<it>Soglia per la misurazione dell'intensità acustica dei soli dialoghi. Se nell'audio viene rilevata una percentuale di componente parlata inferiore, viene utilizzata la misurazione del programma.</it>
+			<jp>ダイアログゲーティングを適用したラウドネス測定のスレッショルド。オーディオで検出された声の割合が低い場合、プログラムゲーティングを適用した測定が使用されます。</jp>
+			<pt>Limite para medida de loudness com gate de diálogo. Se menos fala for detectada no áudio, a medida com gate de programa será usada.</pt>
+			<ru>Порог для измерения громкости диалога (с использованием гейта). Если речевая компонента аудиосигнала ниже порога, то будет использоваться измерение громкости программы (с использованием гейта).</ru>
+			<zh>dialogue-gated 响度测量的阈值。如果在音频中检测到较少的语音，则使用 program-gated 测量</zh>
+		</String>
+
+		<String Key="Time Correction">
+			<de>Zeitkorrektur</de>
+			<us>Time Correction</us>
+			<es>Corrección de tiempo</es>
+			<fr>Correction temporelle</fr>
+			<it>Correzione del tempo</it>
+			<jp>長さを保持</jp>
+			<pt>Correção de tempo</pt>
+			<ru>Временная коррекция</ru>
+			<zh>时间修正</zh>
+		</String>
+
+		<String Key="Time Signature of Original Length">
+			<de>Taktart der Originallänge</de>
+			<us>Time Signature of Original Length</us>
+			<es>Tipo de compás de la duración original</es>
+			<fr>Chiffrage de mesure de la durée d'origine</fr>
+			<it>Tempo in chiave della durata originale</it>
+			<jp>元の長さでの拍子記号</jp>
+			<pt>Fórmula de compasso da duração original</pt>
+			<ru>Тактовый размер оригинальной длины</ru>
+			<zh>原始长度的拍号</zh>
+		</String>
+
+		<String Key="Time Stretch Ratio">
+			<de>Verhältnis</de>
+			<us>Time Stretch Ratio</us>
+			<es>Proporción</es>
+			<fr>Facteur de modification de la durée</fr>
+			<it>Fattore di modifica della durata</it>
+			<jp>タイムストレッチの比率</jp>
+			<pt>Proporção de ajuste de tempo</pt>
+			<ru>Коэффициент Time Stretch</ru>
+			<zh>时间拉伸比率</zh>
+		</String>
+
+		<String Key="Use Locators">
+			<de>Locator-Bereich</de>
+			<us>Use Locators</us>
+			<es>Usar localizadores</es>
+			<fr>Utiliser délimiteurs</fr>
+			<it>Usa i localizzatori</it>
+			<jp>ロケーターを使用</jp>
+			<pt>Usar localizadores</pt>
+			<ru>Использ. локаторы</ru>
+			<zh>使用定位点</zh>
+		</String>
+
+		<String Key="Use Loudness as Normalization Reference (audio shorter than 0.4s is not normalized)">
+			<de>Lautheit als Referenz für Normalisierung verwenden (Audiomaterial von weniger als 0,4 s Länge wird nicht normalisiert)</de>
+			<us>Use Loudness as Normalization Reference (audio shorter than 0.4s is not normalized)</us>
+			<es>Usar sonoridad como referencia de normalización (el audio más corto que 0.4s no se normaliza)</es>
+			<fr>Utiliser la Loudness en tant que référence pour la normalisation (les signaux audio de moins de 0,4 s ne sont pas normalisés)</fr>
+			<it>Usa l'intensità acustica come riferimento per la normalizzazione (l'audio di durata inferiore a 0,4s non viene normalizzato)</it>
+			<jp>ノーマライズのリファレンスにラウドネスを使用 (0.4 秒未満のオーディオはノーマライズされません)</jp>
+			<pt>Usar loudness como referência de normalização (áudio mais curto que 0,4s não será normalizado)</pt>
+			<ru>Использовать громкость как образец для нормализации (аудио длительностью менее 0.4 сек. не нормализуется)</ru>
+			<zh>使用响度作为作为标准化参考（短于 0.4 秒的音频不被标准化）</zh>
+		</String>
+
+		<String Key="Use Maximum Peak Level as Normalization Reference">
+			<de>Maximalen Spitzenpegel als Referenz für Normalisierung verwenden</de>
+			<us>Use Maximum Peak Level as Normalization Reference</us>
+			<es>Usar nivel máximo de pico como referencia de normalización</es>
+			<fr>Utiliser le niveau de crête maximal en tant que référence pour la normalisation</fr>
+			<it>Utilizza il livello di picco massimo come riferimento per la normalizzazione</it>
+			<jp>ノーマライズのリファレンスに最大ピークレベルを使用</jp>
+			<pt>Usar nível de pico máximo como referência de normalização</pt>
+			<ru>Использовать максимальный пиковый уровень как образец для нормализации</ru>
+			<zh>使用最大峰值电平作为标准化参考</zh>
+		</String>
+
+		<String Key="ZTX Preset">
+			<de>ZTX-Preset</de>
+			<us>ZTX Preset</us>
+			<es>Preset ZTX</es>
+			<fr>Préréglage ZTX</fr>
+			<it>Preset ZTX</it>
+			<jp>ZTX プリセット</jp>
+			<pt>Preset ZTX</pt>
+			<ru>Пресет ZTX</ru>
+			<zh>ZTX 预置</zh>
+		</String>
+
+		<String Key="Activate/Deactivate Side-Chain Source">
+			<de>Side-Chain-Quelle aktivieren/deaktivieren</de>
+			<us>Activate/Deactivate Side-Chain Source</us>
+			<es>Activar/Desactivar fuente de side-chain</es>
+			<fr>Activer/Désactiver la source de Side-Chain</fr>
+			<it>Attiva/Disattiva la sorgente di side-chain</it>
+			<jp>Side-Chain ソースをオン/オフ</jp>
+			<pt>Ativar/Desativar origem do encadeamento lateral</pt>
+			<ru>Активировать/деактивировать источник сайд-чейна</ru>
+			<zh>启用/停用侧链源</zh>
+		</String>
+
+		<String Key="Add Side-Chain Source">
+			<de>Side-Chain-Quelle hinzufügen</de>
+			<us>Add Side-Chain Source</us>
+			<es>Añadir fuente de side-chain</es>
+			<fr>Ajouter une source de Side-Chain</fr>
+			<it>Aggiungi una sorgente side-chain</it>
+			<jp>Side-Chain ソースを追加</jp>
+			<pt>Adicionar origem do encadeamento lateral</pt>
+			<ru>Добавить источник сайд-чейна</ru>
+			<zh>添加侧链源</zh>
+		</String>
+
+		<String Key="Pre/Post Fader">
+			<de>Pre/Post Fader</de>
+			<us>Pre-/Post-Fader</us>
+			<es>Pre/Post fader</es>
+			<fr>Pre/Post Fader</fr>
+			<it>Pre/Post fader</it>
+			<jp>Pre/Post フェーダー</jp>
+			<pt>Pré/Pós fader</pt>
+			<ru>До/После фейдера</ru>
+			<zh>推子 前/后</zh>
+		</String>
+
+		<String Key="Remove Side-Chain Source">
+			<de>Side-Chain-Quelle entfernen</de>
+			<us>Remove Side-Chain Source</us>
+			<es>Eliminar fuente de side-chain</es>
+			<fr>Supprimer la source de Side-Chain</fr>
+			<it>Rimuovi la sorgente side-chain</it>
+			<jp>Side-Chain ソースを削除</jp>
+			<pt>Remover origem do encadeamento lateral</pt>
+			<ru>Удалить источник сайд-чейна</ru>
+			<zh>移除侧链源</zh>
+		</String>
+
+		<String Key="Select the Plug-in Side-Chain Input">
+			<de>PlugIn-Side-Chain-Eingang auswählen</de>
+			<us>Select the Plug-in Side-Chain Input</us>
+			<es>Seleccionar la entrada side-chain del plug-in</es>
+			<fr>Sélectionner l'entrée Side-Chain du plug-in</fr>
+			<it>Seleziona l'ingresso side-chain del plug-in</it>
+			<jp>プラグインの Side-Chain 入力を選択</jp>
+			<pt>Selecione a entrada do encadeamento lateral de plug-in</pt>
+			<ru>Выбрать вход сайд-чейна плагина</ru>
+			<zh>选择插件侧链输入</zh>
+		</String>
+
+		<String Key="Side-Chain Input">
+			<de>Side-Chain-Eingang</de>
+			<us>Side-Chain Input</us>
+			<es>Entrada side-chain</es>
+			<fr>Entrée Side-Chain</fr>
+			<it>Ingresso side-chain</it>
+			<jp>Side-Chain 入力</jp>
+			<pt>Entrada de encadeamento lateral</pt>
+			<ru>Вход сайд-чейна</ru>
+			<zh>侧链输入</zh>
+		</String>
+
+		<String Key="Side-Chain Routing">
+			<de>Side-Chain-Routing</de>
+			<us>Side-Chain Routing</us>
+			<es>Enrutado side-chain</es>
+			<fr>Routage de Side-Chain</fr>
+			<it>Assegnazioni side-chain</it>
+			<jp>Side-Chain ルーティング</jp>
+			<pt>Roteamento de encadeamento lateral:</pt>
+			<ru>Подключение сайд-чейна</ru>
+			<zh>侧链路由</zh>
+		</String>
+
+		<String Key="ASIO Driver">
+			<de>ASIO-Treiber</de>
+			<us>ASIO Driver</us>
+			<es>Controlador ASIO</es>
+			<fr>Pilote ASIO</fr>
+			<it>Driver ASIO</it>
+			<jp>ASIO ドライバー</jp>
+			<pt>Driver ASIO</pt>
+			<ru>ASIO драйвер</ru>
+			<zh>ASIO 驱动</zh>
+		</String>
+
+		<String Key="ASIO Input">
+			<de>ASIO-Eingang</de>
+			<us>ASIO Input</us>
+			<es>Entrada ASIO</es>
+			<fr>Entrée ASIO</fr>
+			<it>Ingresso ASIO</it>
+			<jp>ASIO 入力</jp>
+			<pt>Entrada ASIO</pt>
+			<ru>Вход ASIO</ru>
+			<zh>ASIO 输入</zh>
+		</String>
+
+		<String Key="ASIO Output">
+			<de>ASIO-Ausgang</de>
+			<us>ASIO Output</us>
+			<es>Salida ASIO</es>
+			<fr>Sortie ASIO</fr>
+			<it>Uscita ASIO</it>
+			<jp>ASIO 出力</jp>
+			<pt>Saída ASIO</pt>
+			<ru>Выход ASIO</ru>
+			<zh>ASIO 输出</zh>
+		</String>
+
+		<String Key="ASIO-Guard Latency">
+			<de>ASIO-Guard-Latenz</de>
+			<us>ASIO-Guard Latency</us>
+			<es>Latencia ASIO-Guard</es>
+			<fr>Latence ASIO-Guard</fr>
+			<it>Latenza ASIO-Guard</it>
+			<jp>ASIO-Guard レイテンシー</jp>
+			<pt>Latência ASIO-Guard</pt>
+			<ru>Задержка ASIO-Guard</ru>
+			<zh>ASIO-Guard 延迟</zh>
+		</String>
+
+		<String Key="ASIO-Guard Level">
+			<de>ASIO-Guard-Pegel</de>
+			<us>ASIO-Guard Level</us>
+			<es>Nivel ASIO-Guard</es>
+			<fr>Niveau ASIO-Guard</fr>
+			<it>Livello ASIO-Guard</it>
+			<jp>ASIO-Guard レベル</jp>
+			<pt>Nível ASIO-Guard</pt>
+			<ru>Уровень ASIO-Guard</ru>
+			<zh>ASIO-Guard 等级</zh>
+		</String>
+
+		<String Key="Activate ASIO-Guard">
+			<de>ASIO-Guard aktivieren</de>
+			<us>Activate ASIO-Guard</us>
+			<es>Activar ASIO-Guard</es>
+			<fr>Activer ASIO-Guard</fr>
+			<it>Attiva ASIO-Guard</it>
+			<jp>ASIO-Guard を有効化</jp>
+			<pt>Ativar ASIO-Guard</pt>
+			<ru>Включить ASIO-Guard</ru>
+			<zh>激活 ASIO-Guard</zh>
+		</String>
+
+		<String Key="Activate Multi Processing">
+			<de>Multi-Processing aktivieren</de>
+			<us>Activate Multi Processing</us>
+			<es>Activar multiproceso</es>
+			<fr>Activer le multitraitement</fr>
+			<it>Attiva la funzione multi processore</it>
+			<jp>マルチプロセシングを有効化</jp>
+			<pt>Ativar multiprocessamento</pt>
+			<ru>Включить мультипроцессорную обработку</ru>
+			<zh>激活多线处理</zh>
+		</String>
+
+		<String Key="Activate Steinberg Audio Power Scheme">
+			<de>Modus für optimierte Audioleistung von Steinberg aktivieren</de>
+			<us>Activate Steinberg Audio Power Scheme</us>
+			<es>Activar esquema de energía Steinberg para audio</es>
+			<fr>Activer le Mode optimisé pour la puissance audio de Steinberg</fr>
+			<it>Attiva schema di potenza audio di Steinberg</it>
+			<jp>Steinberg Audio Power Scheme を有効化</jp>
+			<pt>Ativar Esquema de Energia de Áudio Steinberg</pt>
+			<ru>Включить режим оптимизации звучания (Steinberg Audio Power Scheme)</ru>
+			<zh>激活 Steinberg 音频电源方案</zh>
+		</String>
+
+		<String Key="Activates/Deactivates sample-accurate volume automation. If activated, a new automation event is processed after the set number of samples. If deactivated, automation events are only processed once within the buffer size of the ASIO driver.">
+			<de>Aktiviert/Deaktiviert samplegenaue Lautstärkeautomation. Aktiviert: Ein neues Automations-Event wird nach der gesetzten Anzahl von Samples bearbeitet. Deaktiviert: Nur Automations-Events innerhalb der Puffergröße des ASIO-Treibers werden bearbeitet.</de>
+			<us>Activates/Deactivates sample-accurate volume automation. If activated, a new automation event is processed after the set number of samples. If deactivated, automation events are only processed once within the buffer size of the ASIO driver.</us>
+			<es>Activa/Desactiva la automatización de volumen con precisión de muestra. Si está activado, se procesa un nuevo evento de automatización después del número establecido de muestras. Si está desactivado, los eventos de automatización solo se procesan una vez dentro del tamaño del búfer del controlador ASIO.</es>
+			<fr>Permet d'activer/désactiver les automatisations de volume à l'échantillon près. Quand cette option est activée, les nouveaux événements d'automatisation sont traités après un nombre défini d'échantillons. Quand elle est désactivée, les événements d'automatisation ne sont traités qu'une seul fois dans le tampon du pilote ASIO.</fr>
+			<it>Attiva/disattiva l'automazione del volume con precisione al campione. Se attivata, viene processato un nuovo evento di automazione dopo il numero di campioni impostato. Se disattivata, gli eventi di automazione vengono processati solo una volta entro la dimensione del buffer del driver ASIO.</it>
+			<jp>サンプル精度の高いボリュームオートメーションを有効/無効にします。有効にすると、設定したサンプル数の後に新しいオートメーションイベントが処理されます。無効にした場合、オートメーションイベントは ASIO ドライバーのバッファサイズ内で一度だけ処理されます。</jp>
+			<pt>Ativa/Desativa automação de volume com precisão de amostra. Se ativada, um novo evento de automação é processado após o número definido de amostras. Se desativada, os eventos de automação só são processados dentro do tamanho de buffer do driver ASIO.</pt>
+			<ru>Активирует/Деактивирует автоматизацию громкости с точностью до семпла. Если функция активирована, новое событие автоматизации обрабатывается после заданного количества семплов. Если функция отключена, события автоматизации обрабатываются только один раз в пределах размера буфера драйвера ASIO.</ru>
+			<zh>激活/停用采样精确的音量自动化。如果激活，一个新的自动化事件会在设定的采样数量后被处理。如果停用，自动化事件只在 ASIO 驱动的缓冲区大小内处理一次。</zh>
+		</String>
+
+		<String Key="Add Device">
+			<de>Gerät hinzufügen</de>
+			<us>Add Device</us>
+			<es>Añadir dispositivo</es>
+			<fr>Ajouter un périphérique</fr>
+			<it>Aggiungi una periferica</it>
+			<jp>デバイスを追加</jp>
+			<pt>Adicionar dispositivo</pt>
+			<ru>Добавить устройство</ru>
+			<zh>添加设备</zh>
+		</String>
+
+		<String Key="Add Device (from a popup list of available devices)">
+			<de>Gerät hinzufügen (aus dem Einblendmenü der verfügbaren Geräte)</de>
+			<us>Add Device (from a pop-up list of available devices)</us>
+			<es>Añadir dispositivo (desde la lista de dispositivos disponibles)</es>
+			<fr>Ajouter périphérique (D'une liste des périphériques disponibles)</fr>
+			<it>Aggiungi dispositivo (da un elenco dei dispositivi disponibili)</it>
+			<jp>デバイスを追加(利用可能なデバイスをポップアップリストから選択)</jp>
+			<pt>Adicionar dispositivo (de uma lista suspensa de dispositivos disponíveis)</pt>
+			<ru>Добавить устройство (из списка возможных устройств)</ru>
+			<zh>添加设备（从可用设备弹出列表中）</zh>
+		</String>
+
+		<String Key="Adjust for Record Latency">
+			<de>Aufnahmelatenz berücksichtigen</de>
+			<us>Adjust for Record Latency</us>
+			<es>Ajustar a la latencia de grabación</es>
+			<fr>Ajuster à la latence d'enregistrement</fr>
+			<it>Adatta alla latenza della registrazione</it>
+			<jp>録音時のレイテンシーを調整</jp>
+			<pt>Ajustar para latência de gravação</pt>
+			<ru>Регулировка задержки записи</ru>
+			<zh>调整录音延迟</zh>
+		</String>
+
+		<String Key="Advanced Options">
+			<de>Erweiterte Optionen</de>
+			<us>Advanced Options</us>
+			<es>Opciones avanzadas</es>
+			<fr>Options avancées</fr>
+			<it>Opzioni avanzate</it>
+			<jp>詳細設定</jp>
+			<pt>Opções avançadas</pt>
+			<ru>Дополнительно</ru>
+			<zh>高级选项</zh>
+		</String>
+
+		<String Key="Audio Buffer Size">
+			<de>Audiopuffergröße</de>
+			<us>Audio Buffer Size</us>
+			<es>Tamaño de búfer audio</es>
+			<fr>Taille buffeur audio</fr>
+			<it>Dimensione buffer audio</it>
+			<jp>オーディオバッファーサイズ</jp>
+			<pt>Tamanho do buffer de áudio</pt>
+			<ru>Размер аудиобуфера</ru>
+			<zh>音频缓冲大小</zh>
+		</String>
+
+		<String Key="Audio Priority">
+			<de>Audiopriorität</de>
+			<us>Audio Priority</us>
+			<es>Prioridad del audio</es>
+			<fr>Priorité de l'audio</fr>
+			<it>Priorità dell'audio</it>
+			<jp>オーディオ優先度</jp>
+			<pt>Prioridade do áudio</pt>
+			<ru>Приоритет аудио</ru>
+			<zh>音频优先度</zh>
+		</String>
+
+		<String Key="Bank">
+			<de>Bank</de>
+			<us>Bank</us>
+			<es>Banco</es>
+			<fr>Banque</fr>
+			<it>Banco</it>
+			<jp>バンク</jp>
+			<pt>Banco</pt>
+			<ru>Банк</ru>
+			<zh>音色库</zh>
+		</String>
+
+		<String Key="Bank Select">
+			<de>Bank-Auswahl</de>
+			<us>Bank Select</us>
+			<es>Selección de banco</es>
+			<fr>Sélection de banque</fr>
+			<it>Selezione banco</it>
+			<jp>バンクセレクト</jp>
+			<pt>Seleção do banco</pt>
+			<ru>Выбор банка</ru>
+			<zh>音色库选择</zh>
+		</String>
+
+		<String Key="Clock Source">
+			<de>Clock-Quelle</de>
+			<us>Clock Source</us>
+			<es>Fuente de reloj</es>
+			<fr>Source d'horloge</fr>
+			<it>Sorgente di clock</it>
+			<jp>クロックソース</jp>
+			<pt>Origem do relógio</pt>
+			<ru>Источник синхронизации</ru>
+			<zh>时钟源</zh>
+		</String>
+
+		<String Key="Control Panel">
+			<de>Einstellungen...</de>
+			<us>Control Panel</us>
+			<es>Panel de control</es>
+			<fr>Tableau de bord</fr>
+			<it>Pannello di controllo</it>
+			<jp>コントロールパネル</jp>
+			<pt>Painel de controle</pt>
+			<ru>Панель Управления</ru>
+			<zh>控制面板</zh>
+		</String>
+
+		<String Key="Core Version">
+			<de>Core-Version</de>
+			<us>Core Version</us>
+			<es>Versión del núcleo</es>
+			<fr>Version Core</fr>
+			<it>Versione core</it>
+			<jp>コア Ver.</jp>
+			<pt>Versão de núcleo</pt>
+			<ru>Версия ядра</ru>
+			<zh>内核版本</zh>
+		</String>
+
+		<String Key="Custom Assignment">
+			<de>Benutzerdefinierte Zuweisung</de>
+			<us>Custom Assignment</us>
+			<es>Asignación a medida</es>
+			<fr>Assignations utilisateur</fr>
+			<it>Assegnazione personalizzata</it>
+			<jp>カスタム設定</jp>
+			<pt>Atribuição personalizada</pt>
+			<ru>Своё назначение</ru>
+			<zh>自定义分配</zh>
+		</String>
+
+		<String Key="Disk Preload">
+			<de>Vorab laden</de>
+			<us>Disk Preload</us>
+			<es>Precarga de disco</es>
+			<fr>Préchargement disque</fr>
+			<it>Precaricamento del disco</it>
+			<jp>ディスクのプリロード</jp>
+			<pt>Pré-carregamento do disco</pt>
+			<ru>Предв.загрузка с диска</ru>
+			<zh>磁盘预载</zh>
+		</String>
+
+		<String Key="Enable Relay Click">
+			<de>Relay Click aktivieren</de>
+			<us>Enable Relay Click</us>
+			<es>Activar clic de relé</es>
+			<fr>Activer Relay Click</fr>
+			<it>Abilita Relay Click</it>
+			<jp>リレークリックオン</jp>
+			<pt>Habilitar retransmitir clique</pt>
+			<ru>Разрешить отклик</ru>
+			<zh>启用 Relay Click</zh>
+		</String>
+
+		<String Key="Externally Clocked">
+			<de>Externe Clock-Signale</de>
+			<us>Externally Clocked</us>
+			<es>Señal de reloj externa</es>
+			<fr>Synchronisé à une horloge externe</fr>
+			<it>Sincronizzato a un clock esterno</it>
+			<jp>外部クロック</jp>
+			<pt>Clock externo</pt>
+			<ru>Внешняя синхронизация</ru>
+			<zh>外部时钟</zh>
+		</String>
+
+		<String Key="HW Pull Up/Down">
+			<de>HW-Pull-Up/Down</de>
+			<us>HW Pull Up/Down</us>
+			<es>Pull up/down HW</es>
+			<fr>Pull-Up/Down du matériel</fr>
+			<it>Pull-up/down dell'hardware</it>
+			<jp>HW プルアップ/ダウン</jp>
+			<pt>HW Pull Up/Down:</pt>
+			<ru>HW Растяжение/Сжатие</ru>
+			<zh>硬件上拉/下拉</zh>
+		</String>
+
+		<String Key="HW Sample Rate">
+			<de>HW-Samplerate</de>
+			<us>HW Sample Rate</us>
+			<es>Frec. muestreo HW</es>
+			<fr>Fréquence d'échantillonnage du matériel</fr>
+			<it>Frequenza di campionamento dell'hardware</it>
+			<jp>HW サンプリングレート</jp>
+			<pt>Taxa de amostragem de HW</pt>
+			<ru>HW частота дискретизации</ru>
+			<zh>硬件采样率</zh>
+		</String>
+
+		<String Key="Hardware Version">
+			<de>Hardware-Version</de>
+			<us>Hardware Version</us>
+			<es>Versión del hardware</es>
+			<fr>Version du matériel</fr>
+			<it>Versione dell'hardware</it>
+			<jp>ハードウェア Ver.</jp>
+			<pt>Versão do hardware</pt>
+			<ru>Версия оборудования</ru>
+			<zh>硬件版本</zh>
+		</String>
+
+		<String Key="Input Latency">
+			<de>Eingangslatenz</de>
+			<us>Input Latency</us>
+			<es>Latencia de entrada</es>
+			<fr>Latence d'entrée</fr>
+			<it>Latenza d'ingresso</it>
+			<jp>入力のレイテンシー</jp>
+			<pt>Latência de entrada</pt>
+			<ru>Входная задержка</ru>
+			<zh>输入延迟</zh>
+		</String>
+
+		<String Key="MIDI Inputs">
+			<de>MIDI-Eingänge</de>
+			<us>MIDI Inputs</us>
+			<es>Entradas MIDI</es>
+			<fr>Entrées MIDI</fr>
+			<it>Ingressi MIDI</it>
+			<jp>MIDI 入力</jp>
+			<pt>Entradas MIDI</pt>
+			<ru>MIDI входы</ru>
+			<zh>MIDI 输入</zh>
+		</String>
+
+		<String Key="MIDI Outputs">
+			<de>MIDI-Ausgänge</de>
+			<us>MIDI Outputs</us>
+			<es>Salidas MIDI</es>
+			<fr>Sorties MIDI</fr>
+			<it>Uscite MIDI</it>
+			<jp>MIDI 出力</jp>
+			<pt>Saídas MIDI</pt>
+			<ru>MIDI выходы</ru>
+			<zh>MIDI 输出</zh>
+		</String>
+
+		<String Key="No MIDI Remote Controller available. Controllers can be imported or created in the MIDI Remote Manager.">
+			<de>Kein MIDI Remote-Controller verfügbar. Controller können importiert oder über den MIDI Remote-Manager erzeugt werden.</de>
+			<us>No MIDI Remote Controller available. Controllers can be imported or created in the MIDI Remote Manager.</us>
+			<es>No hay ningún controlador MIDI Remote disponible. Los controladores se pueden importar o crear en el gestor MIDI Remote.</es>
+			<fr>Aucun contrôleur MIDI Remote n'est disponible. Il est possible d'importer et de créer des contrôleurs dans le Gestionnaire MIDI Remote.</fr>
+			<it>Nessun controller MIDI Remote disponibile. I controller possono essere importati o creati nel gestore MIDI Remote.</it>
+			<jp>利用できる MIDI Remote コントローラーがありません。コントローラーは MIDI Remote マネージャーで読み込みまたは作成できます。</jp>
+			<pt>Nenhum controlador MIDI Remote disponível. Os controladores podem ser importados ou criados no gerenciador de MIDI Remote.</pt>
+			<ru>Устройство дистанционного управления MIDI недоступно. Контроллеры могут быть импортированы или созданы в менеджере дистанционного управления MIDI.</ru>
+			<zh>没有可用的 MIDI 外挂控制器。控制器可以在 MIDI 外挂管理器中导入或创建。</zh>
+		</String>
+
+		<String Key="Number of samples after which a new automation event is processed.">
+			<de>Anzahl Samples nach denen ein Automations-Event bearbeitet wird.</de>
+			<us>Number of samples after which a new automation event is processed.</us>
+			<es>Número de muestras después de las cuales se procesa un nuevo evento de automatización.</es>
+			<fr>Nombre d'échantillons à partir duquel un nouvel événement d'automatisation est traité.</fr>
+			<it>Numero di campioni dopo i quali viene processato un nuovo evento di automazione.</it>
+			<jp>新しいオートメーションイベントが処理されるまでのサンプル数。</jp>
+			<pt>Número de amostras após as quais um novo evento de automação é processado.</pt>
+			<ru>Количество семплов, после которых обрабатывается новое событие автоматизации.</ru>
+			<zh>新的自动化事件被处理后的采样数。</zh>
+		</String>
+
+		<String Key="Offset Samples">
+			<de>Sample-Versatz</de>
+			<us>Offset Samples</us>
+			<es>Desplazar muestras</es>
+			<fr>Décaler échantillons</fr>
+			<it>Scostamento dei campioni</it>
+			<jp>サンプルのオフセット</jp>
+			<pt>Deslocamento de amostras</pt>
+			<ru>Смещение семплов</ru>
+			<zh>偏移采样</zh>
+		</String>
+
+		<String Key="Open MIDI Remote in Lower Zone">
+			<de>MIDI Remote in unterer Zone öffnen</de>
+			<us>Open MIDI Remote in Lower Zone</us>
+			<es>Abrir MIDI Remote en la zona inferior</es>
+			<fr>Ouvrir MIDI Remote dans la zone inférieure</fr>
+			<it>Apri MIDI Remote nell'area inferiore</it>
+			<jp>下ゾーンで MIDI Remote を開く</jp>
+			<pt>Abrir MIDI Remote na zona inferior</pt>
+			<ru>Открыть устройство дистанционного управления MIDI в нижней зоне</ru>
+			<zh>在下区打开 MIDI 外挂</zh>
+		</String>
+
+		<String Key="Output Latency">
+			<de>Ausgangslatenz</de>
+			<us>Output Latency</us>
+			<es>Latencia de salida</es>
+			<fr>Latence de sortie</fr>
+			<it>Latenza di uscita</it>
+			<jp>出力のレイテンシー</jp>
+			<pt>Latência de saída</pt>
+			<ru>Выходная задержка</ru>
+			<zh>输出延迟</zh>
+		</String>
+
+		<String Key="Ports">
+			<de>Anschlüsse</de>
+			<us>Ports</us>
+			<es>Puertos</es>
+			<fr>Ports</fr>
+			<it>Porte</it>
+			<jp>ポート</jp>
+			<pt>Portas</pt>
+			<ru>Порты</ru>
+			<zh>端口</zh>
+		</String>
+
+		<String Key="Processing Precision">
+			<de>Bearbeitungsgenauigkeit</de>
+			<us>Processing Precision</us>
+			<es>Precisión de procesado</es>
+			<fr>Précision de traitement</fr>
+			<it>Precisione del processamento</it>
+			<jp>プロセシング精度</jp>
+			<pt>Precisão de processamento</pt>
+			<ru>Точность вычислений</ru>
+			<zh>处理精度</zh>
+		</String>
+
+		<String Key="Receiving">
+			<de>Empfangen</de>
+			<us>Receiving</us>
+			<es>Recibiendo</es>
+			<fr>En réception</fr>
+			<it>In ricezione</it>
+			<jp>受信中</jp>
+			<pt>Recebendo</pt>
+			<ru>Приём</ru>
+			<zh>正在接受</zh>
+		</String>
+
+		<String Key="Record Shift">
+			<de>Aufnahmeversatz</de>
+			<us>Record Shift</us>
+			<es>Desplazamiento de la grabación</es>
+			<fr>Décalage d'enregistrement</fr>
+			<it>Spostamento della registrazione</it>
+			<jp>録音開始ポジションオフセット</jp>
+			<pt>Deslocamento de gravação</pt>
+			<ru>Сдвиг записи</ru>
+			<zh>录音位移</zh>
+		</String>
+
+		<String Key="Release Driver when Application is in Background">
+			<de>ASIO-Treiber deaktivieren, wenn Programm im Hintergrund läuft</de>
+			<us>Release Driver when Application is in Background</us>
+			<es>Liberar el controlador ASIO cuando la aplicación esté en segundo plano</es>
+			<fr>Libérer le pilote ASIO si l'application est en tâche de fond</fr>
+			<it>Rilascia il driver ASIO quando l'applicazione è in background</it>
+			<jp>バックグラウンド時は ASIO ドライバーを解放する</jp>
+			<pt>Liberar driver quando o aplicativo está em segundo plano</pt>
+			<ru>Освобождать ASIO драйвер, когда программа не активна</ru>
+			<zh>当应用程序在后台时释放驱动</zh>
+		</String>
+
+		<String Key="Remove Selected Device (if a device is optional)">
+			<de>Ausgewähltes Gerät entfernen (nicht möglich bei Standard-Geräten)</de>
+			<us>Remove Selected Device (if a device is optional)</us>
+			<es>Eliminar dispositivos seleccionados (si el dispositivo es opcional)</es>
+			<fr>Supprimer périphérique sélectionné (S'il est optionnel)</fr>
+			<it>Rimuovi la periferica selezionata (se è facoltativa)</it>
+			<jp>選択したデバイスを削除（既定デバイス以外の場合）</jp>
+			<pt>Remover dispositivo selecionado (se um dispositivo for opcional)</pt>
+			<ru>Удалить выбранное устройство (если оно опционально)</ru>
+			<zh>移除选定的设备（如果设备为可选）</zh>
+		</String>
+
+		<String Key="Reset All Devices">
+			<de>Alle Geräte zurücksetzen</de>
+			<us>Reset All Devices</us>
+			<es>Restablecer todos los dispositivos</es>
+			<fr>Réinitialiser tous les périphériques</fr>
+			<it>Reinizializza tutti i dispositivi</it>
+			<jp>すべてのデバイスをリセット</jp>
+			<pt>Redefinir todos os dispositivos</pt>
+			<ru>Сбросить все устройства</ru>
+			<zh>重置所有设备</zh>
+		</String>
+
+		<String Key="Reset Device">
+			<de>Gerät zurücksetzen</de>
+			<us>Reset Device</us>
+			<es>Restablecer dispositivo</es>
+			<fr>Réinitialiser le périphérique</fr>
+			<it>Reinizializza dispositivo</it>
+			<jp>デバイスをリセット</jp>
+			<pt>Redefinir dispositivo</pt>
+			<ru>Сбросить устройство</ru>
+			<zh>重置设备</zh>
+		</String>
+
+		<String Key="Reset Ports">
+			<de>Anschlüsse zurücksetzen</de>
+			<us>Reset Ports</us>
+			<es>Restablecer puertos</es>
+			<fr>Réinitialiser les ports</fr>
+			<it>Reinizializza le porte</it>
+			<jp>ポートをリセット</jp>
+			<pt>Redefinir portas</pt>
+			<ru>Сбросить порты</ru>
+			<zh>重置端口</zh>
+		</String>
+
+		<String Key="Reset User Command Assignments">
+			<de>Benutzerdefinierte Zuweisung zurücksetzen</de>
+			<us>Reset User Command Assignments</us>
+			<es>Reinicializar las asignaciones de comandos del usuario</es>
+			<fr>Réinitialiser assignations des commandes utilisateur</fr>
+			<it>Reinizializza le assegnazioni dei comandi utente</it>
+			<jp>ユーザーコマンド設定のリセット</jp>
+			<pt>Redefinir atribuições de comando de usuário</pt>
+			<ru>Сброс назначений команд пользователя</ru>
+			<zh>重置用户命令分配</zh>
+		</String>
+
+		<String Key="Revision">
+			<de>Revision</de>
+			<us>Revision</us>
+			<es>Revisión</es>
+			<fr>Révision</fr>
+			<it>Revisione</it>
+			<jp>Rev.</jp>
+			<pt>Revisão</pt>
+			<ru>Версия</ru>
+			<zh>修正</zh>
+		</String>
+
+		<String Key="Save Configuration">
+			<de>Konfiguration speichern</de>
+			<us>Save Configuration</us>
+			<es>Guardar configuración</es>
+			<fr>Enregistrer configuration</fr>
+			<it>Salva configurazione</it>
+			<jp>設定を保存</jp>
+			<pt>Salvar configuração</pt>
+			<ru>Сохранить конфигурацию</ru>
+			<zh>保存配置</zh>
+		</String>
+
+		<String Key="Save SyncStation configuration">
+			<de>SyncStation-Konfiguration speichern</de>
+			<us>Save SyncStation configuration</us>
+			<es>Guardar configuración de SyncStation</es>
+			<fr>Enregistrer configuration SyncStation</fr>
+			<it>Salva configurazione SyncStation</it>
+			<jp>SyncStation の設定を保存</jp>
+			<pt>Salvar a configuração de SyncStation</pt>
+			<ru>Сохранить конфигурацию SyncStation</ru>
+			<zh>保存 SyncStation 配置</zh>
+		</String>
+
+		<String Key="Self test">
+			<de>Selbsttest</de>
+			<us>Self test</us>
+			<es>Autochequeo</es>
+			<fr>Auto-Test</fr>
+			<it>Auto-test</it>
+			<jp>セルフテスト</jp>
+			<pt>Autoteste</pt>
+			<ru>Проверка</ru>
+			<zh>自测</zh>
+		</String>
+
+		<String Key="Sending">
+			<de>Senden</de>
+			<us>Sending</us>
+			<es>Enviando</es>
+			<fr>Envoi en cours</fr>
+			<it>Invio in corso</it>
+			<jp>送信中</jp>
+			<pt>Enviando</pt>
+			<ru>Передача</ru>
+			<zh>正在发送</zh>
+		</String>
+
+		<String Key="Show Timecode">
+			<de>Timecode anzeigen</de>
+			<us>Show Timecode</us>
+			<es>Mostrar código de tiempo</es>
+			<fr>Afficher Timecode</fr>
+			<it>Visualizza il timecode</it>
+			<jp>タイムコードを表示</jp>
+			<pt>Mostrar timecode</pt>
+			<ru>Показать таймкод</ru>
+			<zh>显示时码</zh>
+		</String>
+
+		<String Key="Show the current timecode as video overlay">
+			<de>Aktuellen Timecode als Video-Overlay anzeigen</de>
+			<us>Show the current timecode as video overlay</us>
+			<es>Mostrar el código de tiempo como superposición de video</es>
+			<fr>Visualiser le Timecode sur la vidéo</fr>
+			<it>Visualizza il timecode corrente come sovrimpressione video</it>
+			<jp>ビデオオーバーレイの現在のタイムコードを表示</jp>
+			<pt>Mostrar o timecode atual como camada de vídeo</pt>
+			<ru>Показать наложенный на видео текущий таймкод</ru>
+			<zh>显示当前时码作为视频重叠</zh>
+		</String>
+
+		<String Key="Software Version">
+			<de>Software-Version</de>
+			<us>Software Version</us>
+			<es>Versión del software</es>
+			<fr>Version du logiciel</fr>
+			<it>Versione del software</it>
+			<jp>ソフトウェア Ver.</jp>
+			<pt>Versão do software</pt>
+			<ru>Версия программы</ru>
+			<zh>软件版本</zh>
+		</String>
+
+		<String Key="This is the recommended setting for efficient audio processing performance. This leads to reasonable ASIO-Guard Latency and memory usage.">
+			<de>Empfohlene Einstellung für effiziente Audiobearbeitungsleistung. ASIO-Guard-Latenz und Speicherverbrauch sind angemessen.</de>
+			<us>This is the recommended setting for efficient audio processing performance. This leads to reasonable ASIO-Guard Latency and memory usage.</us>
+			<es>Este es el ajuste recomendado para un rendimiento eficiente del procesado de audio. Esto conlleva una latencia ASIO-Guard y un uso de memoria razonables.</es>
+			<fr>Cette option est recommandée pour un traitement audio efficace. Elle offre un bon équilibre entre latence ASIO-Guard et utilisation de la mémoire.</fr>
+			<it>Questa è l'impostazione consigliata per ottenere un livello efficiente di prestazioni di processamento audio. Con questa configurazione si otterrà un livello di latenza ASIO-Guard e un utilizzo della memoria ragionevoli.</it>
+			<jp>効率的なオーディオ処理を実行するためには推奨の設定です。適度な量の ASIO-Guard レイテンシーとメモリー消費が発生します。</jp>
+			<pt>Esta é a configuração recomendada para o desempenho eficiente do processamento de áudio. Isso resultará em latência ASIO-Guard e utilização de memória razoáveis.</pt>
+			<ru>Это рекомендуемые параметры для эффективной обработки звука. Они обеспечивают приемлемые значения задержки ASIO-Guard и использования памяти.</ru>
+			<zh>这是高性能音频处理的推荐设置。这将导致合理的 ASIO-Guard 延时和内存使用。</zh>
+		</String>
+
+		<String Key="Transfer Bits">
+			<de>Transfer-Bits</de>
+			<us>Transfer Bits</us>
+			<es>Bits de transferencia</es>
+			<fr>Bits de transfert</fr>
+			<it>Bit di trasferimento</it>
+			<jp>送受信ビット</jp>
+			<pt>Bits de transferência</pt>
+			<ru>Разрядность обмена</ru>
+			<zh>传输 Bit</zh>
+		</String>
+
+		<String Key="Use Selected ASIO Ports for Data only">
+			<de>Ausgewählte ASIO-Ports nur für Datenübertragung</de>
+			<us>Use Selected ASIO Ports for Data only</us>
+			<es>Usar los puertos ASIO seleccionados solo para datos</es>
+			<fr>Utiliser les ports ASIO sélectionnés uniquement pour les données</fr>
+			<it>Usa le porte ASIO selezionate solo per i dati</it>
+			<jp>選択ASIO ポートをデータ専用</jp>
+			<pt>Usar portas ASIO selecionadas somente para dados</pt>
+			<ru>Исп.выбр.ASIO порты только для данных</ru>
+			<zh>仅数据使用选定 ASIO 端口</zh>
+		</String>
+
+		<String Key="Use this setting for the highest audio processing performance (to play back many VST Instruments, for example). This leads to increased ASIO-Guard Latency and memory usage.">
+			<de>Empfohlene Einstellung für höchste Audiobearbeitungsleistung (zum Beispiel zur Wiedergabe vieler VST-Instrumente). ASIO-Guard-Latenz und Speicherverbrauch sind erhöht.</de>
+			<us>Use this setting for the highest audio processing performance (to play back many VST Instruments, for example). This leads to increased ASIO-Guard Latency and memory usage.</us>
+			<es>Use este ajuste para el rendimiento de procesado de audio más alto (para reproducir muchos instrumentos VST, por ejemplo). Esto conlleva una latencia ASIO-Guard y un uso de memoria mayores.</es>
+			<fr>Cette option offre un traitement audio optimal (pour la lecture de nombreux instruments VST, par exemple), mais elle engendre une plus grande latence ASIO-Guard et demande davantage de mémoire.</fr>
+			<it>Utilizzare questa impostazione per ottenere il livello più elevato di prestazioni di processamento audio (ad esempio per poter riprodurre più VST Instrument). Con questa configurazione si otterrà un livello di latenza ASIO-Guard e un utilizzo della memoria maggiori.</it>
+			<jp>オーディオ処理のパフォーマンスを最大にするには、この設定を使用します (多くの VST インストゥルメントを再生する場合など)。ASIO-Guard レイテンシーとメモリー消費が増えます。</jp>
+			<pt>Use esta configuração para o maior desempenho do processamento de áudio (por exemplo, para reproduzir vários instrumentos VST). Isso resultará em aumento da latência ASIO-Guard e da utilização de memória.</pt>
+			<ru>Используйте эту установку для получения наивысшей производительности обработки звука (например, для воспроизведения большого количества VST инструментов). При этом увеличивается задержка ASIO-Guard и использование памяти.</ru>
+			<zh>为最佳音频处理效果使用这个设置（例如回放多个 VST 乐器）。这将导致增加 ASIO-Guard 延时和内容使用。</zh>
+		</String>
+
+		<String Key="Use this setting to set the ASIO-Guard Latency to the lowest level (to record automation, for example). This leads to reduced audio processing performance.">
+			<de>Verwenden Sie diese Einstellung, um die ASIO-Guard-Latenz auf den geringsten Pegel zu setzen (zum Beispiel zur Aufnahme von Automation). Audiobearbeitungsleistung ist reduziert.</de>
+			<us>Use this setting to set the ASIO-Guard Latency to the lowest level (to record automation, for example). This leads to reduced audio processing performance.</us>
+			<es>Use este ajuste para establecer la latencia ASIO-Guard al nivel más bajo (para grabar automatización, por ejemplo). Esto conlleva un rendimiento reducido del procesado de audio.</es>
+			<fr>Cette option permet de réduire au minimum la latence ASIO-Guard (pour l'enregistrement des automatisations, par exemple). En contrepartie, le traitement audio perd en efficacité.</fr>
+			<it>Utilizzare questa impostazione per regolare la latenza ASIO-Guard sul livello più basso (ad esempio per registrare l'automazione). Con questa configurazione si otterrà un livello di prestazioni di processamento audio inferiore.</it>
+			<jp>ASIO-Guard レイテンシーレベルを最小にするには、この設定を使用します (オートメーションを録音する場合など)。オーディオ処理のパフォーマンスは下がります。</jp>
+			<pt>Use esta configuração para definir a latência ASIO-Guard para o nível mais baixo (por exemplo, para gravar automação). Isso resultará em menor desempenho do processamento de áudio.</pt>
+			<ru>Используйте эту установку для получения наименьшей задержки ASIO-Guard (для записи автоматизации, например). При этом снижается производительность обработки звука.</ru>
+			<zh>使用这个设置来设置 ASIO-Guard 延时到最低水准（例如，录制自动化）。这将导致降低音频处理性能。</zh>
+		</String>
+
+		<String Key="User Commands">
+			<de>Benutzerdefinierte Befehle</de>
+			<us>User Commands</us>
+			<es>Comandos de usuario</es>
+			<fr>Commandes utilisateur</fr>
+			<it>Comandi utente</it>
+			<jp>ユーザーコマンド</jp>
+			<pt>Comandos de usuário</pt>
+			<ru>Команды пользователя</ru>
+			<zh>用户命令</zh>
+		</String>
+
+		<String Key="Video Playback">
+			<de>Videowiedergabe</de>
+			<us>Video Playback</us>
+			<es>Reproducción de video</es>
+			<fr>Lecture vidéo</fr>
+			<it>Riproduzione video</it>
+			<jp>ビデオの再生</jp>
+			<pt>Reprodução de vídeo</pt>
+			<ru>Воспроизведение видео</ru>
+			<zh>视频回放</zh>
+		</String>
+
+		<String Key="Volume Automation Precision">
+			<de>Präzision der Lautstärke-Automation</de>
+			<us>Volume Automation Precision</us>
+			<es>Precisión de automatización de volumen</es>
+			<fr>Précision des automatisations de volume</fr>
+			<it>Precisione dell'automazione del volume</it>
+			<jp>ボリュームオートメーションの精度</jp>
+			<pt>Precisão de automação de volume</pt>
+			<ru>Точность автоматизации громкости</ru>
+			<zh>音量自动化精确度</zh>
+		</String>
+
+		<String Key="high">
+			<de>hoch</de>
+			<us>high</us>
+			<es>alto</es>
+			<fr>élevé</fr>
+			<it>alto</it>
+			<jp>high</jp>
+			<pt>alto</pt>
+			<ru>высокий</ru>
+			<zh>高</zh>
+		</String>
+
+		<String Key="low">
+			<de>niedrig</de>
+			<us>low</us>
+			<es>bajo</es>
+			<fr>bas</fr>
+			<it>basso</it>
+			<jp>low</jp>
+			<pt>baixo</pt>
+			<ru>низкий</ru>
+			<zh>低</zh>
+		</String>
+
+		<String Key="normal">
+			<de>normal</de>
+			<us>normal</us>
+			<es>normal</es>
+			<fr>normal</fr>
+			<it>normale</it>
+			<jp>normal</jp>
+			<pt>normal</pt>
+			<ru>норм</ru>
+			<zh>普通</zh>
+		</String>
+
+		<String Key="Add Timecode">
+			<de>Timecode hinzufügen</de>
+			<us>Add Timecode</us>
+			<es>Añadir código de tiempo</es>
+			<fr>Ajouter un Timecode</fr>
+			<it>Aggiungi timecode</it>
+			<jp>タイムコードを追加</jp>
+			<pt>Adicionar timecode</pt>
+			<ru>Добавить таймкод</ru>
+			<zh>添加时码</zh>
+		</String>
+
+		<String Key="Audio Settings">
+			<de>Audio-Einstellungen</de>
+			<us>Audio Settings</us>
+			<es>Ajustes de audio</es>
+			<fr>Paramètres audio</fr>
+			<it>Impostazioni audio</it>
+			<jp>オーディオ設定</jp>
+			<pt>Configurações de áudio</pt>
+			<ru>Настройки аудио</ru>
+			<zh>音频设置</zh>
+		</String>
+
+		<String Key="Disk Space">
+			<de>Festplattenplatz</de>
+			<us>Disk Space</us>
+			<es>Espacio en disco</es>
+			<fr>Espace disque</fr>
+			<it>Spazio su disco</it>
+			<jp>ディスク空き容量</jp>
+			<pt>Espaço em disco</pt>
+			<ru>Дисковое пространство</ru>
+			<zh>磁盘空间</zh>
+		</String>
+
+		<String Key="Exports the selected audio channel in realtime">
+			<de>Exportiert den ausgewählen Audiokanal in Echtzeit</de>
+			<us>Exports the selected audio channel in realtime</us>
+			<es>Exporta el canal de audio seleccionado en tiempo real</es>
+			<fr>Permet d'exporter le canal audio sélectionné en temps réel</fr>
+			<it>Esporta il canale audio selezionato in tempo reale</it>
+			<jp>選択したオーディオチャンネルを実時間で書き出し</jp>
+			<pt>Exporta o canal de áudio selecionado em tempo real</pt>
+			<ru>Экспортирует выбранный аудио канал в реальном времени</ru>
+			<zh>实时导出选定音频轨道</zh>
+		</String>
+
+		<String Key="Exports the video with timecode">
+			<de>Exportiert das Video mit Timecode</de>
+			<us>Exports the video with timecode</us>
+			<es>Exporta el video con código de tiempo</es>
+			<fr>Permet d'exporter la vidéo avec le Timecode</fr>
+			<it>Esporta il video con il timecode</it>
+			<jp>ビデオをタイムコードを付けて書き出し</jp>
+			<pt>Exporta o vídeo com timecode</pt>
+			<ru>Экспортирует видео с таймкодом</ru>
+			<zh>导出带时码视频</zh>
+		</String>
+
+		<String Key="File Information">
+			<de>Dateiinformationen</de>
+			<us>File Information</us>
+			<es>Información de archivo</es>
+			<fr>Informations du fichier</fr>
+			<it>Informazioni file</it>
+			<jp>ファイル情報</jp>
+			<pt>Informações do arquivo</pt>
+			<ru>Информация о файле</ru>
+			<zh>文件信息</zh>
+		</String>
+
+		<String Key="No project is active. Please create or load a project.">
+			<de>Kein Projekt ist aktiv. Bitte erzeugen oder laden Sie ein Projekt.</de>
+			<us>No project is active. Please create or load a project.</us>
+			<es>No hay ningún proyecto activo. Por favor, cree o cargue un proyecto.</es>
+			<fr>Aucun projet n'est actif. Veuillez créer ou charger un projet.</fr>
+			<it>Nessun progetto è attivo. Si prega di creare o caricare un progetto.</it>
+			<jp>アクティブなプロジェクトがありません。プロジェクトを作成するか読み込んでください。</jp>
+			<pt>Nenhum projeto ativo. Crie ou carregue um projeto.</pt>
+			<ru>Нет активных проектов. Пожалуйста, создайте или загрузите проект.</ru>
+			<zh>无活动工程，请创建或加载一个工程。</zh>
+		</String>
+
+		<String Key="Project and video frame rate do not match.">
+			<de>Projekt- und Video-Framerate stimmen nicht überein.</de>
+			<us>Project and video frame rate do not match.</us>
+			<es>Las velocidades de cuadros del proyecto y del video no coinciden.</es>
+			<fr>Les fréquences d'image du projet et de la vidéo sont différentes.</fr>
+			<it>La frequenza dei fotogrammi del progetto e del video non coincidono.</it>
+			<jp>プロジェクトとビデオのフレームレートが一致しません。</jp>
+			<pt>A taxa de quadros do projeto e do vídeo não correspondem.</pt>
+			<ru>Частота кадров проекта и видео не совпадают.</ru>
+			<zh>工程与视频帧率不匹配。</zh>
+		</String>
+
+		<String Key="Sample rate is not supported for video export. Set the audio sample rate to 44,1 kHz or 48 kHz.">
+			<de>Video-Export mit dieser Samplerate ist nicht möglich. Setzen Sie die Audio-Samplerate auf 44,1 kHz oder 48 kHz.</de>
+			<us>Sample rate is not supported for video export. Set the audio sample rate to 44,1 kHz or 48 kHz.</us>
+			<es>La frecuencia de muestreo no está soportada en la exportación de video. Ajuste la frecuencia de muestreo del audio a 44,1 kHz o a 48 kHz.</es>
+			<fr>La fréquence d'échantillonnage n'est pas prise en charge pour l'exportation vidéo. Configurez la fréquence d'échantillonnage audio sur 44,1 kHz ou sur 48 kHz.</fr>
+			<it>La frequenza di campionamento non è supportata per l'esportazione del video. Impostarla a 44,1 kHz o a 48 kHz.</it>
+			<jp>ビデオの書き出しに対応していないサンプリングレートです。オーディオのサンプリングレートを 44.1 kHz または 48 kHz に設定してください。</jp>
+			<pt>A taxa de amostragem não é suportada para exportação de vídeo. Defina a taxa de amostragem de áudio para 44,1 kHz ou 48 kHz.</pt>
+			<ru>Данная частота дискретизации не поддерживается для экспорта видео. Установите частоту дискретизации 44.1 кГц или 48 кГц.</ru>
+			<zh>导出视频不支持采样率，请设置音频采样率为 44.1 kHz 或 48 kHz。</zh>
+		</String>
+
+		<String Key="The arranger track is not supported for video export. Deactivate arranger mode.">
+			<de>Video-Export mit Arranger-Spur ist nicht möglich. Deaktivieren Sie den Arranger-Modus.</de>
+			<us>The arranger track is not supported for video export. Deactivate arranger mode.</us>
+			<es>La pista de arreglos no está soportada en la exportación de video. Desactive el modo arreglos.</es>
+			<fr>La piste Arrangeur n'est pas prise en charge pour l'exportation vidéo. Veuillez désactiver le mode Arrangeur.</fr>
+			<it>La traccia arranger non è supportata per l'esportazione del video. Disattivare la modalità arranger.</it>
+			<jp>アレンジャートラックはビデオの書き出しに対応していません。アレンジャーモードを無効にしてください。</jp>
+			<pt>A pista arranjadora não é suportada para exportação de vídeo. Desative o modo arranjador.</pt>
+			<ru>Трек аранжировки не поддерживается для экспорта видео. Деактивируйте режим аранжировки.</ru>
+			<zh>导出视频不支持编排轨。请取消激活编排模式。</zh>
+		</String>
+
+		<String Key="The locator range contains no video event. A black screen is exported.">
+			<de>Der Locator-Bereich enthält kein Video-Event. Ein schwarzes Bild wird exportiert.</de>
+			<us>The locator range contains no video event. A black screen is exported.</us>
+			<es>El rango de localizadores no contiene ningún evento de video. Se exportará una pantalla en negro.</es>
+			<fr>L'intervalle entre les délimiteurs ne contient pas d'événements vidéo. Un écran noir sera exporté.</fr>
+			<it>L'intervallo tra i localizzatori non contiene eventi video. Verrà esportata una schermata nera.</it>
+			<jp>ロケーター範囲にビデオイベントがありません。黒い画面が書き出されます。</jp>
+			<pt>O intervalo do localizador não contém um evento de vídeo. Uma tela preta será exportada.</pt>
+			<ru>Область между локаторами не содержит видео событий. Будет экспортирован чёрный экран.</ru>
+			<zh>定位点范围不包含视频事件。黑屏将被导出。</zh>
+		</String>
+
+		<String Key="The locator range is inverted. Please switch the locators.">
+			<de>Der Locator-Bereich ist invertiert. Bitte vertauschen Sie die Locatoren.</de>
+			<us>The locator range is inverted. Please switch the locators.</us>
+			<es>El rango de localizadores está invertido. Por favor, cambie los localizadores.</es>
+			<fr>L'intervalle entre les délimiteurs est inversé. Veuillez intervertir les délimiteurs.</fr>
+			<it>L'intervallo tra i localizzatori è invertito. Si prega di scambiare i localizzatori.</it>
+			<jp>ロケーター範囲が反転しています。ロケーターを入れ替えてください。</jp>
+			<pt>O intervalo de localizador está invertido. Troque os localizadores.</pt>
+			<ru>Область между локаторами перевёрнута. Пожалуйста, поменяйте локаторы местами.</ru>
+			<zh>定位点范围是反向的，请交换前后定位点。</zh>
+		</String>
+
+		<String Key="The locator range is not set. Please set the locators.">
+			<de>Der Locator-Bereich ist nicht gesetzt. Setzen Sie bitte die Locatoren.</de>
+			<us>The locator range is not set. Please set the locators.</us>
+			<es>El rango de localizadores no está ajustado. Por favor, ajuste los localizadores.</es>
+			<fr>Aucun intervalle n'est défini par les délimiteurs. Veuillez placer les délimiteurs.</fr>
+			<it>L'intervallo tra i localizzatori non è stato impostato. Si prega di impostare i localizzatori.</it>
+			<jp>ロケーター範囲が設定されていません。ロケーターを設定してください。</jp>
+			<pt>O intervalo de localizador não está definido. Defina os localizadores.</pt>
+			<ru>Область между локаторами не задана. Пожалуйста, установите локаторы.</ru>
+			<zh>定位点范围未设置，请设置定位点。</zh>
+		</String>
+
+		<String Key="The project contains no stereo output channel.">
+			<de>Dieses Projekt enthält keinen Stereo-Ausgangskanal.</de>
+			<us>The project contains no stereo output channel.</us>
+			<es>Este proyecto no contiene ningún canal de salida estéreo.</es>
+			<fr>Ce projet ne contient aucune voie de sortie stéréo.</fr>
+			<it>Il progetto non contiene alcun canale di uscita stereo.</it>
+			<jp>プロジェクトにステレオ出力チャンネルがありません。</jp>
+			<pt>O projeto não contém nenhum canal de saída estéreo.</pt>
+			<ru>Проект не содержит выходных стерео каналов.</ru>
+			<zh>这个工程不包含输出通道。</zh>
+		</String>
+
+		<String Key="The project contains no video. A black screen is exported.">
+			<de>Das Projekt enthält kein Video. Ein schwarzes Bild wird exportiert.</de>
+			<us>The project contains no video. A black screen is exported.</us>
+			<es>El proyecto no contiene video. Se exportará una pantalla en negro.</es>
+			<fr>Le projet ne contient pas de vidéo. Un écran noir sera exporté.</fr>
+			<it>Il progetto non contiene alcun video. Verrà esportata una schermata nera.</it>
+			<jp>プロジェクトにビデオがありません。黒い画面が書き出されます。</jp>
+			<pt>O projeto não contém vídeo. Uma tela preta será exportada.</pt>
+			<ru>Проект не содержит видео. Будет экспортирован чёрный экран.</ru>
+			<zh>此工程不包含视频。黑屏将被导出。</zh>
+		</String>
+
+		<String Key="The range between the locators is exported.">
+			<de>Der Bereich zwischen den Locatoren wird exportiert.</de>
+			<us>The range between the locators is exported.</us>
+			<es>Se exportará el rango comprendido entre los localizadores.</es>
+			<fr>L'intervalle entre les délimiteurs sera exporté.</fr>
+			<it>L'intervallo ricompreso tra i localizzatori viene esportato.</it>
+			<jp>ロケーター間の範囲が書き出されます。</jp>
+			<pt>O intervalo entre localizadores será exportado.</pt>
+			<ru>Область между локаторами экспортирована.</ru>
+			<zh>定位点间范围已导出。</zh>
+		</String>
+
+		<String Key="Video Format">
+			<de>Videoformat</de>
+			<us>Video Format</us>
+			<es>Formato de video</es>
+			<fr>Format vidéo</fr>
+			<it>Formato video</it>
+			<jp>ビデオ形式</jp>
+			<pt>Formato de vídeo</pt>
+			<ru>Формат видео</ru>
+			<zh>视频格式</zh>
+		</String>
+
+		<String Key="Video Settings">
+			<de>Videoeinstellungen</de>
+			<us>Video Settings</us>
+			<es>Ajustes de video</es>
+			<fr>Paramètres vidéo</fr>
+			<it>Impostazioni video</it>
+			<jp>ビデオ設定</jp>
+			<pt>Configurações de vídeo</pt>
+			<ru>Настройки видео</ru>
+			<zh>视频设置</zh>
+		</String>
+
+		<String Key="Activate Instrument">
+			<de>Instrument aktivieren</de>
+			<us>Activate Instrument</us>
+			<es>Activar instrumento</es>
+			<fr>Activer l'instrument</fr>
+			<it>Attiva instrument</it>
+			<jp>インストゥルメントをオン</jp>
+			<pt>Ativar instrumento</pt>
+			<ru>Задействовать Инструмент</ru>
+			<zh>激活音色</zh>
+		</String>
+
+		<String Key="Add Rack Instrument...">
+			<de>Rack-Instrument hinzufügen...</de>
+			<us>Add Rack Instrument...</us>
+			<es>Añadir instrumento de rack...</es>
+			<fr>Ajouter instrument de rack...</fr>
+			<it>Aggiungi un VSTi dal rack...</it>
+			<jp>ラックインストゥルメントを追加...</jp>
+			<pt>Adicionar instrumento de rack...</pt>
+			<ru>Добавить инструмент в рэк...</ru>
+			<zh>添加机架音色...</zh>
+		</String>
+
+		<String Key="Add Track Instrument...">
+			<de>Spur-Instrument hinzufügen...</de>
+			<us>Add Track Instrument...</us>
+			<es>Añadir instrumento de pista...</es>
+			<fr>Ajouter instrument de piste...</fr>
+			<it>Aggiungi un VSTi da una traccia...</it>
+			<jp>トラックインストゥルメントを追加...</jp>
+			<pt>Adicionar instrumento de pista...</pt>
+			<ru>Добавить трек инструмента...</ru>
+			<zh>添加轨道音色...</zh>
+		</String>
+
+		<String Key="Find Instruments">
+			<de>Instrumente suchen</de>
+			<us>Find Instruments</us>
+			<es>Buscar instrumentos</es>
+			<fr>Rechercher des instruments</fr>
+			<it>Ricerca gli instrument</it>
+			<jp>インストゥルメントを検索</jp>
+			<pt>Localizar instrumentos</pt>
+			<ru>Найти Инструменты</ru>
+			<zh>寻找音色</zh>
+		</String>
+
+		<String Key="Input Options">
+			<de>Eingangs-Optionen</de>
+			<us>Input Options</us>
+			<es>Opciones de entrada</es>
+			<fr>Options d'entrée</fr>
+			<it>Opzioni di ingresso</it>
+			<jp>入力オプション</jp>
+			<pt>Opções de entrada</pt>
+			<ru>Опции входа</ru>
+			<zh>输入选项</zh>
+		</String>
+
+		<String Key="Input/Output Options">
+			<de>Eingangs-/Ausgangsoptionen</de>
+			<us>Input/Output Options</us>
+			<es>Opciones de entrada/salida</es>
+			<fr>Options d'entrée/sortie</fr>
+			<it>Opzioni di ingresso/uscita</it>
+			<jp>入出力オプション</jp>
+			<pt>Opções de Entrada/Saída</pt>
+			<ru>Опции входа/выхода</ru>
+			<zh>输入/输出选项</zh>
+		</String>
+
+		<String Key="Select Quick Control Layer">
+			<de>Quick Control-Layer auswählen</de>
+			<us>Select Quick Control Layer</us>
+			<es>Seleccionar disposición de controles rápidos</es>
+			<fr>Sélectionner la couche de Contrôle instantané</fr>
+			<it>Seleziona il layer dei controlli rapidi</it>
+			<jp>クイックコントロールレイヤーを選択</jp>
+			<pt>Selecionar camada de controle rápido</pt>
+			<ru>Выбрать слой Быстрого Управления</ru>
+			<zh>选择快速控制层</zh>
+		</String>
+
+		<String Key="Set Remote-Control Focus for VST Quick Controls">
+			<de>Fernbedienungs-Fokus für VST Quick Controls setzen</de>
+			<us>Set Remote-Control Focus for VST Quick Controls</us>
+			<es>Ajustar foco por control remoto de controles rápidos VST</es>
+			<fr>Définir le focus de télécommande pour Contrôles instantanés VST</fr>
+			<it>Imposta il focus del controllo in remoto per i controlli rapidi VST</it>
+			<jp>VST クイックコントロールのリモートコントロールフォーカスを設定</jp>
+			<pt>Definir foco de Remote-Control para controles rápidos de VST</pt>
+			<ru>Выбрать манипуляторы Быстрого Управления VST для дистанционного управления</ru>
+			<zh>外挂控制关注 VST 快速控制</zh>
+		</String>
+
+		<String Key="Set Remote-Control Focus for VST Quick Controls to Next Instrument">
+			<de>Fernbedienungs-Fokus für VST Quick Controls auf nächstes Instrument setzen</de>
+			<us>Set Remote-Control Focus for VST Quick Controls to Next Instrument</us>
+			<es>Ajustar foco por control remoto de controles rápidos VST al instrumento siguiente</es>
+			<fr>Définir le focus de télécommande pour Contrôles instantanés VST à l'instrument suivant</fr>
+			<it>Imposta il focus del controllo in remoto per i controlli rapidi VST sul VST instrument successivo</it>
+			<jp>VST クイックコントロールのリモートコントロールフォーカスを次のインストゥルメントに設定</jp>
+			<pt>Definir foco de Remote-Control para controles rápidos de VST para o próximo instrumento</pt>
+			<ru>Выбрать для дистанционного управления манипуляторы Быстрого Управления VST следующего инструмента</ru>
+			<zh>外挂控制关注 VST 快速控制到下一个音色</zh>
+		</String>
+
+		<String Key="Set Remote-Control Focus for VST Quick Controls to Previous Instrument">
+			<de>Fernbedienungs-Fokus für VST Quick Controls auf vorheriges Instrument setzen</de>
+			<us>Set Remote-Control Focus for VST Quick Controls to Previous Instrument</us>
+			<es>Ajustar foco por control remoto de controles rápidos VST al instrumento anterior</es>
+			<fr>Définir le focus de télécommande pour Contrôles instantanés VST à l'instrument précédent</fr>
+			<it>Imposta il focus del controllo in remoto per i controlli rapidi VST sul VST instrument precedente</it>
+			<jp>VST クイックコントロールのリモートコントロールフォーカスを前のインストゥルメントに設定</jp>
+			<pt>Definir foco de Remote-Control para controles rápidos de VST para o instrumento anterior</pt>
+			<ru>Выбрать для дистанционного управления манипуляторы Быстрого Управления VST предыдущего инструмента</ru>
+			<zh>外挂控制关注 VST 快速控制到上一个音色</zh>
+		</String>
+
+		<String Key="Show/Hide all VST Quick Controls">
+			<de>Alle VST Quick Controls ein-/ausblenden</de>
+			<us>Show/Hide all VST Quick Controls</us>
+			<es>Mostrar/Ocultar todos los controles rápidos VST</es>
+			<fr>Afficher/Masquer tous les Contrôles instantanés VST</fr>
+			<it>Visualizza/Nascondi tutti i controlli rapidi VST</it>
+			<jp>すべての VST クイックコントロールを表示/隠す</jp>
+			<pt>Mostrar/Ocultar todos os controles rápidos de VST</pt>
+			<ru>Показать/Скрыть все Быстрое Управление VST</ru>
+			<zh>显示/隐藏 所有 VST 快速控制</zh>
+		</String>
+
+		<String Key="License Extension">
+			<de>Lizenzerweiterung</de>
+			<us>License Extension</us>
+			<es>Extensión de licencia</es>
+			<fr>Prolongation de licence</fr>
+			<it>Estensione della licenza</it>
+			<jp>ライセンス期限延長</jp>
+			<pt>Extensão de licença</pt>
+			<ru>Продление лицензии</ru>
+			<zh>许可延期</zh>
+		</String>
+
+		<String Key="Start Nuendo">
+			<de>Nuendo starten</de>
+			<us>Start Nuendo</us>
+			<es>Iniciar Nuendo</es>
+			<fr>Démarrer Nuendo</fr>
+			<it>Avvia Nuendo</it>
+			<jp>Nuendoを開始</jp>
+			<pt>Iniciar Nuendo</pt>
+			<ru>Старт Nuendo</ru>
+			<zh>启动Nuendo</zh>
+		</String>
+
+		<String Key="The program is running with a limited license. \nYou may use it for another %s and it can be started %d more time(s).">
+			<de>Die verwendete Lizenz für das Programm ist zeitlich begrenzt.\nSie können sie noch %s verwenden und das Programm noch %d Mal starten.</de>
+			<us>The program is running with a limited license. \nYou may use it for another %s and it can be started %d more time(s).</us>
+			<es>El programa está funcionando con una licencia limitada. \nPuede usarla durante %s más y el programa se puede arrancar %d vez\veces más.</es>
+			<fr>La licence du programme est limitée.\nVous pouvez l'utiliser pendant %s et le programme peut être démarré encore %d fois.</fr>
+			<it>Il programma è in esecuzione con una licenza limitata.\nÈ possibile utilizzarlo ancora per %s e il programma può essere avviato ancora %d volta/e.</it>
+			<jp>プログラムは制限付きライセンスで作動しています。\nこのプログラムはあと%s使用できます。また、あと%d 回起動できます。</jp>
+			<pt>O programa está executando com uma licença limitada. \nVocê pode usá-lo por mais %s e o ele pode ser iniciado mais %d vez(es).</pt>
+			<ru>Программа запускается с ограниченной лицензией. \nВы можете использовать её в течение последующих %s и она может быть запущена ещё %d раз(а).</ru>
+			<zh>此程序使用一个受限许可运行。\n您还能使用%s，并还能启动%d次。</zh>
+		</String>
+
+		<String Key="The program is running with a limited license. \nYou may use it for another %s. \nTo activate a permanent license, please run the 'eLicenser Control Center'.">
+			<de>Das Programm läuft mit einer eingeschränkten Lizenz. \nSie können es noch %s benutzen. \nBitte starten Sie das 'eLicenser Control Center', um die Lizenz dauerhaft zu aktivieren.</de>
+			<us>The program is running with a limited license. \nYou may use it for another %s. \nTo activate a permanent license, please run the 'eLicenser Control Center'.</us>
+			<es>El programa está funcionando con una licencia limitada. \nPuede usarla durante %s más. \nPara activar una licencia permanente, por favor abra el 'eLicenser Control Center'.</es>
+			<fr>La licence du programme est limitée. \nVous pouvez encore l'utiliser pendant %s. \nPour activer une licence permanente, veuillez lancer 'eLicenser Control Center'.</fr>
+			<it>Il programma è in esecuzione con una licenza limitata.\nÈ possibile utilizzarlo ancora per %s.\nPer attivare una licenza permanente, avviare l'applicativo 'eLicenser Control Center'.</it>
+			<jp>プログラムは制限付きライセンスで作動しています。\nこのプログラムはあと%s使用できます。永続ライセンスをアクティベートするには、'eLicenser Control Center' を起動してください。</jp>
+			<pt>O programa está executando com uma licença limitada. \nVocê pode usá-lo por mais %s.\nPara ativar uma licença permanente, execute o 'eLicenser Control Center'.</pt>
+			<ru>Программа работает с ограниченной лицензией.\nВы можете использовать её ещё %s. Для активации постоянной лицензии, пожалуйста, запустите программу 'eLicenser Control Center'.</ru>
+			<zh>此程序使用一个受限许可运行。\n您还能使用%s。\n运行“eLicenser Control Center”激活永久许可。</zh>
+		</String>
+
+		<String Key="Your time-limited Nuendo license expired. \nThe product can only be used after applying a renewal license.">
+			<de>Ihre zeitlich begrenzte Nuendo-Lizenz ist abgelaufen. \nSie können das Produkt erst nutzen, wenn Sie die Lizenz erneuern.</de>
+			<us>Your time-limited Nuendo license expired. \nThe product can only be used after applying a renewal license.</us>
+			<es>Su licencia de Nuendo de tiempo limitado ha expirado. \nEl producto solo se puede usar después de aplicar una licencia de renovación.</es>
+			<fr>Votre licence de Nuendo à durée limitée a expiré. \nPour continuer à utiliser le produit, vous devez renouveler la licence.</fr>
+			<it>La vostra licenza di Nuendo a tempo limitato è scaduta. \nIl prodotto può essere utilizzato solamente dopo aver rinnovato la licenza.</it>
+			<jp>Nuendo のライセンスの期限が切れています。\n製品を使用するにはライセンスの更新が必要です。</jp>
+			<pt>A sua licença do Nuendo de tempo limitado expirou. \nO produto só pode ser usado apóps aplicar uma licença de renovação.</pt>
+			<ru>Срок действия вашей лицензии Nuendo истистёк. Использование данного продукта станет возможным только после обновлении лицензии.</ru>
+			<zh>您的Nuendo许可将已到期，更新许可前将无法使用本产品。</zh>
+		</String>
+
+		<String Key="Your time-limited Nuendo license expires on %s after which you can no longer use the product. \nPlease ensure that you apply the renewal license on time.">
+			<de>Ihre zeitlimitierte Nuendo-Lizenz endet am %s. Danach kann das Produkt nicht mehr verwendet werden. \nAktivieren Sie daher rechtzeitig eine Verlängerungslizenz.</de>
+			<us>Your time-limited Nuendo license expires on %s after which you can no longer use the product. \nPlease ensure that you apply the renewal license on time.</us>
+			<es>Su licencia de Nuendo expira el %s. A partir de esta fecha ya no podrá utilizar este producto. \nAsegúrese de activar la nueva licencia a tiempo.</es>
+			<fr>Votre licence de Nuendo va bientôt expirer le %s. Ensuite, il ne vous sera plus possible d'utiliser ce produit. \nAssurez-vous d'activer le renouvellement à temps.</fr>
+			<it>La vostra licenza di Nuendo a tempo limitato scadrà il %s. Dopo tale data non sarà più possibile utilizzare il prodotto. \nAssicurasi di attivare in tempo una nuova licenza.</it>
+			<jp>Nuendoのライセンスは、%s に期限切れとなります。継続して使用するためには、それまでにライセンスを有効化（アクティベーション）してください。</jp>
+			<pt>A sua licença do Nuendo de tempo limitado expira em %s. Após essa data, você não poderá mais usar o produto. \nCertifique-se de ativar a licença de renovação dentro do prazo.</pt>
+			<ru>Срок действия вашей лицензии Nuendo истечёт после %s , после чего дальнейшее использование будет невозможно. \nПожалуйста, вовремя позаботьтесь об обновлении лицензии.</ru>
+			<zh>您的Nuendo许可将在%s到期，此后将无法使用本产品。\n请确保及时更新您的授权许可。</zh>
+		</String>
+
+		<String Key="Loop Browser">
+			<de>Loop-Browser</de>
+			<us>Loop Browser</us>
+			<es>Buscador de loops</es>
+			<fr>Explorateur de boucles</fr>
+			<it>Browser dei loop</it>
+			<jp>Loop ブラウザー</jp>
+			<pt>Navegador de loops</pt>
+			<ru>Браузер лупов</ru>
+			<zh>循环浏览器</zh>
+		</String>
+
+		<String Key="Sound Browser">
+			<de>Sound Browser</de>
+			<us>Sound Browser</us>
+			<es>Buscador de sonidos</es>
+			<fr>Explorateur de sons</fr>
+			<it>Browser dei suoni</it>
+			<jp>Sound ブラウザー</jp>
+			<pt>Navegador de sons</pt>
+			<ru>Обзор звуков</ru>
+			<zh>声音浏览器</zh>
+		</String>
+
+		<String Key="Minimal">
+			<de>Minimal</de>
+			<us>Minimal</us>
+			<es>Mínimo</es>
+			<fr>Minimum</fr>
+			<it>Minima</it>
+			<jp>最小</jp>
+			<pt>Mínimo</pt>
+			<ru>Миним</ru>
+			<zh>最小化</zh>
+		</String>
+
+		<String Key="One Row">
+			<de>Eine Zeile</de>
+			<us>One Row</us>
+			<es>Una línea</es>
+			<fr>Une ligne</fr>
+			<it>Una riga</it>
+			<jp>1行</jp>
+			<pt>Uma linha</pt>
+			<ru>Одна строка</ru>
+			<zh>1行</zh>
+		</String>
+
+		<String Key="Smallest Track Height To Show Data">
+			<de>Daten ab dieser Spurhöhe anzeigen</de>
+			<us>Smallest Track Height To Show Data</us>
+			<es>Mostrar datos a partir de esta altura de pista</es>
+			<fr>Afficher données à partir de cette hauteur de piste</fr>
+			<it>Visualizza i dati a partire da questa impostazione di altezza della traccia</it>
+			<jp>データを表示する最小のトラック高</jp>
+			<pt>Menor altura de pista para exibir dados</pt>
+			<ru>наименьшая высота трека для показа данных</ru>
+			<zh>显示数据的最小轨道高度</zh>
+		</String>
+
+		<String Key="Smallest Track Height To Show Name">
+			<de>Spurnamen ab dieser Spurhöhe anzeigen</de>
+			<us>Smallest Track Height To Show Name</us>
+			<es>Mostrar nombres a partir de esta altura de pista</es>
+			<fr>Afficher noms à partir de cette hauteur de piste</fr>
+			<it>Visualizza i nomi a partire da questa impostazione di altezza della traccia</it>
+			<jp>名前を表示する最小のトラック高</jp>
+			<pt>Menor altura de pista para exibir nome</pt>
+			<ru>Наименьшая высота трека для показа названия</ru>
+			<zh>显示名称的最小轨道高度</zh>
+		</String>
+
+		<String Key="Three Rows">
+			<de>Drei Zeilen</de>
+			<us>Three Rows</us>
+			<es>Tres líneas</es>
+			<fr>Trois lignes</fr>
+			<it>Tre righe</it>
+			<jp>3行</jp>
+			<pt>Três linhas</pt>
+			<ru>Три строки</ru>
+			<zh>3行</zh>
+		</String>
+
+		<String Key="Two Rows">
+			<de>Zwei Zeilen</de>
+			<us>Two Rows</us>
+			<es>Dos líneas</es>
+			<fr>Deux lignes</fr>
+			<it>Due righe</it>
+			<jp>2行</jp>
+			<pt>Duas linhas</pt>
+			<ru>Две строки</ru>
+			<zh>2行</zh>
+		</String>
+
+		<String Key="Distance: H = %d, V = %d">
+			<de>Distanz: H = %d, V = %d</de>
+			<us>Distance: H = %d, V = %d</us>
+			<es>Distancia: H = %d, V = %d</es>
+			<fr>Distance : H = %d, V = %d</fr>
+			<it>Distanza: H = %d, V = %d</it>
+			<jp>距離 : H = %d, V = %d</jp>
+			<pt>Distância: H = %d, V = %d</pt>
+			<ru>Расстояние: H = %d, V = %d</ru>
+			<zh>距离：H = %d, V = %d</zh>
+		</String>
+
+		<String Key="Position: H = %d, V = %d">
+			<de>Position: H = %d, V = %d</de>
+			<us>Position: H = %d, V = %d</us>
+			<es>Posición: H = %d, V = %d</es>
+			<fr>Position : H = %d, V = %d</fr>
+			<it>Posizione : H = %d, V = %d</it>
+			<jp>位置 : H = %d, V = %d</jp>
+			<pt>Posição: H = %d, V = %d</pt>
+			<ru>Позиция: H = %d, V = %d</ru>
+			<zh>位置：H = %d, V = %d</zh>
+		</String>
+
+		<String Key="Missing attributes...">
+			<de>Fehlende Attribute...</de>
+			<us>Missing attributes...</us>
+			<es>Atributos desaparecidos...</es>
+			<fr>Attributs manquants...</fr>
+			<it>Attributi mancanti...</it>
+			<jp>不明な属性...</jp>
+			<pt>Atributos ausentes...</pt>
+			<ru>Отсутствующие атрибуты...</ru>
+			<zh>缺失属性...</zh>
+		</String>
+
+		<String Key="Auto Edit">
+			<de>Auto Edit</de>
+			<us>Auto Edit</us>
+			<es>Edición auto.</es>
+			<fr>Auto Edit</fr>
+			<it>Auto Edit</it>
+			<jp>自動編集</jp>
+			<pt>Edição automática</pt>
+			<ru>Авторедактирование</ru>
+			<zh>自动编辑</zh>
+		</String>
+
+		<String Key="Verify failed for this node!">
+			<de>Überprüfung des Knotens fehlgeschlagen!</de>
+			<us>Verify failed for this node!</us>
+			<es>¡Verificación fallida para este nodo!</es>
+			<fr>La vérification a échoué pour ce noeud !</fr>
+			<it>Verifica non riuscita per questo nodo!</it>
+			<jp>このノードの点検に失敗しました</jp>
+			<pt>Verificação falhou para este nó.</pt>
+			<ru>Неудачная проверка для этого узла!</ru>
+			<zh>此节点的验证失败！</zh>
+		</String>
+
+		<String Key="property">
+			<de>Eigenschaft</de>
+			<us>property</us>
+			<es>propiedad</es>
+			<fr>propriété</fr>
+			<it>proprietà</it>
+			<jp>プロパティー</jp>
+			<pt>propriedade</pt>
+			<ru>cвойство</ru>
+			<zh>属性</zh>
+		</String>
+
+		<String Key="value">
+			<de>Wert</de>
+			<us>value</us>
+			<es>valor</es>
+			<fr>valeur</fr>
+			<it>valore</it>
+			<jp>値</jp>
+			<pt>valor</pt>
+			<ru>значение</ru>
+			<zh>值</zh>
+		</String>
+
+		<String Key="Import...">
+			<de>Importieren...</de>
+			<us>ייבא...</us>
+			<es>Importar...</es>
+			<fr>Importer...</fr>
+			<it>Importa...</it>
+			<jp>読み込み...</jp>
+			<pt>Importar...</pt>
+			<ru>Импорт</ru>
+			<zh>导入...</zh>
+		</String>
+
+		<String Key="Node Type">
+			<de>Knoten-Typ</de>
+			<us>Node Type</us>
+			<es>Tipo de nodo</es>
+			<fr>Type de noeud</fr>
+			<it>Tipo di nodo</it>
+			<jp>ノードタイプ</jp>
+			<pt>Tipo de nó</pt>
+			<ru>Тип Узла</ru>
+			<zh>节点类型</zh>
+		</String>
+
+		<String Key="Could not save skin file!">
+			<de>Konnte Skin-Datei nicht speichern!</de>
+			<us>Could not save skin file!</us>
+			<es>¡Imposible guardar archivo skin!</es>
+			<fr>Impossible d'enregistrer le fichier Skin !</fr>
+			<it>Impossibile salvare il file Skin!</it>
+			<jp>スキンファイルを保存できません</jp>
+			<pt>Não foi possível salvar o arquivo de capa.</pt>
+			<ru>Невозможно сохранить скин файл!</ru>
+			<zh>无法保存皮肤文件！</zh>
+		</String>
+
+		<String Key="Do you want to save %s!?">
+			<de>Wollen Sie %s speichern?</de>
+			<us>Do you want to save %s!?</us>
+			<es>¿¡Desea guardar %s!?</es>
+			<fr>Voulez-vous enregistrer %s ?</fr>
+			<it>Si desidera salvare %s!?</it>
+			<jp>%s として保存しますか？</jp>
+			<pt>Deseja salvar %s!?</pt>
+			<ru>Хотите сохранить %s!?</ru>
+			<zh>您想保存 %s！？</zh>
+		</String>
+
+		<String Key="Doesn't seem to be a valid skin file!">
+			<de>Keine gültige Skin-Datei!</de>
+			<us>Doesn't seem to be a valid skin file!</us>
+			<es>¡No parece que sea un archivo skin válido!</es>
+			<fr>Ne semble pas être un fichier Skin valable !</fr>
+			<it>Non sembra essere un file Skin valido!</it>
+			<jp>有効なスキンファイルではありません</jp>
+			<pt>Não parece ser um arquivo de capa válido.</pt>
+			<ru>Кажется недопустимый скин файл!</ru>
+			<zh>似乎不是一个有效的皮肤文件！</zh>
+		</String>
+
+		<String Key="Saving skin...">
+			<de>Speichere Skin-Datei...</de>
+			<us>Saving skin...</us>
+			<es>Guardando skin...</es>
+			<fr>Enregistrement du fichier Skin...</fr>
+			<it>Salvataggio del file Skin in corso...</it>
+			<jp>スキンの保存...</jp>
+			<pt>Salvando capa...</pt>
+			<ru>Сохранение скина...</ru>
+			<zh>正在保存皮肤...</zh>
+		</String>
+
+		<String Key="Skin Files">
+			<de>Skin-Dateien</de>
+			<us>Skin Files</us>
+			<es>Archivos skin</es>
+			<fr>Fichiers Skin</fr>
+			<it>File Skin</it>
+			<jp>スキンファイル</jp>
+			<pt>Arquivos de capa</pt>
+			<ru>Файлы &quot;Скинов&quot;</ru>
+			<zh>皮肤文件</zh>
+		</String>
+
+		<String Key="Skin XML Version">
+			<de>XML-Version von Skin</de>
+			<us>Skin XML Version</us>
+			<es>Versión Skin XML</es>
+			<fr>Version Skin XML</fr>
+			<it>Versione Skin XML</it>
+			<jp>スキンXMLバージョン</jp>
+			<pt>Versão da capa XML</pt>
+			<ru>XML версия скина</ru>
+			<zh>皮肤 XML 版本</zh>
+		</String>
+
+		<String Key="Skin parsing failed">
+			<de>Skin ist fehlerhaft</de>
+			<us>Skin parsing failed</us>
+			<es>Ha fallado el análisis del skin</es>
+			<fr>Défaut de Skin</fr>
+			<it>Analisi della Skin non riuscito</it>
+			<jp>スキンの読み込みに失敗しました</jp>
+			<pt>Falha na análise da capa</pt>
+			<ru>Анализ скина не удался</ru>
+			<zh>皮肤解析失败</zh>
+		</String>
+
+		<String Key="Use Compression">
+			<de>Komprimierung verwenden</de>
+			<us>Use Compression</us>
+			<es>Usar compresión</es>
+			<fr>Utiliser compression</fr>
+			<it>Usa compressione</it>
+			<jp>圧縮を使用</jp>
+			<pt>Usar compactação</pt>
+			<ru>Использовать сжатие</ru>
+			<zh>使用压缩</zh>
+		</String>
+
+		<String Key="Version 1 (compatible with myMP3 &lt;= 3.0)">
+			<de>Version 1 (kompatibel mit myMP3 &lt;= 3.0)</de>
+			<us>Version 1 (compatible with myMP3 &lt;= 3.0)</us>
+			<es>Versión 1 (compatible con myMP3 &lt;=3.0)</es>
+			<fr>Version 1 (Compatible avec myMP3 &lt;= 3.0)</fr>
+			<it>Versione 1 (compatibile con myMP3 &lt;= 3.0)</it>
+			<jp>バージョン1 (myMP3互換)</jp>
+			<pt>Versão 1 (compatível com myMP3 &lt;= 3.0)</pt>
+			<ru>Версия 1 (совместима с myMP3 &lt;= 3.0)</ru>
+			<zh>版本 1 （兼容 myMP3 &lt;= 3.0）</zh>
+		</String>
+
+		<String Key="Version 2 (skin tag)">
+			<de>Version 2 (Skin-Tag)</de>
+			<us>Version 2 (skin tag)</us>
+			<es>Versión 2 (skin tag)</es>
+			<fr>Version 2 (Skin Tag)</fr>
+			<it>Versione 2 (skin tag)</it>
+			<jp>バージョン2 (スキンタグ)</jp>
+			<pt>Versão 2 (identificador de capa)</pt>
+			<ru>Версия 2 (тэг скина)</ru>
+			<zh>版本 2 （皮肤标签）</zh>
+		</String>
+
+		<String Key="Version 3 (skin tag + templates tag)">
+			<de>Version 3 (Skin-Tag + Templates-Tag)</de>
+			<us>Version 3 (skin tag + templates tag)</us>
+			<es>Versión 3 (skin tag + plantillas)</es>
+			<fr>Version 3 (Skin Tag + Tag modèles)</fr>
+			<it>Versione 3 (skin tag + tag modelli)</it>
+			<jp>バージョン3 (スキンタグ+テンプレートタグ)</jp>
+			<pt>Versão 3 (identificador de capa + identificador de modelos)</pt>
+			<ru>Версия 3 (тэг скина + тэг шаблонов)</ru>
+			<zh>版本 3 （皮肤标签 + 模板标签）</zh>
+		</String>
+
+		<String Key="Would you like to import all bitmaps in project folder?">
+			<de>Wollen Sie alle Bitmaps in den Projekt-Ordner importieren?</de>
+			<us>Would you like to import all bitmaps in project folder?</us>
+			<es>¿Desea importar todos los bitmaps en el archivo de proyecto?</es>
+			<fr>Souhaitez-vous importer tous les bitmaps présents dans le dossier du projet ?</fr>
+			<it>Si desidera importare tutte le bitmap presenti nella cartella di progetto?</it>
+			<jp>すべてのビットマップファイルをプロジェクトフォルダーに読み込みますか？</jp>
+			<pt>Deseja importar todos os bitmaps na pasta do projeto?</pt>
+			<ru>Хотите импортировать все картинки в папку проекта?</ru>
+			<zh>您想在工程文件夹中导入所有位图吗？</zh>
+		</String>
+
+		<String Key="\nContext: ">
+			<de>Kontext: </de>
+			<us>\nContext: </us>
+			<es>\nContexto: </es>
+			<fr>Contexte :</fr>
+			<it>Contesto:</it>
+			<jp>コンテキスト:</jp>
+			<pt>\nContexto: </pt>
+			<ru>\nContext: </ru>
+			<zh>\n上下文：</zh>
+		</String>
+
+		<String Key="Backgrounds">
+			<de>Hintergrund</de>
+			<us>Backgrounds</us>
+			<es>Fondos</es>
+			<fr>Arrière-plans</fr>
+			<it>Sfondi</it>
+			<jp>背景</jp>
+			<pt>Fundos</pt>
+			<ru>Задние планы</ru>
+			<zh>背景</zh>
+		</String>
+
+		<String Key="Change Type...">
+			<de>Typ ändern...</de>
+			<us>Change Type...</us>
+			<es>Cambiar tipo...</es>
+			<fr>Changer type...</fr>
+			<it>Cambia tipo...</it>
+			<jp>タイプの変更...</jp>
+			<pt>Alterar tipo...</pt>
+			<ru>Сменить тип...</ru>
+			<zh>改变类型...</zh>
+		</String>
+
+		<String Key="Could not import all resources!">
+			<de>Konnte nicht alle Ressourcen importieren!</de>
+			<us>Could not import all resources!</us>
+			<es>¡Imposible importar todos los recursos!</es>
+			<fr>Impossible d'importer toutes les ressources !</fr>
+			<it>Impossibile importare tutte le risorse!</it>
+			<jp>すべてのリソースは読み込めません</jp>
+			<pt>Não foi possível importar todos os recursos.</pt>
+			<ru>Невозможно импортировать все ресурсы!</ru>
+			<zh>无法导入所有资源！</zh>
+		</String>
+
+		<String Key="Create Node...">
+			<de>Knoten erzeugen...</de>
+			<us>Create Node...</us>
+			<es>Crear nodo...</es>
+			<fr>Création d'un noeud...</fr>
+			<it>Creazione di un nodo...</it>
+			<jp>ノードの作成...</jp>
+			<pt>Criar nó...</pt>
+			<ru>Создать узел...</ru>
+			<zh>创建节点...</zh>
+		</String>
+
+		<String Key="Data Entry">
+			<de>Wertefeld</de>
+			<us>Data Entry</us>
+			<es>Introducción de datos</es>
+			<fr>Champs de valeur</fr>
+			<it>Immissione dati</it>
+			<jp>データエントリー</jp>
+			<pt>Entrada de dados</pt>
+			<ru>Ввод данных</ru>
+			<zh>数据条目</zh>
+		</String>
+
+		<String Key="Import Bitmap...">
+			<de>Bitmap importieren...</de>
+			<us>Import Bitmap...</us>
+			<es>Importar bitmap...</es>
+			<fr>Importer Bitmap...</fr>
+			<it>Importa bitmap...</it>
+			<jp>ビットマップの読み込み...</jp>
+			<pt>Importar bitmap...</pt>
+			<ru>Импорт точечного рисунка...</ru>
+			<zh>导入位图...</zh>
+		</String>
+
+		<String Key="Knobs">
+			<de>Drehregler</de>
+			<us>Knobs</us>
+			<es>Diales</es>
+			<fr>Potentiomètres</fr>
+			<it>Potenziometri</it>
+			<jp>ノブ</jp>
+			<pt>Botões giratórios</pt>
+			<ru>Ручки</ru>
+			<zh>旋钮</zh>
+		</String>
+
+		<String Key="Labels">
+			<de>Text-Labels</de>
+			<us>Labels</us>
+			<es>Etiquetas</es>
+			<fr>Étiquettes</fr>
+			<it>Etichette</it>
+			<jp>ラベル</jp>
+			<pt>Etiquetas</pt>
+			<ru>Надписи</ru>
+			<zh>标签</zh>
+		</String>
+
+		<String Key="Others">
+			<de>Andere</de>
+			<us>Others</us>
+			<es>Otros</es>
+			<fr>Autres</fr>
+			<it>Altri</it>
+			<jp>その他</jp>
+			<pt>Outros</pt>
+			<ru>Другое</ru>
+			<zh>其它</zh>
+		</String>
+
+		<String Key="Switches">
+			<de>Schalter</de>
+			<us>Switches</us>
+			<es>Conmutadores</es>
+			<fr>Commutateurs</fr>
+			<it>Interruttori</it>
+			<jp>機能のオン/オフ設定</jp>
+			<pt>Opções de barra</pt>
+			<ru>Переключатели</ru>
+			<zh>切换</zh>
+		</String>
+
+		<String Key="Select Template">
+			<de>Vorlage auswählen</de>
+			<us>Select Template</us>
+			<es>Seleccionar plantilla</es>
+			<fr>Sélectionner modèle</fr>
+			<it>Seleziona modello</it>
+			<jp>テンプレートを選択</jp>
+			<pt>Selecionar modelo</pt>
+			<ru>Выбрать шаблон</ru>
+			<zh>选择模板</zh>
+		</String>
+
+		<String Key="Align Bottoms">
+			<de>Unten bündig</de>
+			<us>Align Bottoms</us>
+			<es>Alineación inferior</es>
+			<fr>Aligner par le bas</fr>
+			<it>Allinea in basso</it>
+			<jp>下側に整列</jp>
+			<pt>Alinhar partes de baixo</pt>
+			<ru>Выровнять нижние</ru>
+			<zh>底对齐</zh>
+		</String>
+
+		<String Key="Align Centers">
+			<de>Zentriert (oben/unten)</de>
+			<us>Align Centers</us>
+			<es>Alineación central</es>
+			<fr>Aligner les centres</fr>
+			<it>Allinea all'asse verticale</it>
+			<jp>水平中央に整列</jp>
+			<pt>Alinhar centros</pt>
+			<ru>Выровнять центральные</ru>
+			<zh>居中对齐</zh>
+		</String>
+
+		<String Key="Align Lefts">
+			<de>Linksbündig</de>
+			<us>Align Lefts</us>
+			<es>Alineación izquierda</es>
+			<fr>Aligner à gauche</fr>
+			<it>Allinea a sinistra</it>
+			<jp>左側に整列</jp>
+			<pt>Alinhar esquerdos</pt>
+			<ru>Выровнять левые</ru>
+			<zh>左对齐</zh>
+		</String>
+
+		<String Key="Align Middles">
+			<de>Mittig (links/rechts)</de>
+			<us>Align Middles</us>
+			<es>Alineación media</es>
+			<fr>Aligner au milieu</fr>
+			<it>Allinea all'asse orizzontale</it>
+			<jp>垂直中央に整列</jp>
+			<pt>Alinhar meios</pt>
+			<ru>Выровнять средние</ru>
+			<zh>居中对齐</zh>
+		</String>
+
+		<String Key="Align Rights">
+			<de>Rechtsbündig</de>
+			<us>Align Rights</us>
+			<es>Alineación derecha</es>
+			<fr>Aligner à droite</fr>
+			<it>Allinea a destra</it>
+			<jp>右側に整列</jp>
+			<pt>Alinhar direitos</pt>
+			<ru>Выровнять правые</ru>
+			<zh>右对齐</zh>
+		</String>
+
+		<String Key="Align Tops">
+			<de>Oben bündig</de>
+			<us>Align Tops</us>
+			<es>Alineación superior</es>
+			<fr>Aligner en haut</fr>
+			<it>Allinea in alto</it>
+			<jp>上側に整列</jp>
+			<pt>Alinhar topos</pt>
+			<ru>Выровнять верхние</ru>
+			<zh>顶对齐</zh>
+		</String>
+
+		<String Key="Enter Text">
+			<de>Text eingeben</de>
+			<us>Enter Text</us>
+			<es>Introducir texto</es>
+			<fr>Saisir texte</fr>
+			<it>Inserisci testo</it>
+			<jp>テキスト入力</jp>
+			<pt>Digite texto</pt>
+			<ru>Ввод Текста</ru>
+			<zh>输入文本</zh>
+		</String>
+
+		<String Key="New Title">
+			<de>Neuer Text</de>
+			<us>כותרת חדשה</us>
+			<es>Nuevo título</es>
+			<fr>Nouveau texte</fr>
+			<it>Nuovo titolo</it>
+			<jp>新規タイトル</jp>
+			<pt>Novo título</pt>
+			<ru>Новое название</ru>
+			<zh>新标题</zh>
+		</String>
+
+		<String Key="Space Evenly Horizontally">
+			<de>Gleichmäßig horizontal verteilen</de>
+			<us>Space Evenly Horizontally</us>
+			<es>Espaciar horizontalmente</es>
+			<fr>Espace réparti horizontalement</fr>
+			<it>Ripartisci uniformemente in orizzontale</it>
+			<jp>水平方向に等間隔スペース</jp>
+			<pt>Espaçar horizontalmente de modo uniforme</pt>
+			<ru>Разместить равномерно по горизонтали</ru>
+			<zh>水平均匀间隔</zh>
+		</String>
+
+		<String Key="Space Evenly Vertically">
+			<de>Gleichmäßig vertikal verteilen</de>
+			<us>Space Evenly Vertically</us>
+			<es>Espaciar verticalmente</es>
+			<fr>Espace réparti verticalement</fr>
+			<it>Ripartisci uniformemente in orizzontale</it>
+			<jp>垂直方向に等間隔スペース</jp>
+			<pt>Espaçar verticalmente de modo uniforme</pt>
+			<ru>Разместить равномерно по вертикали</ru>
+			<zh>垂直均匀间隔</zh>
+		</String>
+
+		<String Key="To Background">
+			<de>In den Hintergrund</de>
+			<us>To Background</us>
+			<es>Al fondo</es>
+			<fr>Vers l'arrière</fr>
+			<it>In secondo piano</it>
+			<jp>背面へ送る</jp>
+			<pt>Para o fundo</pt>
+			<ru>На задний план</ru>
+			<zh>到背景</zh>
+		</String>
+
+		<String Key="All Templates">
+			<de>Alle Vorlagen</de>
+			<us>All Templates</us>
+			<es>Todas las plantillas</es>
+			<fr>Tous les modèles</fr>
+			<it>Tutti i modelli</it>
+			<jp>すべてのテンプレート</jp>
+			<pt>Todos os modelos</pt>
+			<ru>Все шаблоны</ru>
+			<zh>全部模板</zh>
+		</String>
+
+		<String Key="Control Parameter Assignment">
+			<de>Zuordnung von Bedienelementen zu Parametern</de>
+			<us>Control Parameter Assignment</us>
+			<es>Asignación de parámetros de control</es>
+			<fr>Assignation des paramètres de contrôle</fr>
+			<it>Assegnazione dei parametri di controllo</it>
+			<jp>コントロールパラメーターの割り当て</jp>
+			<pt>Atribuição de parâmetro de controle</pt>
+			<ru>Назначение параметров управления</ru>
+			<zh>控制参数指定</zh>
+		</String>
+
+		<String Key="in">
+			<de>in</de>
+			<us>פנימי</us>
+			<es>en</es>
+			<fr>dans</fr>
+			<it>in</it>
+			<jp>in</jp>
+			<pt>em</pt>
+			<ru>в</ru>
+			<zh>在</zh>
+		</String>
+
+		<String Key="Connecting ControlRoom">
+			<us>Connecting ControlRoom</us>
+		</String>
+
+		<String Key="Diff to local Context Mean">
+			<us>Diff to local Context Mean</us>
+		</String>
+
+		<String Key="Export Save exported script archive">
+			<us>Export Save exported script archive</us>
+		</String>
+
+		<String Key="PL">
+			<us>PL</us>
+		</String>
+
+		<String Key="PV">
+			<us>PV</us>
+		</String>
